@@ -1,0 +1,301 @@
+!DOCTYPE html>
+<html>
+<head>
+<!-- title -->
+<title>Corona Map Pakistan</title>
+
+<!-- custom theme -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="keywords" content="Karachi NGOs, NGO Geo-tagging,Get your NGO recognised,Karachi Civic Innovation lab, Pakistan Innovation Foundation" />
+<!-- custom theme -->
+
+<!--css-->
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="css/custom.css" />
+<link rel="icon" type="image/png" href="img/logo.png">
+
+<!--css -->
+</head>
+<body>
+
+  <nav class="navbar navbar-default navbar-expand-lg navbar-dark bg-dark" id="mainNav">
+    <a class="logo" href="index.php"><img src="img/logo-white.png"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse mr-4" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link active" href="index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="map.html">Map</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="geotag.html">Add Facility<span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact.html">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+	<div class="container text-box">
+  	<div class="row">
+    	<div class="col-12 text-center border text">
+      	<h5><em>"Help us find the desired pin location.<br>
+      	Enter the coordinates or click Map Position button to find the location on map"</em></h5>
+    	</div>
+  	</div>
+
+    <div class="container mt-5">
+    	<div class="row button-alignment">
+    	<button type="submit" onclick="myMap();" class="btn btn-success btn-lg">Map Position</button>
+    </div>
+    </div>
+    <!-- <div class="container">
+      <div class="row">
+      	<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 d-flex justify-content-center mt-5">
+      	   <button type="submit" onclick="getLocation();" class="btn btn-success btn-lg">Current position</button>
+      	</div>
+      	<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 d-flex justify-content-center mt-5">
+      	   <button type="submit" onclick="myMap();" class="btn btn-success btn-lg">Map Position</button>
+      	</div>
+    	</div>
+	</div> -->
+	<section>
+		<div class="container">
+				<div class="form-group">
+					<label class="control-label">Latitude</label>
+					<input type="text" class="form-control" name="displayLat" id="displayLat">
+				</div>
+
+				<div class="form-group">
+					<label class="control-label">Longitude</label>
+					<input type="text" class="form-control" name="displayLong" id="displayLong">
+					</div>
+
+        <div class="row button-alignment">
+					<button type="submit" class="btn btn-success btn-lg" onclick="tagging()"/>Submit Location</button>
+        </div>
+			<!-- </form> -->
+		</div>
+
+
+	</section>
+	</div>
+  <div class="row mt-5">
+        <div class="col-md-12">
+            <input id="pac-input" class="controls" type="text" placeholder="Search Your Location" style="display:none;"/>
+            <div class="container-fluid " id="googleMap"></div>
+        </div>
+  </div>
+  <!--// js -->
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.0.0/sweetalert2.all.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.validation/1.15.1/jquery.validate.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyC1soonI8J182Cmu5-t7nI3itJcIhQ3JhM&callback"></script>
+<script>
+var latitude = '';
+var longitude = '';
+var myMarker = '';
+var icon = {
+  url: "img/map-marker.svg",
+  scaledSize: new google.maps.Size(30, 70) // scaled size
+  };
+
+//
+// function init() {
+//     var center = new google.maps.LatLng(30.375320, 69.345116);
+//       var mapOptions = {
+//         zoom: 5.5,
+//         center: center,
+//         mapTypeId: google.maps.MapTypeId.ROADMAP
+//       }
+//       var map = new google.maps.Map(document.getElementById("googleMap"), mapOptions);
+//   }
+
+function tagType() {
+    var url = document.location.href,
+        params = url.split('?')[1].split('&'),
+        data = {}, tmp;
+    for (var i = 0, l = params.length; i < l; i++) {
+         tmp = params[i].split('=');
+         data[tmp[0]] = tmp[1];
+    }
+
+    if (data.type === 'testing_centre') {
+        return "form_testing.html?"
+    } else if (data.type === 'isolation_facility') {
+        return "form_isolation.html?"
+    } else if (data.type === 'hospital') {
+        return "form_hospitals.html?"
+    } else {
+        return "form_pharmacy.html?"
+    }
+}
+
+function tagging() {
+  var formUrl = tagType();
+  url = "http://localhost/coronamap/" + formUrl + "latitude=" + encodeURIComponent(latitude) + '&' + "longitude=" + encodeURIComponent(longitude);
+  document.location.href = url;
+}
+
+var x = document.getElementById("current");
+
+function showPosition(position) {
+  console.log(position.coords.latitude.toFixed(6));
+	document.getElementById('displayLat').value = position.coords.latitude.toFixed(6);
+	document.getElementById('displayLong').value = position.coords.longitude.toFixed(6);
+
+  latitude = position.coords.latitude.toFixed(6);
+  longitude = position.coords.longitude.toFixed(6);
+	}
+
+function showError(error) {
+    switch(error.code) {
+        case error.PERMISSION_DENIED:
+            x.innerHTML = "User denied the request for Geolocation."
+            break;
+        case error.POSITION_UNAVAILABLE:
+            x.innerHTML = "Location information is unavailable."
+            break;
+        case error.TIMEOUT:
+            x.innerHTML = "The request to get user location timed out."
+            break;
+        case error.UNKNOWN_ERROR:
+            x.innerHTML = "An unknown error occurred."
+            break;
+    }
+}
+
+function getLocation() {
+	var mapProp= {lat:24.860852, lng: 67.010508};
+	var map=new google.maps.Map(document.getElementById('googleMap'),
+                              {center: mapProp,
+          zoom: 14,
+          });
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition, showError);
+		      x.innerHTML = "Showing your location";
+    } else {
+          x.innerHTML = "Geolocation is not supported by this browser.";
+    }
+
+}
+
+function myMap()
+{
+  var mapProp= {lat:30.375320, lng: 69.345116};
+  var map=new google.maps.Map(document.getElementById('googleMap'),
+                              {center: mapProp,
+          zoom: 5.5,
+          });
+
+  myMarker = new google.maps.Marker({
+    position: mapProp,
+	  map: map,
+	  icon: icon,
+    draggable: true
+  });
+
+  var search = document.getElementById('pac-input');
+  search.style.display = 'block';
+
+  var input = document.getElementById('pac-input');
+  var searchBox = new google.maps.places.SearchBox(input);
+
+  // Bias the SearchBox results towards current map's viewport.
+  map.addListener('bounds_changed', function() {
+    searchBox.setBounds(map.getBounds());
+  });
+
+  // Listen for the event fired when the user selects a prediction and retrieve
+  // more details for that place.
+  searchBox.addListener('places_changed', function() {
+    var places = searchBox.getPlaces();
+
+    if (places.length == 0) {
+      return;
+    }
+
+    var bounds = new google.maps.LatLngBounds();
+    places.forEach(function(place) {
+      if (!place.geometry) {
+        console.log("Returned place contains no geometry");
+        return;
+      }
+
+      myMarker.setMap(null);
+      myMarker = new google.maps.Marker({
+        position: mapProp,
+    	  map: map,
+    	  icon: icon,
+        draggable: true,
+        position: place.geometry.location
+      });
+      if (place.geometry.viewport) {
+        // Only geocodes have viewport.
+        bounds.union(place.geometry.viewport);
+      } else {
+        bounds.extend(place.geometry.location);
+      }
+    });
+    map.fitBounds(bounds);
+
+    google.maps.event.addListener(myMarker, 'dragend', function (evt) {
+        console.log('myMarker');
+        document.getElementById('displayLat').value = this.getPosition().lat().toFixed(6);
+        document.getElementById('displayLong').value = this.getPosition().lng().toFixed(6);
+        latitude = this.getPosition().lat().toFixed(6);
+        longitude = this.getPosition().lng().toFixed(6);
+    });
+
+  map.setCenter(myMarker.position);
+  myMarker.setMap(map);
+  });
+
+  google.maps.event.addListener(myMarker, 'dragend', function (evt) {
+      console.log('myMarker');
+    	document.getElementById('displayLat').value = this.getPosition().lat().toFixed(6);
+    	document.getElementById('displayLong').value = this.getPosition().lng().toFixed(6);
+      latitude = this.getPosition().lat().toFixed(6);
+      longitude = this.getPosition().lng().toFixed(6);
+	});
+
+map.setCenter(myMarker.position);
+myMarker.setMap(map);
+}
+
+$(document).ready(function() {
+	      $("#marker").validate({
+			rules: {
+			displayLat: {
+	          required: true
+	        },
+
+			displayLong: {
+	          required: true
+	        }
+
+	        },
+	        messages: {
+			},
+		  highlight: function (element) {
+            $(element).parent().addClass('error')
+        },
+        unhighlight: function (element) {
+            $(element).parent().removeClass('error')
+        }
+
+        })
+});
+</script>
+<!--// js -->
+
+</body>
+</html>

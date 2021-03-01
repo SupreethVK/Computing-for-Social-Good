@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- title -->
+<title>Medmap</title>
+
+<!-- custom theme -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="keywords" content="CovidMap. Coronavirus Map, Coronavirus Map Pakistan, Covid Map Pakistan, Coronavirus Testing centres Pakistan, Covid19 Testing centres Pakistan, Coronavirus Isolation facilities Pakistan, Pharmacies open in Pakistan in Corona, Where to donate in Pakistan for Corona," />
+<meta property="og:title" content="Covid Health Map Pakistan">
+<meta property="og:description" content="This map contains location based data about health facilities available in Pakistan for coronavirus such as testing centers, hospitals, quarantine facilities and pharmacies.">
+<meta property="og:image" content="img/map.png">
+
+<!-- custom theme -->
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="css/custom.css" />
+<link rel="stylesheet" type="text/css" href="css/sidebar.css" />
+<link rel="icon" type="image/png" href="img/logo.png">
+
+</head>
+<body onload="initAutocomplete();">
+
+  <nav class="navbar navbar-default navbar-expand-lg navbar-dark bg-dark" id="mainNav">
+    <a class="logo" href="index.php"><img src="img/logo-white.png"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse mr-4" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link active" href="index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="map.html">Map<span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="geotag.html">Add Facility</a>
+        </li>
+  	    <li class="nav-item">
+          <a class="nav-link" href="contact.html">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+<div class="row">
+  <div class="col-md-12">
+      <input id="pac-input" class="controls" type="text" placeholder="Search Your Location">
+      <div class="container-fluid " id="googleMap"></div>
+  <div class="col-md-1 container">
+  <ul class="menu">
+		<li title="Testing Centres">
+	        <a onclick="testingcentres();">
+                <span class="icon-laboratory glyph fs1">
+                </span>
+            </a>
+        </li>
+		<li title="Isolation Facilities">
+            <a onclick="isolationfacilities();">
+                <span class="icon-isolation glyph fs1">
+                </span>
+            </a>
+        </li>
+        <li title="Tertiary Hospitals">
+            <a onclick="tertiary_hospitals();">
+                <span class="icon-hospital glyph fs1">
+                </span>
+            </a>
+        </li>
+        <li title="Pharmacies">
+            <a onclick="pharmacies();">
+                <span class="icon-drug glyph fs1">
+                </span>
+            </a>
+        </li>
+
+    </ul>
+</div>
+</div>
+
+<!--// js -->
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.0.0/sweetalert2.all.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyC1soonI8J182Cmu5-t7nI3itJcIhQ3JhM&callback"></script>
+
+<script type="text/javascript">
+var map;
+var center = new google.maps.LatLng(34.3023639, -118.8635354);
+var geocoder = new google.maps.Geocoder();
+var infowindow = new google.maps.InfoWindow();
+var markersArray = [];
+
+function initAutocomplete() {
+  var mapOptions = {
+    zoom: 5.5,
+    center: center,
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  }
+  map = new google.maps.Map(document.getElementById("googleMap"), mapOptions);
+
+  var input = document.getElementById('pac-input');
+  var searchBox = new google.maps.places.SearchBox(input);
+
+  // Bias the SearchBox results towards current map's viewport.
+  map.addListener('bounds_changed', function() {
+    searchBox.setBounds(map.getBounds());
+  });
+
+  // Listen for the event fired when the user selects a prediction and retrieve
+  // more details for that place.
+  searchBox.addListener('places_changed', function() {
+    var places = searchBox.getPlaces();
+
+    if (places.length == 0) {
+      return;
+    }
+
+    var bounds = new google.maps.LatLngBounds();
+    places.forEach(function(place) {
+      if (!place.geometry) {
+        console.log("Returned place contains no geometry");
+        return;
+      }
+
+      if (place.geometry.viewport) {
+        // Only geocodes have viewport.
+        bounds.union(place.geometry.viewport);
+      } else {
+        bounds.extend(place.geometry.location);
+      }
+    });
+    map.fitBounds(bounds);
+  });
+}
+
+function clearOverlays() {
+  for (var i = 0; i < markersArray.length; i++ ) {
+    markersArray[i].setMap(null);
+  }
+  markersArray.length = 0;
+}
+
+
+function navigate(latitude, longitude) {
+  var url = "http://maps.google.com/maps?daddr=" + latitude + "," + longitude + "&amp;ll="
+  var newUrl = new URL(url);
+  window.location = newUrl;
+}
+
+function testingcentres() {
+clearOverlays();
+makeRequest('location_testingcentres.php', function(data) {
+        var data = JSON.parse(data.responseText);
+        for (var i = 0; i < data.length; i++) {
+			displayLocationtesting(data[i], i);
+		}
+    });
+}
+
+function isolationfacilities() {
+clearOverlays();
+makeRequest('location_isolationfacilities.php', function(data) {
+        var data = JSON.parse(data.responseText);
+        for (var i = 0; i < data.length; i++) {
+			displayLocationisolation(data[i], i);
+		}
+    });
+}
+
+function tertiary_hospitals() {
+clearOverlays();
+makeRequest('location_hospitals.php', function(data) {
+        var data = JSON.parse(data.responseText);
+        for (var i = 0; i < data.length; i++) {
+			displayLocationhospitals(data[i], i);
+		}
+    });
+}
+
+function pharmacies() {
+clearOverlays();
+makeRequest('location_pharmacies.php', function(data) {
+        var data = JSON.parse(data.responseText);
+        for (var i = 0; i < data.length; i++) {
+			displayLocationpharmacies(data[i], i);
+		}
+    });
+}
+
+function makeRequest(url, callback) {
+    var request;
+    if (window.XMLHttpRequest) {
+        request = new XMLHttpRequest(); // IE7+, Firefox, Chrome, Opera, Safari
+    } else {
+        request = new ActiveXObject("Microsoft.XMLHTTP"); // IE6, IE5
+    }
+    request.onreadystatechange = function() {
+        if (request.readyState == 4 && request.status == 200) {
+            callback(request);
+        }
+    }
+    request.open("GET", url, true);
+    request.send();
+}
+
+function displayLocationtesting(location, index) {
+	  var length = location.length;
+    for  (var j=index; j< length; j++) {
+      		var content =   '<div class="infoWindow"><strong>'  + location[j].name + '</strong>'	+ '<br/><a style="color: blue;">Click marker for more info...<a></div>';
+      		var detailed_content = location[j];
+          var position = new google.maps.LatLng(parseFloat(location[j].latitude), parseFloat(location[j].longitude));
+          var icon = {
+            url: "img/testing_pin.svg",
+            scaledSize: new google.maps.Size(40, 80) // scaled size
+          };
+          var marker = new google.maps.Marker({
+                  map: map,
+                  position: position,
+                  icon: icon,
+                  title: location.name
+              });
+
+      		markersArray.push(marker);
+
+      	  google.maps.event.addListener(marker, 'mouseover', (function(marker,content,infowindow) {
+      			return function() {
+                  infowindow.setContent(content);
+                  infowindow.open(map,marker);
+      			}
+          })(marker,content,infowindow));
+
+      		google.maps.event.addListener(marker, 'mouseout', function() {
+      	     infowindow.close();
+          });
+
+      	google.maps.event.addListener(marker, 'click', (function(marker,detailed_content,infowindow, location, position) {
+            return function() {
+              var swal_html=
+                      `<table id="table" border=1>
+                                <tbody>
+                                    <tr>
+                                        <td> Name </td>
+                                        <td>` + detailed_content.name + `</td>
+                                    </tr>
+                                    <tr>
+                                        <td> Address </td>
+                                        <td>` + detailed_content.address + `</td>
+                                    </tr>
+                                    <tr>
+                                        <td> Testing Capacity (tests/day) </td>
+                                        <td>` + detailed_content.testing_capacity + `</td>
+                                    </tr>
+                                    <tr>
+                                        <td> Status </td>
+                                        <td>` + detailed_content.status + `</td>
+                                    </tr>
+                        </tbody>
+                        </table>`
+                swal({
+                        title:"Details",
+                        html: swal_html,
+                        showCancelButton: true,
+                        cancelButtonText: 'OK',
+                        confirmButtonText: 'Navigate'
+                      }).then(function(result){
+                            if(result.value){
+                                navigate(detailed_content.latitude, detailed_content.longitude);
+                            }else {
+                               console.log('cancel');
+                            }
+
+                        });
+      			  }
+        })(marker,detailed_content,infowindow));
+	}
+}
+
+
+function displayLocationisolation(location, index) {
+	var length = location.length;
+    for  (var j=index; j< length; j++) {
+  		var content =   '<div class="infoWindow"><strong>'  + location[j].name + '</strong>' + '<br/><a style="color: blue;">Click marker for more info...<a></div>';
+  		var detailed_content = location[j];
+      var position = new google.maps.LatLng(parseFloat(location[j].latitude), parseFloat(location[j].longitude));
+      var icon = {
+        url: "img/isolation_pin.svg",
+        scaledSize: new google.maps.Size(40, 80) // scaled size
+      };
+      var marker = new google.maps.Marker({
+              map: map,
+              position: position,
+              icon: icon,
+              title: location.name
+      });
+
+		 markersArray.push(marker);
+	   google.maps.event.addListener(marker, 'mouseover', (function(marker,content,infowindow) {
+			return function() {
+            infowindow.setContent(content);
+            infowindow.open(map,marker);
+			      }
+      })(marker,content,infowindow));
+
+		google.maps.event.addListener(marker, 'mouseout', function() {
+	         infowindow.close();
+    });
+
+	google.maps.event.addListener(marker, 'click', (function(marker,detailed_content,infowindow) {
+    console.log(detailed_content);
+    return function() {
+      var swal_html=
+              `<table id="table" border=1>
+                        <tbody>
+                            <tr>
+                                <td> Name </td>
+                                <td>` + detailed_content.name + `</td>
+                            </tr>
+                            <tr>
+                                <td> Address </td>
+                                <td>` + detailed_content.address + `</td>
+                            </tr>
+                            <tr>
+                                <td> Beds </td>
+                                <td>` + detailed_content.beds + `</td>
+                            </tr>
+                            <tr>
+                                <td> Doctors </td>
+                                <td>` + detailed_content.doctors + `</td>
+                            </tr>
+                            <tr>
+                                <td> Patients Admitted </td>
+                                <td>` + detailed_content.pts_admitted + `</td>
+                            </tr>
+                            <tr>
+                                <td> Patients Recovered </td>
+                                <td>` + detailed_content.pts_recovered + `</td>
+                            </tr>
+                </tbody>
+                </table>`
+        swal({
+                title:"Details",
+                html: swal_html,
+                showCancelButton: true,
+                cancelButtonText: 'OK',
+                confirmButtonText: 'Navigate'
+              }).then(function(result){
+                    if(result.value){
+                        navigate(detailed_content.latitude, detailed_content.longitude);
+                    }else {
+                       console.log('cancel');
+                    }
+
+                });
+      }
+    })(marker,detailed_content,infowindow));
+	}
+}
+
+function displayLocationhospitals(location, index) {
+  var length = location.length;
+    for  (var j=index; j< length; j++) {
+  		var content =   '<div class="infoWindow"><strong>'  + location[j].name + '</strong>' + '<br/><a style="color: blue;">Click marker for more info...<a></div>';
+  		var detailed_content = location[j];
+      var position = new google.maps.LatLng(parseFloat(location[j].latitude), parseFloat(location[j].longitude));
+      var icon = {
+        url: "img/hospital_pin.svg",
+        scaledSize: new google.maps.Size(30, 40) // scaled size
+      };
+      var marker = new google.maps.Marker({
+              map: map,
+              position: position,
+              icon: icon,
+              title: location.name
+      });
+
+		 markersArray.push(marker);
+	   google.maps.event.addListener(marker, 'mouseover', (function(marker,content,infowindow) {
+			return function() {
+            infowindow.setContent(content);
+            infowindow.open(map,marker);
+			      }
+      })(marker,content,infowindow));
+
+		google.maps.event.addListener(marker, 'mouseout', function() {
+	         infowindow.close();
+    });
+
+	google.maps.event.addListener(marker, 'click', (function(marker,detailed_content,infowindow) {
+    console.log(detailed_content);
+    return function() {
+      var swal_html=
+              `<table id="table" border=1>
+                        <tbody>
+                        <tr>
+                            <td> Name </td>
+                            <td>` + detailed_content.name + `</td>
+                        </tr>
+                            <td> Beds </td>
+                            <td>` + detailed_content.beds + `</td>
+                        </tr>
+                        <tr>
+                            <td> Ventilators </td>
+                            <td>` + detailed_content.ventilators + `</td>
+                        </tr>
+                        <tr>
+                            <td> Doctors </td>
+                            <td>` + detailed_content.doctors + `</td>
+                        </tr>
+                        </tbody>
+                </table>`
+        swal({
+                title:"Details",
+                html: swal_html,
+                showCancelButton: true,
+                cancelButtonText: 'OK',
+                confirmButtonText: 'Navigate'
+              }).then(function(result){
+                    if(result.value){
+                        navigate(detailed_content.latitude, detailed_content.longitude);
+                    }else {
+                       console.log('cancel');
+                    }
+
+                });
+      }
+    })(marker,detailed_content,infowindow));
+	}
+}
+
+function displayLocationpharmacies(location, index) {
+  var length = location.length;
+    for  (var j=index; j< length; j++) {
+  		var content =   '<div class="infoWindow"><strong>'  + location[j].name + '</strong>' + '<br/><a style="color: blue;">Click marker for more info...<a></div>';
+  		var detailed_content = location[j];
+      var position = new google.maps.LatLng(parseFloat(location[j].latitude), parseFloat(location[j].longitude));
+      var icon = {
+        url: "img/pharmacy_pin.svg",
+        scaledSize: new google.maps.Size(40, 80) // scaled size
+      };
+      var marker = new google.maps.Marker({
+              map: map,
+              position: position,
+              icon: icon,
+              title: location.name
+      });
+
+		 markersArray.push(marker);
+	   google.maps.event.addListener(marker, 'mouseover', (function(marker,content,infowindow) {
+			return function() {
+            infowindow.setContent(content);
+            infowindow.open(map,marker);
+			      }
+      })(marker,content,infowindow));
+
+		google.maps.event.addListener(marker, 'mouseout', function() {
+	         infowindow.close();
+    });
+
+	google.maps.event.addListener(marker, 'click', (function(marker,detailed_content,infowindow) {
+    console.log(detailed_content);
+    return function() {
+      var swal_html=
+              `<table id="table" border=1>
+                        <tbody>
+                            <tr>
+                                <td> Name </td>
+                                <td>` + detailed_content.name + `</td>
+                            </tr>
+                            <tr>
+                                <td> Address </td>
+                                <td>` + detailed_content.address + `</td>
+                            </tr>
+                            <tr>
+                                <td> Contact </td>
+                                <td>` + detailed_content.contact_number + `</td>
+                            </tr>
+                </tbody>
+                </table>`
+        swal({
+                title:"Details",
+                html: swal_html,
+                showCancelButton: true,
+                cancelButtonText: 'OK',
+                confirmButtonText: 'Navigate'
+              }).then(function(result){
+                    if(result.value){
+                        navigate(detailed_content.latitude, detailed_content.longitude);
+                    }else {
+                       console.log('cancel');
+                    }
+
+                });
+      }
+    })(marker,detailed_content,infowindow));
+	}
+}
+
+</script>
+
+<!--// js -->
+
+</body>
+</html>
