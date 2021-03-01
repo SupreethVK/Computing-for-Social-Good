@@ -1,866 +1,434 @@
-01 - Alameda,11210,Alameda Hospital,"Alameda
-(37.7626572, -122.2538986)"
-01 - Alameda,11322,Alta Bates Summit Medical Center,"Oakland
-(37.8208094, -122.2630806)"
-01 - Alameda,11338,Alta Bates Summit Medical Center - Summit Campus,"Oakland
-(37.8199008, -122.2643586)"
-01 - Alameda,11214,Alta Bates Summit Medical Center-Alta Bates Campus,"Berkeley
-(37.8559265, -122.257309)"
-01 - Alameda,11242,Children's Hospital & Research Center Oakland,"Oakland
-(37.8368568, -122.2671051)"
-01 - Alameda,18180,Eden Medical Center,"Castro Valley
-(37.69838, -122.0873925)"
-01 - Alameda,11268,Fairmont Hospital,"San Leandro
-(37.7100449, -122.1153183)"
-01 - Alameda,11288,Highland Hospital,"Oakland
-(37.7991754, -122.2310563)"
-01 - Alameda,14509,Kaiser Foundation Hospital - Fremont,"Fremont
-(37.5518335, -121.9776935)"
-01 - Alameda,11295,Kaiser Foundation Hospital - Hayward,"Hayward
-(37.6305771, -122.0951462)"
-01 - Alameda,11296,Kaiser Foundation Hospital - Oakland Campus,"Oakland
-(37.824852, -122.2571869)"
-01 - Alameda,18206,Kaiser Foundation Hospital - Oakland/Richmond,"Oakland
-(37.8233092, -122.2592711)"
-01 - Alameda,18186,Kaiser Foundation Hospital - San Leandro,"San Leandro
-(37.7062596, -122.1692482)"
-01 - Alameda,11321,Kindred Hospital - San Francisco Bay Area,"San Leandro
-(37.7167397, -122.1298676)"
-01 - Alameda,11256,San Leandro Hospital,"San Leandro
-(37.7145685, -122.1418836)"
-01 - Alameda,11344,St Rose Hospital,"Hayward
-(37.6333427, -122.0879517)"
-01 - Alameda,11363,Valley Memorial Hospital,"Livermore
-(37.6769028, -121.7817917)"
-01 - Alameda,16632,ValleyCare Medical Center,"Pleasanton
-(37.6939774, -121.8806839)"
-01 - Alameda,11366,Washington Hospital,"Fremont
-(37.5580099, -121.9806024)"
-03 - Amador,17490,Sutter Amador Hospital,"Jackson
-(38.3507271, -120.764679)"
-04 - Butte,10009,Enloe Medical Center - Cohasset,"Chico
-(39.7516935, -121.8485096)"
-04 - Butte,10013,Enloe Medical Center - Esplanade,"Chico
-(39.7422066, -121.8500061)"
-04 - Butte,16464,Enloe Rehabilitation Center,"Chico
-(39.7541924, -121.8676453)"
-04 - Butte,10014,Feather River Hospital,"Paradise
-(39.7575226, -121.5691833)"
-04 - Butte,10006,Orchard Hospital,"Gridley
-(39.367691, -121.6895599)"
-04 - Butte,10019,Oroville Hospital,"Oroville
-(39.5054054, -121.541008)"
-05 - Calaveras,10029,Mark Twain Medical Center,"San Andreas
-(38.1902046, -120.6700058)"
-06 - Colusa,10032,Colusa Regional Medical Center,"Colusa
-(39.2073686, -122.0004366)"
-07 - Contra Costa,10049,Contra Costa Regional Medical Center,"Martinez
-(38.0065689, -122.1331177)"
-07 - Contra Costa,10038,Doctors Medical Center - San Pablo Campus,"San Pablo
-(37.9533005, -122.3364258)"
-07 - Contra Costa,10048,John Muir Medical Center-Concord Campus,"Concord
-(37.9840473, -122.0349298)"
-10 - Fresno,16116,Clovis Community Medical  Center,"Clovis
-(36.8374579, -119.6607678)"
-07 - Contra Costa,10081,John Muir Medical Center-Walnut Creek Campus,"Walnut Creek
-(37.9141818, -122.0421336)"
-07 - Contra Costa,18153,Kaiser Foundation Hospital - Antioch,"Antioch
-(37.9518547, -121.7769241)"
-07 - Contra Costa,17749,Kaiser Foundation Hospital - Richmond Campus,"Richmond
-(37.937576, -122.36097)"
-07 - Contra Costa,10072,Kaiser Foundation Hospital - Walnut Creek,"Walnut Creek
-(37.8917542, -122.0595322)"
-07 - Contra Costa,16228,San Ramon Regional Medical Center,"San Ramon
-(37.7770854, -121.9610464)"
-07 - Contra Costa,16166,San Ramon Regional Medical Center South Building,"San Ramon
-(37.7772463, -121.9607292)"
-07 - Contra Costa,10052,Sutter Delta Medical Center,"Antioch
-(37.9837036, -121.8008118)"
-08 - Del Norte,12784,Sutter Coast Hospital,"Crescent City
-(41.7745094, -124.1940002)"
-09 - El Dorado,10109,Barton Memorial Hospital,"South Lake Tahoe
-(38.91161, -119.997597)"
-09 - El Dorado,10112,Marshall Medical Center,"Placerville
-(38.7255004, -120.7908884)"
-10 - Fresno,10162,Adventist Medical Center - Reedley,"Reedley
-(36.6078448, -119.4513356)"
-10 - Fresno,10160,Adventist Medical Center - Selma,"Selma
-(36.5679474, -119.5984116)"
-10 - Fresno,10122,Coalinga Regional Medical Center,"Coalinga
-(36.151538, -120.3403994)"
-10 - Fresno,10127,Community Regional Medical Center,"Fresno
-(36.7440643, -119.7837677)"
-10 - Fresno,17938,Fresno Heart And Surgical Hospital,"Fresno
-(36.85989, -119.7885513)"
-10 - Fresno,16878,Fresno Surgery Center,"Fresno
-(36.8250999, -119.781929)"
-10 - Fresno,13018,Kaiser Foundation Hospital - Fresno,"Fresno
-(36.8428688, -119.7812424)"
-10 - Fresno,10155,Saint Agnes Medical Center,"Fresno
-(36.8353767, -119.765625)"
-10 - Fresno,16404,San Joaquin Valley Rehabilitation Hospital,"Fresno
-(36.8399296, -119.7595395)"
-11 - Glenn,10175,Glenn Medical Center,"Willows
-(39.5205112, -122.2077231)"
-12 - Humboldt,10186,Jerold Phelps Community Hospital,"Garberville
-(40.1016769, -123.7919312)"
-12 - Humboldt,13087,Mad River Community Hospital,"Arcata
-(40.8962479, -124.0914459)"
-12 - Humboldt,10183,Redwood Memorial Hospital,"Fortuna
-(40.5823402, -124.1365204)"
-12 - Humboldt,10184,St. Joseph Hospital,"Eureka
-(40.7836571, -124.1424637)"
-12 - Humboldt,10180,The General Hospital,"Eureka
-(40.7880232, -124.1396894)"
-13 - Imperial,10190,El Centro Regional Medical Center,"El Centro
-(32.7804451, -115.5685196)"
-19 - Los Angeles,11386,Alhambra Hospital Medical Center,"Alhambra
-(34.0904846, -118.1440964)"
-13 - Imperial,10192,Pioneers Memorial Healthcare District,"Brawley
-(32.9581223, -115.5538635)"
-14 - Inyo,10200,Northern Inyo Hospital,"Bishop
-(37.3621216, -118.4059296)"
-14 - Inyo,10202,Southern Inyo Hospital,"Lone Pine
-(36.6084147, -118.058331)"
-15 - Kern,17358,Bakersfield Heart Hospital,"Bakersfield
-(35.3854904, -119.0396042)"
-15 - Kern,10207,Bakersfield Memorial Hospital,"Bakersfield
-(35.3920212, -119.0067825)"
-15 - Kern,12765,Delano Regional Medical Center,"Delano
-(35.7621613, -119.238884)"
-15 - Kern,10219,Good Samaritan Hospital,"Bakersfield
-(35.4117165, -119.0397263)"
-15 - Kern,16245,Healthsouth Bakersfield Rehabilitation Hospital,"Bakersfield
-(35.3673248, -119.0574265)"
-15 - Kern,10208,Kern Medical Center,"Bakersfield
-(35.3832321, -118.9699707)"
-15 - Kern,10210,Kern Valley Healthcare District,"Lake Isabella
-(35.6352992, -118.406351)"
-15 - Kern,10214,Mercy Hospital,"Bakersfield
-(35.372791, -119.027611)"
-15 - Kern,17632,Mercy Southwest Hospital,"Bakersfield
-(35.3514481, -119.1124039)"
-15 - Kern,10220,Ridgecrest Regional Hospital,"Ridgecrest
-(35.6408501, -117.6711655)"
-15 - Kern,12881,San Joaquin Community Hospital,"Bakersfield
-(35.3833771, -119.0196991)"
-15 - Kern,10226,Tehachapi Hospital,"Tehachapi
-(35.1300341, -118.4482887)"
-15 - Kern,18202,Tehachapi Hospital,"Tehachapi
-(35.144952, -118.450265)"
-16 - Kings,18194,Adventist Medical Center,"Hanford
-(36.3257146, -119.6683987)"
-16 - Kings,10242,Central Valley General Hospital,"Hanford
-(36.3359985, -119.6453094)"
-17 - Lake,10247,St. Helena Hospital - Clearlake,"Clearlake
-(38.9361919, -122.6202428)"
-17 - Lake,14345,Sutter Lakeside Hospital,"Lakeport
-(39.1048164, -122.9068604)"
-18 - Lassen,17940,Banner Lassen Medical Center,"Susanville
-(40.4362373, -120.6272659)"
-19 - Los Angeles,11399,Antelope Valley Hospital,"Lancaster
-(34.6877708, -118.1579819)"
-19 - Los Angeles,11417,Barlow Respiratory Hospital,"Los Angeles
-(34.0754242, -118.2474213)"
-19 - Los Angeles,11441,Beverly Hospital,"Montebello
-(34.0150566, -118.1006393)"
-19 - Los Angeles,11480,California Hospital Medical Center - Los Angeles,"Los Angeles
-(34.0371506, -118.2654666)"
-19 - Los Angeles,11496,Casa Colina Hospital for Rehabilitative Medicine,"Pomona
-(34.0962806, -117.7456525)"
-19 - Los Angeles,11410,Catalina Island Medical Center,"Avalon
-(33.3389072, -118.3311854)"
-19 - Los Angeles,11891,Cedars-Sinai Medical Center,"Los Angeles
-(34.0765457, -118.3800049)"
-19 - Los Angeles,11510,Centinela Hospital Medical Center,"Inglewood
-(33.9508476, -118.3482819)"
-19 - Los Angeles,12874,CENTURY CITY DOCTORS HOSPITAL,"Los Angeles
-(34.0592079, -118.4115448)"
-19 - Los Angeles,11525,Children's Hospital Los Angeles,"Los Angeles
-(34.0981051, -118.2906117)"
-19 - Los Angeles,11748,Citrus Valley Medical Center - IC Campus,"Covina
-(34.0880203, -117.8934097)"
-19 - Los Angeles,11971,Citrus Valley Medical Center - QV Campus,"West Covina
-(34.0646515, -117.9444656)"
-19 - Los Angeles,11527,City Of Hope Helford Clinical Research Hospital,"Duarte
-(34.127777, -117.972443)"
-19 - Los Angeles,12088,Coast Plaza Hospital,"Norwalk
-(33.9125519, -118.0984573)"
-19 - Los Angeles,11927,College Medical Center,"Long Beach
-(33.8073273, -118.1930466)"
-19 - Los Angeles,11792,COMMUNITY HOSPITAL  LONG BEACH,"Long Beach
-(33.7887993, -118.1448746)"
-19 - Los Angeles,11549,Community Hospital Of Huntington Park,"Huntington Park
-(33.989521, -118.224258)"
-19 - Los Angeles,12180,"DOCTORS HOSPITAL OF WEST COVINA, INC.","West Covina
-(34.0713501, -117.9447784)"
-19 - Los Angeles,17572,EARL & LORAINE MILLER CHILDREN'S HOSPITAL,"Long Beach
-(33.8078156, -118.1868362)"
-19 - Los Angeles,11598,East Los Angeles Doctors Hospital,"Los Angeles
-(34.0238851, -118.1841829)"
-19 - Los Angeles,11621,Encino Hospital Medical Center,"Encino
-(34.1580353, -118.4875488)"
-19 - Los Angeles,13093,Foothill Presbyterian Hospital - Johnston Memorial,"Glendora
-(34.132885, -117.8712387)"
-19 - Los Angeles,12841,Gardens Regional Hospital And Medical Center,"Hawaiian Gardens
-(33.833561, -118.079369)"
-19 - Los Angeles,11658,Garfield Medical Center,"Monterey Park
-(34.0690346, -118.1238403)"
-19 - Los Angeles,11668,Glendale Adventist Medical Center,"Glendale
-(34.151104, -118.229912)"
-19 - Los Angeles,11844,Glendale Memorial Hospital and Health Center,"Glendale
-(34.1283531, -118.2577204)"
-19 - Los Angeles,11672,Glendora Community Hospital,"Glendora
-(34.1286448, -117.8660341)"
-19 - Los Angeles,11731,Good Samaritan Hospital,"Los Angeles
-(34.0532814, -118.2653788)"
-19 - Los Angeles,13224,Greater El Monte Community Hospital,"South El Monte
-(34.0477676, -118.0434189)"
-19 - Los Angeles,13333,Henry Mayo Newhall Hospital,"Valencia
-(34.398087, -118.553551)"
-19 - Los Angeles,11722,Hollywood Presbyterian Medical Center,"Los Angeles
-(34.0956878, -118.291706)"
-19 - Los Angeles,11733,Huntington Memorial Hospital,"Pasadena
-(34.1357352, -118.1523713)"
-19 - Los Angeles,11759,Kaiser Foundation Hospital,"Panorama City
-(34.2187881, -118.4300308)"
-19 - Los Angeles,17207,Kaiser Foundation Hospital - Baldwin Park,"Baldwin Park
-(34.0635207, -117.9857766)"
-19 - Los Angeles,11760,Kaiser Foundation Hospital - Los Angeles,"Los Angeles
-(34.0987167, -118.295372)"
-19 - Los Angeles,11758,Kaiser Foundation Hospital - South Bay,"Harbor City
-(33.788593, -118.295652)"
-19 - Los Angeles,15666,Kaiser Foundation Hospital - Woodland Hills,"Woodland Hills
-(34.1709785, -118.5897369)"
-19 - Los Angeles,17919,Kaiser Foundation Hospital-Downey,"Downey
-(33.9170708, -118.1292446)"
-19 - Los Angeles,12875,KAISER FOUNDATION HOSPITAL-WEST LA,"Los Angeles
-(34.0386848, -118.3751678)"
-19 - Los Angeles,16483,Keck Hospital of USC,"Los Angeles
-(34.0619545, -118.2015686)"
-19 - Los Angeles,11768,Kindred Hospital - La Mirada,"La Mirada
-(33.91637, -118.013329)"
-19 - Los Angeles,11414,Kindred Hospital - Los Angeles,"Los Angeles
-(33.9902153, -118.3784103)"
-19 - Los Angeles,11776,Kindred Hospital - San Gabriel Valley,"West Covina
-(34.0870667, -117.917244)"
-19 - Los Angeles,11704,Kindred Hospital Baldwin Park,"Baldwin Park
-(34.0638285, -117.9677602)"
-19 - Los Angeles,11547,Kindred Hospital South Bay,"Gardena
-(33.8900032, -118.2974014)"
-19 - Los Angeles,11809,LAC/Harbor-UCLA Medical Center,"Torrance
-(33.8297997, -118.2947464)"
-19 - Los Angeles,15801,LAC/OLIVE VIEW-UCLA MEDICAL CENTER,"Sylmar
-(34.325735, -118.445787)"
-19 - Los Angeles,11976,LAC/Rancho Los Amigos National Rehabilitation Ctr,"Downey
-(33.929081, -118.157997)"
-19 - Los Angeles,11810,LAC+USC Medical Center,"Los Angeles
-(34.0597763, -118.2098618)"
-19 - Los Angeles,12831,Lakewood Regional Medical Center,"Lakewood
-(33.859734, -118.150108)"
-19 - Los Angeles,12023,Little Company of Mary - San Pedro Hospital,"San Pedro
-(33.7381859, -118.3037796)"
-19 - Los Angeles,11846,Long Beach Memorial Medical Center,"Long Beach
-(33.8078156, -118.1868362)"
-19 - Los Angeles,11545,Los Angeles Community Hospital,"Los Angeles
-(34.0193863, -118.186615)"
-19 - Los Angeles,11428,Los Angeles Community Hospital at Bellflower,"Bellflower
-(33.874352, -118.129448)"
-19 - Los Angeles,12882,Los Angeles Metropolitan Medical Center,"Los Angeles
-(34.0355568, -118.3095932)"
-19 - Los Angeles,12744,Marina Del Rey Hospital,"Marina Del Rey
-(33.982189, -118.439125)"
-19 - Los Angeles,12259,"Martin Luther King, Jr. Community Hospital","Los Angeles
-(33.923991, -118.245304)"
-19 - Los Angeles,11843,Memorial Hospital of Gardena,"Gardena
-(33.8929977, -118.2950592)"
-19 - Los Angeles,11858,Methodist Hospital of Southern California,"Arcadia
-(34.1336001, -118.0412903)"
-19 - Los Angeles,12024,Miracle Mile Medical Center,"Los Angeles
-(34.057224, -118.362221)"
-19 - Los Angeles,11847,Mission Community Hospital,"Panorama City
-(34.2204094, -118.4566345)"
-19 - Los Angeles,11874,Monrovia Memorial Hospital,"Monrovia
-(34.1490946, -117.9922286)"
-19 - Los Angeles,12878,Monterey Park Hospital,"Monterey Park
-(34.0501633, -118.1376266)"
-19 - Los Angeles,11887,Motion Picture & Television Hospital,"Woodland Hills
-(34.1583462, -118.6360366)"
-19 - Los Angeles,11906,Northridge Hospital Medical Center,"Northridge
-(34.2199783, -118.5328827)"
-19 - Los Angeles,11910,Norwalk Community Hospital,"Norwalk
-(33.9107323, -118.0639114)"
-19 - Los Angeles,11863,Olympia Medical Center,"Los Angeles
-(34.057506, -118.359991)"
-19 - Los Angeles,11646,Pacific Alliance Medical Center,"Los Angeles
-(34.0650482, -118.2391357)"
-19 - Los Angeles,12042,Pacifica Hospital of the Valley,"Sun Valley
-(34.2401848, -118.3963165)"
-19 - Los Angeles,18141,Palmdale Regional Medical Center,"Palmdale
-(34.5830231, -118.1448975)"
-19 - Los Angeles,12235,PIH Hospital - Downey,"Downey
-(33.9344368, -118.1311646)"
-19 - Los Angeles,11966,Pomona Valley Hospital Medical Center,"Pomona
-(34.0770912, -117.7505951)"
-19 - Los Angeles,11968,Presbyterian Intercommunity Hospital,"Whittier
-(33.969795, -118.049484)"
-19 - Los Angeles,11785,Promise Hosp Of East Los Angeles-East L.A. Campus,"Los Angeles
-(34.0397415, -118.2130508)"
-19 - Los Angeles,12787,Promise Hosp Of East Los Angeles-Suburban Campus,"Paramount
-(33.884331, -118.162048)"
-19 - Los Angeles,11726,Providence Holy Cross Medical Center,"Mission Hills
-(34.280216, -118.460335)"
-19 - Los Angeles,11787,Providence Little Company of Mary Medical Center Torrance,"Torrance
-(33.8389091, -118.3568268)"
-19 - Los Angeles,12006,Providence Saint John's Health Center,"Santa Monica
-(34.0298282, -118.4786654)"
-19 - Los Angeles,12008,Providence Saint Joseph Medical Center,"Burbank
-(34.156044, -118.3283463)"
-19 - Los Angeles,13085,Providence Tarzana Medical Center,"Tarzana
-(34.1706467, -118.5319977)"
-19 - Los Angeles,12127,Ronald Reagan UCLA Medical Center,"Los Angeles
-(34.0662157, -118.4453161)"
-19 - Los Angeles,12004,Saint Francis Medical Center,"Lynwood
-(33.9298439, -118.2031097)"
-19 - Los Angeles,12014,Saint Vincent Medical Center,"Los Angeles
-(34.0638771, -118.273468)"
-19 - Los Angeles,13084,San Dimas Community Hospital,"San Dimas
-(34.0990654, -117.8343491)"
-19 - Los Angeles,11548,San Gabriel Valley Medical Center,"San Gabriel
-(34.1008072, -118.1059036)"
-19 - Los Angeles,12033,Santa Monica - UCLA Medical Center And Orthopaedic Hospital,"Santa Monica
-(34.0275, -118.4861105)"
-19 - Los Angeles,12047,Sherman Oaks Hospital,"Sherman Oaks
-(34.1602821, -118.4494171)"
-19 - Los Angeles,12050,Shriners Hospitals For Children,"Los Angeles
-(34.0671921, -118.2863998)"
-19 - Los Angeles,13225,Silver Lake Medical Center - Downtown Campus,"Los Angeles
-(34.0688007, -118.2633872)"
-19 - Los Angeles,11848,Southern California Hospital At Culver City,"Culver City
-(34.023212, -118.396927)"
-19 - Los Angeles,11718,Southern California Hospital at Hollywood,"Hollywood
-(34.0962216, -118.3250646)"
-19 - Los Angeles,12012,St. Mary Medical Center,"Long Beach
-(33.779911, -118.18605)"
-19 - Los Angeles,12249,Torrance Memorial Medical Center,"Torrance
-(33.8127583, -118.3441351)"
-19 - Los Angeles,15179,USC KENNETH NORRIS JR. CANCER HOSPITAL,"Los Angeles
-(34.060894, -118.2053528)"
-19 - Los Angeles,12551,USC Verdugo Hills Hospital,"Glendale
-(34.2045288, -118.2161407)"
-19 - Los Angeles,12140,Valley Presbyterian Hospital,"Van Nuys
-(34.1949463, -118.4632111)"
-19 - Los Angeles,12182,West Hills Hospital & Medical Center,"Canoga Park
-(34.2035408, -118.629374)"
-19 - Los Angeles,12198,White Memorial Medical Center,"Los Angeles
-(34.0493202, -118.2173462)"
-19 - Los Angeles,12201,Whittier Hospital Medical Center,"Whittier
-(33.950382, -118.004646)"
-20 - Madera,10257,Madera Community Hospital,"Madera
-(36.9435844, -120.0443573)"
-20 - Madera,17124,Valley Children's Hospital,"Madera
-(36.8839378, -119.8008804)"
-21 - Marin,10268,Kaiser Foundation Hospital - San Rafael,"San Rafael
-(38.0039635, -122.5553665)"
-21 - Marin,10261,Kentfield Rehabilitation & Specialty Hospital,"Kentfield
-(37.9586143, -122.5536423)"
-21 - Marin,10273,Marin General Hospital,"Greenbrae
-(37.9475441, -122.5354538)"
-21 - Marin,17672,Novato Community Hospital,"Novato
-(38.0996895, -122.5603409)"
-22 - Mariposa,10287,John C. Fremont Healthcare District,"Mariposa
-(37.5003967, -119.9776764)"
-23 - Mendocino,10295,Frank R. Howard Memorial Hospital,"Willits
-(39.4003525, -123.350914)"
-23 - Mendocino,18198,Frank R. Howard Memorial Hospital,"Willits
-(39.389344, -123.339759)"
-23 - Mendocino,10301,MENDOCINO COAST  DISTRICT HOSPITAL,"Fort Bragg
-(39.4314041, -123.8019562)"
-23 - Mendocino,14560,UKIAH VALLEY MEDICAL CENTER,"Ukiah
-(39.1532974, -123.2028809)"
-24 - Merced,10309,Memorial Hospital Los Banos,"Los Banos
-(37.0652962, -120.8584442)"
-24 - Merced,10315,Mercy Medical Center,"Merced
-(37.3387648, -120.4667804)"
-25 - Modoc,10322,Modoc Medical Center,"Alturas
-(41.4800298, -120.5440602)"
-25 - Modoc,10321,Surprise Valley Community Hospital,"Cedarville
-(33.799278, -117.864563)"
-26 - Mono,14304,Mammoth Hospital,"Mammoth Lakes
-(37.6437923, -118.9639031)"
-27 - Monterey,10330,Community Hospital of the Monterey Peninsula,"Monterey
-(36.57914, -121.913712)"
-27 - Monterey,10338,George L. Mee Memorial Hospital,"King City
-(36.2060928, -121.132988)"
-27 - Monterey,17353,Natividad Medical Center,"Salinas
-(36.6972984, -121.6288501)"
-27 - Monterey,10348,Salinas Valley Memorial Hospital,"Salinas
-(36.6590996, -121.6463013)"
-28 - Napa,10362,Queen Of The Valley Medical Center,"Napa
-(38.324688, -122.2967072)"
-28 - Napa,10366,St. Helena Hospital,"St. Helena
-(38.5437851, -122.4740067)"
-29 - Nevada,10375,Sierra Nevada Memorial Hospital,"Grass Valley
-(39.2280884, -121.0472031)"
-29 - Nevada,10377,Tahoe Forest Hospital,"Truckee
-(39.3249245, -120.2008667)"
-30 - Orange,10382,AHMC Anaheim Regional Medical Center,"Anaheim
-(33.8476105, -117.9358444)"
-30 - Orange,13061,Anaheim Global Medical Center,"Anaheim
-(33.8196602, -117.9096909)"
-30 - Orange,10400,Chapman Global Medical Center,"Orange
-(33.788731, -117.826411)"
-30 - Orange,14370,Children's Hospital of Orange County,"Orange
-(33.780739, -117.865466)"
-30 - Orange,10405,College Hospital Costa Mesa,"Costa Mesa
-(33.6518936, -117.9119644)"
-30 - Orange,12573,Foothill Regional Medical Center,"Tustin
-(33.7302628, -117.8283157)"
-30 - Orange,12834,FOUNTAIN VALLEY REGIONAL HOSPITAL AND MEDICAL CENTER,"Fountain Valley
-(33.7139854, -117.9343643)"
-30 - Orange,16234,FOUNTAIN VALLEY REGIONAL HOSPITAL AND MEDICAL CENTER,"Fountain Valley
-(33.7132607, -117.9321976)"
-30 - Orange,10450,Garden Grove Hospital and Medical Center,"Garden Grove
-(33.7748528, -117.9132843)"
-30 - Orange,17438,Healthbridge Children's Hospital-Orange,"Orange
-(33.7827988, -117.8339233)"
-30 - Orange,16536,Healthsouth Tustin Rehabilitation Hospital,"Tustin
-(33.747535, -117.8303037)"
-30 - Orange,16319,Hoag Hospital Irvine,"Irvine
-(33.6613007, -117.7720566)"
-30 - Orange,10428,Hoag Memorial Hospital Presbyterian,"Newport Beach
-(33.6252686, -117.9295568)"
-30 - Orange,10431,Huntington Beach Hospital,"Huntington Beach
-(33.703636, -117.986679)"
-30 - Orange,18178,Kaiser Foundation Hospital - Orange County - Anaheim,"Anaheim
-(33.852102, -117.844125)"
-30 - Orange,18152,KAISER FOUNDATION HOSPITAL - ORANGE COUNTY - IRVINE,"Irvine
-(33.6569901, -117.7731628)"
-30 - Orange,10407,Kindred Hospital - Santa Ana,"Santa Ana
-(33.762314, -117.891121)"
-30 - Orange,13068,Kindred Hospital Brea,"Brea
-(33.9345245, -117.8939133)"
-30 - Orange,10476,Kindred Hospital Westminster,"Westminster
-(33.7624227, -117.9952381)"
-30 - Orange,13019,La Palma Intercommunity Hospital,"La Palma
-(33.8475227, -118.038414)"
-30 - Orange,10440,Los Alamitos Medical Center,"Los Alamitos
-(33.8043938, -118.0666275)"
-30 - Orange,10468,Mission Hospital Laguna Beach,"Laguna Beach
-(33.5005951, -117.7404938)"
-30 - Orange,12804,Mission Hospital Regional Medical Center,"Mission Viejo
-(33.5610161, -117.6652985)"
-30 - Orange,15630,Orange Coast Memorial Medical Center,"Fountain Valley
-(33.7016398, -117.9565445)"
-30 - Orange,18007,Orange County Global Medical Center,"Santa Ana
-(33.7536585, -117.8341627)"
-30 - Orange,10381,"Pacific Orange Hospital, LLC","Anaheim
-(33.8155975, -118.0070343)"
-30 - Orange,13077,Placentia Linda Hospital,"Placentia
-(33.8867477, -117.8420873)"
-30 - Orange,12755,Saddleback Memorial Medical Center,"Laguna Hills
-(33.6080454, -117.7082712)"
-30 - Orange,13066,Saddleback Memorial Medical Center - San Clemente,"San Clemente
-(33.4569206, -117.6500092)"
-30 - Orange,13059,South Coast Global Medical Center,"Santa Ana
-(33.7102623, -117.8848877)"
-30 - Orange,10457,St. Joseph Hospital,"Orange
-(33.7822931, -117.864992)"
-30 - Orange,10458,St. Jude Medical Center,"Fullerton
-(33.8946686, -117.9271851)"
-30 - Orange,10446,University of California Irvine Medical Center,"Orange
-(33.7872532, -117.8906936)"
-31 - Placer,10494,Sutter Auburn Faith Hospital,"Auburn
-(38.9451599, -121.1018677)"
-30 - Orange,10475,West Anaheim Medical Center,"Anaheim
-(33.8255768, -117.9949188)"
-31 - Placer,14214,KAISER FOUNDATION HOSPITAL - ROSEVILLE,"Roseville
-(38.7462654, -121.250061)"
-31 - Placer,17700,Sutter Roseville Medical Center,"Roseville
-(38.7651825, -121.2497864)"
-32 - Plumas,10514,Eastern Plumas Hospital-Portola Campus,"Portola
-(39.8047562, -120.4591522)"
-32 - Plumas,10512,Plumas District Hospital,"Quincy
-(39.9388695, -120.962326)"
-32 - Plumas,10513,Seneca District Hospital,"Chester
-(40.3054684, -121.2339062)"
-33 - Riverside,10529,Corona Regional Medical Center,"Corona
-(33.8729897, -117.5685425)"
-33 - Riverside,10537,Desert Regional Medical Center,"Palm Springs
-(33.8384049, -116.5455457)"
-33 - Riverside,12662,Eisenhower Medical Center,"Rancho Mirage
-(33.7646523, -116.4055557)"
-33 - Riverside,10541,Hemet Valley Medical Center,"Hemet
-(33.7503204, -116.9600372)"
-33 - Riverside,10545,John F. Kennedy Memorial Hospital,"Indio
-(33.7061195, -116.2371445)"
-33 - Riverside,18205,Joint Replacement Hospitals of America,"Indio
-(33.7394603, -116.2601902)"
-33 - Riverside,16164,"KAISER FOUNDATION HOSPITAL, RIVERSIDE","Riverside
-(33.9063949, -117.4708086)"
-33 - Riverside,16325,KAISER FOUNDATION HOSPITAL-MORENO VALLEY,"Moreno Valley
-(33.8974037, -117.1860275)"
-33 - Riverside,13030,Kindred Hospital Riverside,"Perris
-(33.8122063, -117.2227402)"
-33 - Riverside,18175,Loma Linda University Medical Center - Murrieta,"Murrieta
-(33.6129264, -117.1671872)"
-33 - Riverside,16148,Menifee Valley Medical Center,"Sun City
-(33.7178323, -117.167853)"
-33 - Riverside,10553,Palo Verde Hospital,"Blythe
-(33.6130524, -114.5951157)"
-33 - Riverside,10554,Parkview Community Hospital Medical Center,"Riverside
-(33.9279747, -117.4384689)"
-33 - Riverside,18162,Rancho Mirage Rehabilitation Facility,"Rancho Mirage
-(33.8158657, -116.4397258)"
-33 - Riverside,10556,Riverside Community Hospital,"Riverside
-(33.9765587, -117.3814697)"
-33 - Riverside,18224,Riverside Psychiatric Hospital,"Riverside
-(33.901562, -117.246996)"
-33 - Riverside,15007,RIVERSIDE UNIVERSITY HEALTH SYSTEM - MEDICAL CENTER,"Moreno Valley
-(33.9101547, -117.1954711)"
-33 - Riverside,10559,San Gorgonio Memorial Hospital,"Banning
-(33.931839, -116.9456787)"
-33 - Riverside,15749,Southwest Healthcare System,"Wildomar
-(33.5914612, -117.2380066)"
-33 - Riverside,16681,Southwest Healthcare System,"Murrieta
-(33.5587616, -117.1833115)"
-33 - Riverside,18167,TEMECULA VALLEY HOSPITAL,"Temecula
-(33.4795884, -117.1047735)"
-34 - Sacramento,10604,Kaiser Foundation Hospital - Sacramento,"Sacramento
-(38.6014175, -121.3941193)"
-34 - Sacramento,15570,Kaiser Foundation Hospital - South Sacramento,"Sacramento
-(38.4695854, -121.4194641)"
-36 - San Bernardino,10695,St. Mary Medical Center,"Apple Valley
-(34.5418854, -117.2655716)"
-34 - Sacramento,10606,Mercy General Hospital,"Sacramento
-(38.5705261, -121.4521561)"
-34 - Sacramento,16150,MERCY HOSPITAL OF FOLSOM,"Folsom
-(38.6702805, -121.1455231)"
-34 - Sacramento,10607,Mercy San Juan Medical Center,"Carmichael
-(38.6695061, -121.3137817)"
-34 - Sacramento,13012,Methodist Hospital of Sacramento,"Sacramento
-(38.4620781, -121.4165726)"
-34 - Sacramento,14506,SHRINERS HOSPITALS FOR CHILDREN NORTHERN CALIFORNIA,"Sacramento
-(38.5528258, -121.4561514)"
-34 - Sacramento,10625,"Sutter Medical Center, Sacramento","Sacramento
-(38.5720177, -121.4692535)"
-34 - Sacramento,10619,University of California Davis Medical Center,"Sacramento
-(38.5541146, -121.4572162)"
-34 - Sacramento,10631,Vibra Hospital of Sacramento,"Folsom
-(38.6819514, -121.1578529)"
-35 - San Benito,10640,Hazel Hawkins Memorial Hospital,"Hollister
-(36.8350527, -121.386422)"
-36 - San Bernardino,17282,Arrowhead Regional Medical Center,"Colton
-(34.072016, -117.3527732)"
-36 - San Bernardino,16877,Ballard Rehabilitation Hospital,"San Bernardino
-(34.1293182, -117.3254547)"
-36 - San Bernardino,18197,Barstow Community Hospital,"Barstow
-(34.8923874, -117.017067)"
-36 - San Bernardino,13035,Bear Valley Community Hospital,"Big Bear Lake
-(34.246588, -116.888357)"
-36 - San Bernardino,13072,Chino Valley Medical Center,"Chino
-(34.0256157, -117.6859436)"
-36 - San Bernardino,10684,Colorado River Medical Center,"Needles
-(34.8330022, -114.6182652)"
-36 - San Bernardino,10697,Community Hospital of San Bernardino,"San Bernardino
-(34.1316234, -117.3225112)"
-36 - San Bernardino,12763,Desert Valley Hospital,"Victorville
-(34.4703064, -117.2994614)"
-36 - San Bernardino,14100,Hi-Desert Medical Center,"Joshua Tree
-(34.1307526, -116.2750244)"
-36 - San Bernardino,10670,Kaiser Foundation Hospital Fontana,"Fontana
-(34.0733799, -117.4356213)"
-36 - San Bernardino,17905,Kaiser Foundation Hospital- Ontario,"Ontario
-(34.0324593, -117.6087418)"
-36 - San Bernardino,10685,Kindred Hospital Ontario,"Ontario
-(34.0688355, -117.6436655)"
-36 - San Bernardino,14102,Kindred Hospital Rancho,"Rancho Cucamonga
-(34.1036873, -117.5662231)"
-36 - San Bernardino,10677,Loma Linda University Medical Center,"Loma Linda
-(34.0491374, -117.2611718)"
-36 - San Bernardino,13073,Loma Linda University Medical Center East Campus Hospital,"Loma Linda
-(34.047153, -117.251221)"
-36 - San Bernardino,18161,LOMA LINDA UNIVERSITY SURGICAL HOSPITAL,"Redlands
-(34.0489349, -117.2199554)"
-36 - San Bernardino,12992,Montclair Hospital Medical Center,"Montclair
-(34.0786209, -117.695816)"
-36 - San Bernardino,10681,Mountains Community Hospital,"Lake Arrowhead
-(34.2654533, -117.1685104)"
-36 - San Bernardino,10691,Redlands Community Hospital,"Redlands
-(34.0379677, -117.2068176)"
-37 - San Diego,12322,Grossmont Hospital,"La Mesa
-(32.7809219, -117.0071487)"
-36 - San Bernardino,10696,San Antonio Regional Hospital,"Upland
-(34.1020012, -117.6375198)"
-36 - San Bernardino,10694,St. Bernardine Medical Center,"San Bernardino
-(34.1341976, -117.2787054)"
-36 - San Bernardino,18201,Totally Kids Rehabilitation Hospital,"Loma Linda
-(34.0697174, -117.2448044)"
-36 - San Bernardino,10707,Victor Valley Global Medical Center,"Victorville
-(34.528168, -117.293938)"
-37 - San Diego,12872,Alvarado Hospital Medical Center,"San Diego
-(32.7763214, -117.0572968)"
-37 - San Diego,16263,ALVARADO HOSPITAL MEDICAL CENTER,"San Diego
-(32.7766724, -117.0577545)"
-37 - San Diego,12313,Fallbrook Hospital District,"Fallbrook
-(33.3808784, -117.2444534)"
-37 - San Diego,13111,Kaiser Foundation Hospital - San Diego,"San Diego
-(32.7913246, -117.0952377)"
-37 - San Diego,18199,Kaiser Permanente San Diego Central Hospital,"San Diego
-(32.8300264, -117.1266261)"
-37 - San Diego,12328,Kindred Hospital - San Diego,"San Diego
-(32.7561684, -117.1443558)"
-37 - San Diego,12347,Palomar Health Downtown Campus,"Escondido
-(33.1258902, -117.0762362)"
-37 - San Diego,18173,Palomar Medical Center West,"Escondido
-(33.1220474, -117.1203918)"
-37 - San Diego,12348,Paradise Valley Hospital,"National City
-(32.683949, -117.081635)"
-37 - San Diego,14190,Pomerado Hospital,"Poway
-(32.9958373, -117.0578925)"
-37 - San Diego,12375,Promise Hospital of San Diego,"San Diego
-(32.7491951, -117.0756073)"
-37 - San Diego,12285,Rady Children's Hospital - San Diego,"San Diego
-(32.7975892, -117.1508317)"
-37 - San Diego,14181,Scripps Green Hospital,"La Jolla
-(32.8963547, -117.2426147)"
-37 - San Diego,12309,Scripps Memorial Hospital - Encinitas,"Encinitas
-(33.0362568, -117.2842529)"
-37 - San Diego,12363,Scripps Memorial Hospital - La Jolla,"La Jolla
-(32.8851599, -117.2227914)"
-37 - San Diego,12339,Scripps Mercy Hospital,"San Diego
-(32.7513428, -117.1576843)"
-37 - San Diego,12268,Scripps Mercy Hospital Chula Vista,"Chula Vista
-(32.6337547, -117.0831528)"
-37 - San Diego,13336,Sharp Chula Vista Medical Center,"Chula Vista
-(32.6189003, -117.0226822)"
-37 - San Diego,12295,Sharp Coronado Hospital and Healthcare Center,"Coronado
-(32.6942524, -117.1679898)"
-37 - San Diego,15454,Sharp Mary Birch Hospital For Women And Newborns,"San Diego
-(32.7986345, -117.1560299)"
-37 - San Diego,12364,Sharp Memorial Hospital,"San Diego
-(32.8002452, -117.1551568)"
-37 - San Diego,12372,Tri-City Medical Center,"Oceanside
-(33.1837005, -117.2928192)"
-37 - San Diego,11659,"UCSD La Jolla, John M/Sally B Thornton Hosp & Sulpizio Cardiovascular Ctr","La Jolla
-(32.8797432, -117.2238784)"
-38 - San Francisco,12432,Laguna Honda Hospital & Rehabilitation Center,"San Francisco
-(37.7475858, -122.4587511)"
-37 - San Diego,12359,"University of California, San Diego Medical Center","San Diego
-(32.7538215, -117.165144)"
-37 - San Diego,16703,Vibra Hospital of San Diego,"San Diego
-(32.7492828, -117.1599197)"
-38 - San Francisco,12421,California Pacific Medical Center  California East Campus Hospital,"San Francisco
-(37.7867432, -122.4546738)"
-38 - San Francisco,12404,California Pacific Medical Center - California West Campus Hospital,"San Francisco
-(37.7861157, -122.4560595)"
-38 - San Francisco,12416,California Pacific Medical Center - Davies Campus Hospital,"San Francisco
-(37.768225, -122.434588)"
-38 - San Francisco,12482,California Pacific Medical Center - Pacific Campus Hospital,"San Francisco
-(37.7906151, -122.4314346)"
-38 - San Francisco,12459,CALIFORNIA PACIFIC MEDICAL CENTER - ST. LUKES CAMPUS HOSPITAL,"San Francisco
-(37.7471657, -122.4208527)"
-38 - San Francisco,18165,California Pacific Medical Center-Cathedral Hill Campus,"San Francisco
-(37.7859802, -122.4223328)"
-38 - San Francisco,18188,California Pacific Medical Center-St. Lukes Hospital,"San Francisco
-(37.7471657, -122.4208527)"
-38 - San Francisco,14621,Chinese Hospital,"San Francisco
-(37.7956704, -122.4091771)"
-38 - San Francisco,12430,Kaiser Foundation Hospital - San Francisco,"San Francisco
-(37.7823219, -122.4432297)"
-38 - San Francisco,12457,Saint Francis Memorial Hospital,"San Francisco
-(37.7896309, -122.4165192)"
-38 - San Francisco,12463,San Francisco General Hospital,"San Francisco
-(37.7556381, -122.4050903)"
-38 - San Francisco,12460,St. Mary's Medical Center,"San Francisco
-(37.7737024, -122.4544012)"
-38 - San Francisco,12476,UCSF Medical Center,"San Francisco
-(37.7635328, -122.4576252)"
-38 - San Francisco,18181,UCSF MEDICAL CENTER AT MISSION BAY,"San Francisco
-(37.766874, -122.390852)"
-38 - San Francisco,12443,UCSF Medical Center at Mount Zion,"San Francisco
-(37.784893, -122.4389267)"
-39 - San Joaquin,10729,Dameron Hospital,"Stockton
-(37.9612586, -121.3007066)"
-39 - San Joaquin,10745,Doctors Hospital of Manteca,"Manteca
-(37.8015862, -121.1975174)"
-39 - San Joaquin,16324,Kaiser Foundation Hospital - Manteca,"Manteca
-(37.7980576, -121.2462006)"
-39 - San Joaquin,10743,Lodi Memorial Hospital,"Lodi
-(38.1205101, -121.2877579)"
-39 - San Joaquin,10753,San Joaquin General Hospital,"French Camp
-(37.8866386, -121.2829971)"
-39 - San Joaquin,10750,St. Joseph's Medical Center of Stockton,"Stockton
-(37.9706078, -121.2882156)"
-39 - San Joaquin,10757,Sutter Tracy Community Hospital,"Tracy
-(37.743866, -121.4339905)"
-40 - San Luis Obispo,12964,French Hospital Medical Center,"San Luis Obispo
-(35.2779935, -120.6496936)"
-40 - San Luis Obispo,10766,"Marian Regional Medical Center, Arroyo Grande","Arroyo Grande
-(35.1134605, -120.590538)"
-40 - San Luis Obispo,10778,Sierra Vista Regional Medical Center,"San Luis Obispo
-(35.2921181, -120.6660004)"
-40 - San Luis Obispo,13999,Twin Cities Community Hospital,"Templeton
-(35.5553551, -120.720665)"
-41 - San Mateo,10797,Kaiser Foundation Hospital - Redwood City,"Redwood City
-(37.489263, -122.223849)"
-41 - San Mateo,18219,Kaiser Foundation Hospital - Redwood City,"Redwoord City
-(37.489127, -122.225155)"
-41 - San Mateo,13086,Kaiser Foundation Hospital - South San Francisco,"South San Francisco
-(37.659336, -122.439209)"
-41 - San Mateo,16836,Menlo Park Surgical Hospital,"Menlo Park
-(37.4621833, -122.1593676)"
-41 - San Mateo,10804,Mills-Peninsula Medical Center,"Burlingame
-(37.5924072, -122.3850479)"
-41 - San Mateo,10810,San Mateo Medical Center,"San Mateo
-(37.5309029, -122.300209)"
-41 - San Mateo,10811,Sequoia Hospital,"Redwood City
-(37.4799843, -122.2544022)"
-41 - San Mateo,10801,Seton Medical Center,"Daly City
-(37.6796951, -122.4743729)"
-42 - Santa Barbara,17662,Cottage Rehabilitation Hospital,"Santa Barbara
-(34.4328232, -119.7227325)"
-42 - Santa Barbara,10831,Goleta Valley Cottage Hospital,"Santa Barbara
-(34.4334373, -119.8103867)"
-42 - Santa Barbara,10836,Lompoc Valley Medical Center,"Lompoc
-(34.6392824, -120.4395707)"
-42 - Santa Barbara,10838,Marian Regional Medical Center,"Santa Maria
-(34.950985, -120.4132233)"
-42 - Santa Barbara,10843,Santa Barbara Cottage Hospital,"Santa Barbara
-(34.4294089, -119.7232325)"
-42 - Santa Barbara,10848,Santa Ynez Valley Cottage Hospital,"Solvang
-(34.6020927, -120.1258926)"
-43 - Santa Clara,16713,Children's Recovery Center of Northern California,"Campbell
-(37.2597503, -121.9469628)"
-43 - Santa Clara,10883,El Camino Hospital,"Mountain View
-(37.369339, -122.0803909)"
-43 - Santa Clara,10874,El Camino Hospital Los Gatos,"Los Gatos
-(37.2628555, -121.9692535)"
-43 - Santa Clara,10890,Good Samaritan Hospital,"San Jose
-(37.25222, -121.946602)"
-43 - Santa Clara,12952,KAISER FOUNDATION HOSPITAL-SAN JOSE,"San Jose
-(37.2393951, -121.8007431)"
-43 - Santa Clara,17668,Kaiser Foundation Hospital-Santa Clara,"Santa Clara
-(37.337645, -121.9983995)"
-43 - Santa Clara,16477,Lucile Packard Children's Hospital Stanford,"Palo Alto
-(37.4363861, -122.1750488)"
-43 - Santa Clara,10878,Mission Oaks Hospital,"Los Gatos
-(37.2443581, -121.9482269)"
-43 - Santa Clara,10919,O'Connor Hospital,"San Jose
-(37.328186, -121.938461)"
-43 - Santa Clara,10856,Regional Medical Center of San Jose,"San Jose
-(37.3625717, -121.849762)"
-43 - Santa Clara,17487,SAINT LOUISE REGIONAL HOSPITAL,"Gilroy
-(37.0357666, -121.5710907)"
-43 - Santa Clara,10935,Santa Clara Valley Medical Center,"San Jose
-(37.313427, -121.9341888)"
-43 - Santa Clara,10943,Stanford Health Care,"Palo Alto
-(37.4330139, -122.1758423)"
-44 - Santa Cruz,10972,Dominican Hospital,"Santa Cruz
-(36.99017, -121.983528)"
-44 - Santa Cruz,13901,Sutter Maternity & Surgery Center of Santa Cruz,"Santa Cruz
-(36.9876938, -121.977478)"
-44 - Santa Cruz,15019,Watsonville Community Hospital,"Watsonville
-(36.9282299, -121.7935015)"
-45 - Shasta,11000,Mayers Memorial Hospital,"Fall River Mills
-(41.024181, -121.4244316)"
-45 - Shasta,11002,Mercy Medical Center Redding,"Redding
-(40.5718193, -122.3952179)"
-45 - Shasta,16679,Patients' Hospital of Redding,"Redding
-(40.5859413, -122.4166794)"
-45 - Shasta,11001,Shasta Regional Medical Center,"Redding
-(40.5856285, -122.3877411)"
-45 - Shasta,16620,VIBRA HOSPITAL OF NORTHERN CALIFORNIA,"Redding
-(40.5857304, -122.4131233)"
-47 - Siskiyou,14900,Fairchild Medical Center,"Yreka
-(41.7194939, -122.6458054)"
-47 - Siskiyou,13812,Mercy Medical Center Mt. Shasta,"Mount Shasta
-(41.3189538, -122.3231439)"
-48 - Solano,18164,Kaiser Foundation Hospital - Vacaville,"Vacaville
-(38.388462, -121.938097)"
-48 - Solano,13142,KAISER FOUNDATION HOSPITAL & REHAB CENTER - VALLEJO,"Vallejo
-(38.1283642, -122.2476558)"
-48 - Solano,11019,Northbay Medical Center,"Fairfield
-(38.2617416, -122.0466232)"
-48 - Solano,15807,NORTHBAY VACAVALLEY HOSPITAL,"Vacaville
-(38.355854, -121.9519653)"
-48 - Solano,12525,Sutter Solano Medical Center,"Vallejo
-(38.1311836, -122.2373276)"
-49 - Sonoma,12823,Healdsburg District Hospital,"Healdsburg
-(38.6274938, -122.8638015)"
-49 - Sonoma,16242,Kaiser Foundation Hospital - Santa Rosa,"Santa Rosa
-(38.4714851, -122.7264175)"
-49 - Sonoma,14568,Petaluma Valley Hospital,"Petaluma
-(38.2545395, -122.6317825)"
-49 - Sonoma,11054,Santa Rosa Memorial Hospital,"Santa Rosa
-(38.4417572, -122.7023926)"
-49 - Sonoma,11059,Santa Rosa Memorial Hospital,"Santa Rosa
-(38.4437103, -122.7013779)"
-49 - Sonoma,11064,Sonoma Valley Hospital,"Sonoma
-(38.2884371, -122.465246)"
-49 - Sonoma,11052,Sonoma West Medical Center,"Sebastopol
-(38.3971062, -122.8192596)"
-49 - Sonoma,18187,Sutter Santa Rosa Regional Hospital,"Santa Rosa
-(38.4950943, -122.751915)"
-50 - Stanislaus,11098,Central Valley Specialty Hospital,"Modesto
-(37.643425, -120.9906082)"
-50 - Stanislaus,11085,Doctors Medical Center,"Modesto
-(37.6653976, -120.9973984)"
-50 - Stanislaus,11090,Emanuel Medical Center,"Turlock
-(37.5116386, -120.8379974)"
-50 - Stanislaus,18204,HealthSouth Modesto Rehabilitation Hospital,"Modesto
-(37.6970596, -120.9754639)"
-50 - Stanislaus,18151,Kaiser Foundation Hospital Modesto,"Modesto
-(37.7055991, -121.0501467)"
-50 - Stanislaus,11111,Memorial Medical Center,"Modesto
-(37.6686707, -120.9733582)"
-50 - Stanislaus,13110,Oak Valley District Hospital,"Oakdale
-(37.757076, -120.861115)"
-50 - Stanislaus,17461,Stanislaus Surgical Hospital,"Modesto
-(37.6647263, -120.9583817)"
-51 - Sutter,11114,Fremont Medical Center,"Yuba City
-(39.1427086, -121.6177411)"
-51 - Sutter,17724,Sutter Surgical Hospital - North Valley,"Yuba City
-(39.1316032, -121.6129532)"
-52 - Tehama,11121,St. Elizabeth Community Hospital,"Red Bluff
-(40.1481247, -122.2193375)"
-53 - Trinity,11125,Trinity Hospital,"Weaverville
-(40.7377479, -122.9399025)"
-54 - Tulare,12601,Kaweah Delta Medical Center,"Visalia
-(36.3273963, -119.2960753)"
-54 - Tulare,18179,Kaweah Delta Rehabilitation Hospital,"Visalia
-(36.3238665, -119.3495277)"
-54 - Tulare,11140,Sierra View Medical Center,"Porterville
-(36.0695153, -119.0271007)"
-54 - Tulare,11145,Tulare Regional Medical Center,"Tulare
-(36.221307, -119.338575)"
-55 - Tuolumne,11151,Sonora Regional Medical Center,"Sonora
-(37.979607, -120.390839)"
-55 - Tuolumne,18163,Sonora Regional Medical Center,"Sonora
-(37.9757144, -120.3690092)"
-56 - Ventura,11159,Community Memorial Hospital - San Buenaventura,"Ventura
-(34.2745857, -119.25811)"
-56 - Ventura,11172,St Johns Regional Medical Center,"Oxnard
-(34.2167816, -119.1563034)"
-56 - Ventura,11164,Los Robles Hospital & Medical Center,"Thousand Oaks
-(34.207592, -118.8824005)"
-56 - Ventura,16244,LOS ROBLES HOSPITAL & MEDICAL CENTER - EAST CAMPUS,"Westlake Village
-(34.1550293, -118.8155975)"
-56 - Ventura,11169,Ojai Valley Community Hospital,"Ojai
-(34.4428787, -119.2644653)"
-56 - Ventura,11177,Simi Valley Hospital & Health Care Services,"Simi Valley
-(34.289192, -118.744827)"
-56 - Ventura,13181,St Johns Pleasant Valley Hospital,"Camarillo
-(34.2435837, -119.0198364)"
-56 - Ventura,17669,"Thousand Oaks Surgical Hosp., A Campus Of Los Robles Hosp. & Medical Ctr.","Thousand Oaks
-(34.1750336, -118.8690338)"
-56 - Ventura,11162,Ventura County Medical Center,"Ventura
-(34.2761958, -119.2524069)"
-56 - Ventura,11175,Ventura County Medical Center - Santa Paula Hospital,"Santa Paula
-(34.3657997, -119.0654106)"
-57 - Yolo,17725,Sutter Davis Hospital,"Davis
-(38.5628242, -121.7713013)"
-57 - Yolo,11198,Woodland Memorial Hospital,"Woodland
-(38.6640396, -121.7921524)"
-58 - Yuba,11205,Rideout Memorial Hospital,"Marysville
-(39.1382217, -121.5943604)"
+County Code,Perm ID,Facility Name,Latitude,Longitude
+01 - Alameda,11210,Alameda Hospital,37.7626572, -122.2538986
+01 - Alameda,11322,Alta Bates Summit Medical Center,37.8208094, -122.2630806
+01 - Alameda,11338,Alta Bates Summit Medical Center - Summit Campus,37.8199008, -122.2643586
+01 - Alameda,11214,Alta Bates Summit Medical Center-Alta Bates Campus,37.8559265, -122.257309
+01 - Alameda,11242,Children's Hospital & Research Center Oakland,37.8368568, -122.2671051
+01 - Alameda,18180,Eden Medical Center,37.69838, -122.0873925
+01 - Alameda,11268,Fairmont Hospital,37.7100449, -122.1153183
+01 - Alameda,11288,Highland Hospital,37.7991754, -122.2310563
+01 - Alameda,14509,Kaiser Foundation Hospital - Fremont,37.5518335, -121.9776935
+01 - Alameda,11295,Kaiser Foundation Hospital - Hayward,37.6305771, -122.0951462
+01 - Alameda,11296,Kaiser Foundation Hospital - Oakland Campus,37.824852, -122.2571869
+01 - Alameda,18206,Kaiser Foundation Hospital - Oakland/Richmond,37.8233092, -122.2592711
+01 - Alameda,18186,Kaiser Foundation Hospital - San Leandro,37.7062596, -122.1692482
+01 - Alameda,11321,Kindred Hospital - San Francisco Bay Area,37.7167397, -122.1298676
+01 - Alameda,11256,San Leandro Hospital,37.7145685, -122.1418836
+01 - Alameda,11344,St Rose Hospital,37.6333427, -122.0879517
+01 - Alameda,11363,Valley Memorial Hospital,37.6769028, -121.7817917
+01 - Alameda,16632,ValleyCare Medical Center,37.6939774, -121.8806839
+01 - Alameda,11366,Washington Hospital,37.5580099, -121.9806024
+03 - Amador,17490,Sutter Amador Hospital,38.3507271, -120.764679
+04 - Butte,10009,Enloe Medical Center - Cohasset,39.7516935, -121.8485096
+04 - Butte,10013,Enloe Medical Center - Esplanade,39.7422066, -121.8500061
+04 - Butte,16464,Enloe Rehabilitation Center,39.7541924, -121.8676453
+04 - Butte,10014,Feather River Hospital,39.7575226, -121.5691833
+04 - Butte,10006,Orchard Hospital,39.367691, -121.6895599
+04 - Butte,10019,Oroville Hospital,39.5054054, -121.541008
+05 - Calaveras,10029,Mark Twain Medical Center,38.1902046, -120.6700058
+06 - Colusa,10032,Colusa Regional Medical Center,39.2073686, -122.0004366
+07 - Contra Costa,10049,Contra Costa Regional Medical Center,38.0065689, -122.1331177
+07 - Contra Costa,10038,Doctors Medical Center - San Pablo Campus,37.9533005, -122.3364258
+07 - Contra Costa,10048,John Muir Medical Center-Concord Campus,37.9840473, -122.0349298
+10 - Fresno,16116,Clovis Community Medical  Center,36.8374579, -119.6607678
+07 - Contra Costa,10081,John Muir Medical Center-Walnut Creek Campus,37.9141818, -122.0421336
+07 - Contra Costa,18153,Kaiser Foundation Hospital - Antioch,37.9518547, -121.7769241
+07 - Contra Costa,17749,Kaiser Foundation Hospital - Richmond Campus,37.937576, -122.36097
+07 - Contra Costa,10072,Kaiser Foundation Hospital - Walnut Creek,37.8917542, -122.0595322
+07 - Contra Costa,16228,San Ramon Regional Medical Center,37.7770854, -121.9610464
+07 - Contra Costa,16166,San Ramon Regional Medical Center South Building,37.7772463, -121.9607292
+07 - Contra Costa,10052,Sutter Delta Medical Center,37.9837036, -121.8008118
+08 - Del Norte,12784,Sutter Coast Hospital,41.7745094, -124.1940002
+09 - El Dorado,10109,Barton Memorial Hospital,38.91161, -119.997597
+09 - El Dorado,10112,Marshall Medical Center,38.7255004, -120.7908884
+10 - Fresno,10162,Adventist Medical Center - Reedley,36.6078448, -119.4513356
+10 - Fresno,10160,Adventist Medical Center - Selma,36.5679474, -119.5984116
+10 - Fresno,10122,Coalinga Regional Medical Center,36.151538, -120.3403994
+10 - Fresno,10127,Community Regional Medical Center,36.7440643, -119.7837677
+10 - Fresno,17938,Fresno Heart And Surgical Hospital,36.85989, -119.7885513
+10 - Fresno,16878,Fresno Surgery Center,36.8250999, -119.781929
+10 - Fresno,13018,Kaiser Foundation Hospital - Fresno,36.8428688, -119.7812424
+10 - Fresno,10155,Saint Agnes Medical Center,36.8353767, -119.765625
+10 - Fresno,16404,San Joaquin Valley Rehabilitation Hospital,36.8399296, -119.7595395
+11 - Glenn,10175,Glenn Medical Center,39.5205112, -122.2077231
+12 - Humboldt,10186,Jerold Phelps Community Hospital,40.1016769, -123.7919312
+12 - Humboldt,13087,Mad River Community Hospital,40.8962479, -124.0914459
+12 - Humboldt,10183,Redwood Memorial Hospital,40.5823402, -124.1365204
+12 - Humboldt,10184,St. Joseph Hospital,40.7836571, -124.1424637
+12 - Humboldt,10180,The General Hospital,40.7880232, -124.1396894
+13 - Imperial,10190,El Centro Regional Medical Center,32.7804451, -115.5685196
+19 - Los Angeles,11386,Alhambra Hospital Medical Center,34.0904846, -118.1440964
+13 - Imperial,10192,Pioneers Memorial Healthcare District,32.9581223, -115.5538635
+14 - Inyo,10200,Northern Inyo Hospital,37.3621216, -118.4059296
+14 - Inyo,10202,Southern Inyo Hospital,36.6084147, -118.058331
+15 - Kern,17358,Bakersfield Heart Hospital,35.3854904, -119.0396042
+15 - Kern,10207,Bakersfield Memorial Hospital,35.3920212, -119.0067825
+15 - Kern,12765,Delano Regional Medical Center,35.7621613, -119.238884
+15 - Kern,10219,Good Samaritan Hospital,35.4117165, -119.0397263
+15 - Kern,16245,Healthsouth Bakersfield Rehabilitation Hospital,35.3673248, -119.0574265
+15 - Kern,10208,Kern Medical Center,35.3832321, -118.9699707
+15 - Kern,10210,Kern Valley Healthcare District,35.6352992, -118.406351
+15 - Kern,10214,Mercy Hospital,35.372791, -119.027611
+15 - Kern,17632,Mercy Southwest Hospital,35.3514481, -119.1124039
+15 - Kern,10220,Ridgecrest Regional Hospital,35.6408501, -117.6711655
+15 - Kern,12881,San Joaquin Community Hospital,35.3833771, -119.0196991
+15 - Kern,10226,Tehachapi Hospital,35.1300341, -118.4482887
+15 - Kern,18202,Tehachapi Hospital,35.144952, -118.450265
+16 - Kings,18194,Adventist Medical Center,36.3257146, -119.6683987
+16 - Kings,10242,Central Valley General Hospital,36.3359985, -119.6453094
+17 - Lake,10247,St. Helena Hospital - Clearlake,38.9361919, -122.6202428
+17 - Lake,14345,Sutter Lakeside Hospital,39.1048164, -122.9068604
+18 - Lassen,17940,Banner Lassen Medical Center,40.4362373, -120.6272659
+19 - Los Angeles,11399,Antelope Valley Hospital,34.6877708, -118.1579819
+19 - Los Angeles,11417,Barlow Respiratory Hospital,34.0754242, -118.2474213
+19 - Los Angeles,11441,Beverly Hospital,34.0150566, -118.1006393
+19 - Los Angeles,11480,California Hospital Medical Center - Los Angeles,34.0371506, -118.2654666
+19 - Los Angeles,11496,Casa Colina Hospital for Rehabilitative Medicine,34.0962806, -117.7456525
+19 - Los Angeles,11410,Catalina Island Medical Center,33.3389072, -118.3311854
+19 - Los Angeles,11891,Cedars-Sinai Medical Center,34.0765457, -118.3800049
+19 - Los Angeles,11510,Centinela Hospital Medical Center,33.9508476, -118.3482819
+19 - Los Angeles,12874,CENTURY CITY DOCTORS HOSPITAL,34.0592079, -118.4115448
+19 - Los Angeles,11525,Children's Hospital Los Angeles,34.0981051, -118.2906117
+19 - Los Angeles,11748,Citrus Valley Medical Center - IC Campus,34.0880203, -117.8934097
+19 - Los Angeles,11971,Citrus Valley Medical Center - QV Campus,34.0646515, -117.9444656
+19 - Los Angeles,11527,City Of Hope Helford Clinical Research Hospital,34.127777, -117.972443
+19 - Los Angeles,12088,Coast Plaza Hospital,33.9125519, -118.0984573
+19 - Los Angeles,11927,College Medical Center,33.8073273, -118.1930466
+19 - Los Angeles,11792,COMMUNITY HOSPITAL  LONG BEACH,33.7887993, -118.1448746
+19 - Los Angeles,11549,Community Hospital Of Huntington Park,33.989521, -118.224258
+19 - Los Angeles,12180,"DOCTORS HOSPITAL OF WEST COVINA, INC.",34.0713501, -117.9447784
+19 - Los Angeles,17572,EARL & LORAINE MILLER CHILDREN'S HOSPITAL,33.8078156, -118.1868362
+19 - Los Angeles,11598,East Los Angeles Doctors Hospital,34.0238851, -118.1841829
+19 - Los Angeles,11621,Encino Hospital Medical Center,34.1580353, -118.4875488
+19 - Los Angeles,13093,Foothill Presbyterian Hospital - Johnston Memorial,34.132885, -117.8712387
+19 - Los Angeles,12841,Gardens Regional Hospital And Medical Center,33.833561, -118.079369
+19 - Los Angeles,11658,Garfield Medical Center,34.0690346, -118.1238403
+19 - Los Angeles,11668,Glendale Adventist Medical Center,34.151104, -118.229912
+19 - Los Angeles,11844,Glendale Memorial Hospital and Health Center,34.1283531, -118.2577204
+19 - Los Angeles,11672,Glendora Community Hospital,34.1286448, -117.8660341
+19 - Los Angeles,11731,Good Samaritan Hospital,34.0532814, -118.2653788
+19 - Los Angeles,13224,Greater El Monte Community Hospital,34.0477676, -118.0434189
+19 - Los Angeles,13333,Henry Mayo Newhall Hospital,34.398087, -118.553551
+19 - Los Angeles,11722,Hollywood Presbyterian Medical Center,34.0956878, -118.291706
+19 - Los Angeles,11733,Huntington Memorial Hospital,34.1357352, -118.1523713
+19 - Los Angeles,11759,Kaiser Foundation Hospital,34.2187881, -118.4300308
+19 - Los Angeles,17207,Kaiser Foundation Hospital - Baldwin Park,34.0635207, -117.9857766
+19 - Los Angeles,11760,Kaiser Foundation Hospital - Los Angeles,34.0987167, -118.295372
+19 - Los Angeles,11758,Kaiser Foundation Hospital - South Bay,33.788593, -118.295652
+19 - Los Angeles,15666,Kaiser Foundation Hospital - Woodland Hills,34.1709785, -118.5897369
+19 - Los Angeles,17919,Kaiser Foundation Hospital-Downey,33.9170708, -118.1292446
+19 - Los Angeles,12875,KAISER FOUNDATION HOSPITAL-WEST LA,34.0386848, -118.3751678
+19 - Los Angeles,16483,Keck Hospital of USC,34.0619545, -118.2015686
+19 - Los Angeles,11768,Kindred Hospital - La Mirada,33.91637, -118.013329
+19 - Los Angeles,11414,Kindred Hospital - Los Angeles,33.9902153, -118.3784103
+19 - Los Angeles,11776,Kindred Hospital - San Gabriel Valley,34.0870667, -117.917244
+19 - Los Angeles,11704,Kindred Hospital Baldwin Park,34.0638285, -117.9677602
+19 - Los Angeles,11547,Kindred Hospital South Bay,33.8900032, -118.2974014
+19 - Los Angeles,11809,LAC/Harbor-UCLA Medical Center,33.8297997, -118.2947464
+19 - Los Angeles,15801,LAC/OLIVE VIEW-UCLA MEDICAL CENTER,34.325735, -118.445787
+19 - Los Angeles,11976,LAC/Rancho Los Amigos National Rehabilitation Ctr,33.929081, -118.157997
+19 - Los Angeles,11810,LAC+USC Medical Center,34.0597763, -118.2098618
+19 - Los Angeles,12831,Lakewood Regional Medical Center,33.859734, -118.150108
+19 - Los Angeles,12023,Little Company of Mary - San Pedro Hospital,33.7381859, -118.3037796
+19 - Los Angeles,11846,Long Beach Memorial Medical Center,33.8078156, -118.1868362
+19 - Los Angeles,11545,Los Angeles Community Hospital,34.0193863, -118.186615
+19 - Los Angeles,11428,Los Angeles Community Hospital at Bellflower,33.874352, -118.129448
+19 - Los Angeles,12882,Los Angeles Metropolitan Medical Center,34.0355568, -118.3095932
+19 - Los Angeles,12744,Marina Del Rey Hospital,33.982189, -118.439125
+19 - Los Angeles,12259,"Martin Luther King, Jr. Community Hospital",33.923991, -118.245304
+19 - Los Angeles,11843,Memorial Hospital of Gardena,33.8929977, -118.2950592
+19 - Los Angeles,11858,Methodist Hospital of Southern California,34.1336001, -118.0412903
+19 - Los Angeles,12024,Miracle Mile Medical Center,34.057224, -118.362221
+19 - Los Angeles,11847,Mission Community Hospital,34.2204094, -118.4566345
+19 - Los Angeles,11874,Monrovia Memorial Hospital,34.1490946, -117.9922286
+19 - Los Angeles,12878,Monterey Park Hospital,34.0501633, -118.1376266
+19 - Los Angeles,11887,Motion Picture & Television Hospital,34.1583462, -118.6360366
+19 - Los Angeles,11906,Northridge Hospital Medical Center,34.2199783, -118.5328827
+19 - Los Angeles,11910,Norwalk Community Hospital,33.9107323, -118.0639114
+19 - Los Angeles,11863,Olympia Medical Center,34.057506, -118.359991
+19 - Los Angeles,11646,Pacific Alliance Medical Center,34.0650482, -118.2391357
+19 - Los Angeles,12042,Pacifica Hospital of the Valley,34.2401848, -118.3963165
+19 - Los Angeles,18141,Palmdale Regional Medical Center,34.5830231, -118.1448975
+19 - Los Angeles,12235,PIH Hospital - Downey,33.9344368, -118.1311646
+19 - Los Angeles,11966,Pomona Valley Hospital Medical Center,34.0770912, -117.7505951
+19 - Los Angeles,11968,Presbyterian Intercommunity Hospital,33.969795, -118.049484
+19 - Los Angeles,11785,Promise Hosp Of East Los Angeles-East L.A. Campus,34.0397415, -118.2130508
+19 - Los Angeles,12787,Promise Hosp Of East Los Angeles-Suburban Campus,33.884331, -118.162048
+19 - Los Angeles,11726,Providence Holy Cross Medical Center,34.280216, -118.460335
+19 - Los Angeles,11787,Providence Little Company of Mary Medical Center Torrance,33.8389091, -118.3568268
+19 - Los Angeles,12006,Providence Saint John's Health Center,34.0298282, -118.4786654
+19 - Los Angeles,12008,Providence Saint Joseph Medical Center,34.156044, -118.3283463
+19 - Los Angeles,13085,Providence Tarzana Medical Center,34.1706467, -118.5319977
+19 - Los Angeles,12127,Ronald Reagan UCLA Medical Center,34.0662157, -118.4453161
+19 - Los Angeles,12004,Saint Francis Medical Center,33.9298439, -118.2031097
+19 - Los Angeles,12014,Saint Vincent Medical Center,34.0638771, -118.273468
+19 - Los Angeles,13084,San Dimas Community Hospital,34.0990654, -117.8343491
+19 - Los Angeles,11548,San Gabriel Valley Medical Center,34.1008072, -118.1059036
+19 - Los Angeles,12033,Santa Monica - UCLA Medical Center And Orthopaedic Hospital,34.0275, -118.4861105
+19 - Los Angeles,12047,Sherman Oaks Hospital,34.1602821, -118.4494171
+19 - Los Angeles,12050,Shriners Hospitals For Children,34.0671921, -118.2863998
+19 - Los Angeles,13225,Silver Lake Medical Center - Downtown Campus,34.0688007, -118.2633872
+19 - Los Angeles,11848,Southern California Hospital At Culver City,34.023212, -118.396927
+19 - Los Angeles,11718,Southern California Hospital at Hollywood,34.0962216, -118.3250646
+19 - Los Angeles,12012,St. Mary Medical Center,33.779911, -118.18605
+19 - Los Angeles,12249,Torrance Memorial Medical Center,33.8127583, -118.3441351
+19 - Los Angeles,15179,USC KENNETH NORRIS JR. CANCER HOSPITAL,34.060894, -118.2053528
+19 - Los Angeles,12551,USC Verdugo Hills Hospital,34.2045288, -118.2161407
+19 - Los Angeles,12140,Valley Presbyterian Hospital,34.1949463, -118.4632111
+19 - Los Angeles,12182,West Hills Hospital & Medical Center,34.2035408, -118.629374
+19 - Los Angeles,12198,White Memorial Medical Center,34.0493202, -118.2173462
+19 - Los Angeles,12201,Whittier Hospital Medical Center,33.950382, -118.004646
+20 - Madera,10257,Madera Community Hospital,36.9435844, -120.0443573
+20 - Madera,17124,Valley Children's Hospital,36.8839378, -119.8008804
+21 - Marin,10268,Kaiser Foundation Hospital - San Rafael,38.0039635, -122.5553665
+21 - Marin,10261,Kentfield Rehabilitation & Specialty Hospital,37.9586143, -122.5536423
+21 - Marin,10273,Marin General Hospital,37.9475441, -122.5354538
+21 - Marin,17672,Novato Community Hospital,38.0996895, -122.5603409
+22 - Mariposa,10287,John C. Fremont Healthcare District,37.5003967, -119.9776764
+23 - Mendocino,10295,Frank R. Howard Memorial Hospital,39.4003525, -123.350914
+23 - Mendocino,18198,Frank R. Howard Memorial Hospital,39.389344, -123.339759
+23 - Mendocino,10301,MENDOCINO COAST  DISTRICT HOSPITAL,39.4314041, -123.8019562
+23 - Mendocino,14560,UKIAH VALLEY MEDICAL CENTER,39.1532974, -123.2028809
+24 - Merced,10309,Memorial Hospital Los Banos,37.0652962, -120.8584442
+24 - Merced,10315,Mercy Medical Center,37.3387648, -120.4667804
+25 - Modoc,10322,Modoc Medical Center,41.4800298, -120.5440602
+25 - Modoc,10321,Surprise Valley Community Hospital,33.799278, -117.864563
+26 - Mono,14304,Mammoth Hospital,37.6437923, -118.9639031
+27 - Monterey,10330,Community Hospital of the Monterey Peninsula,36.57914, -121.913712
+27 - Monterey,10338,George L. Mee Memorial Hospital,36.2060928, -121.132988
+27 - Monterey,17353,Natividad Medical Center,36.6972984, -121.6288501
+27 - Monterey,10348,Salinas Valley Memorial Hospital,36.6590996, -121.6463013
+28 - Napa,10362,Queen Of The Valley Medical Center,38.324688, -122.2967072
+28 - Napa,10366,St. Helena Hospital,38.5437851, -122.4740067
+29 - Nevada,10375,Sierra Nevada Memorial Hospital,39.2280884, -121.0472031
+29 - Nevada,10377,Tahoe Forest Hospital,39.3249245, -120.2008667
+30 - Orange,10382,AHMC Anaheim Regional Medical Center,33.8476105, -117.9358444
+30 - Orange,13061,Anaheim Global Medical Center,33.8196602, -117.9096909
+30 - Orange,10400,Chapman Global Medical Center,33.788731, -117.826411
+30 - Orange,14370,Children's Hospital of Orange County,33.780739, -117.865466
+30 - Orange,10405,College Hospital Costa Mesa,33.6518936, -117.9119644
+30 - Orange,12573,Foothill Regional Medical Center,33.7302628, -117.8283157
+30 - Orange,12834,FOUNTAIN VALLEY REGIONAL HOSPITAL AND MEDICAL CENTER,33.7139854, -117.9343643
+30 - Orange,16234,FOUNTAIN VALLEY REGIONAL HOSPITAL AND MEDICAL CENTER,33.7132607, -117.9321976
+30 - Orange,10450,Garden Grove Hospital and Medical Center,33.7748528, -117.9132843
+30 - Orange,17438,Healthbridge Children's Hospital-Orange,33.7827988, -117.8339233
+30 - Orange,16536,Healthsouth Tustin Rehabilitation Hospital,33.747535, -117.8303037
+30 - Orange,16319,Hoag Hospital Irvine,33.6613007, -117.7720566
+30 - Orange,10428,Hoag Memorial Hospital Presbyterian,33.6252686, -117.9295568
+30 - Orange,10431,Huntington Beach Hospital,33.703636, -117.986679
+30 - Orange,18178,Kaiser Foundation Hospital - Orange County - Anaheim,33.852102, -117.844125
+30 - Orange,18152,KAISER FOUNDATION HOSPITAL - ORANGE COUNTY - IRVINE,33.6569901, -117.7731628
+30 - Orange,10407,Kindred Hospital - Santa Ana,33.762314, -117.891121
+30 - Orange,13068,Kindred Hospital Brea,33.9345245, -117.8939133
+30 - Orange,10476,Kindred Hospital Westminster,33.7624227, -117.9952381
+30 - Orange,13019,La Palma Intercommunity Hospital,33.8475227, -118.038414
+30 - Orange,10440,Los Alamitos Medical Center,33.8043938, -118.0666275
+30 - Orange,10468,Mission Hospital Laguna Beach,33.5005951, -117.7404938
+30 - Orange,12804,Mission Hospital Regional Medical Center,33.5610161, -117.6652985
+30 - Orange,15630,Orange Coast Memorial Medical Center,33.7016398, -117.9565445
+30 - Orange,18007,Orange County Global Medical Center,33.7536585, -117.8341627
+30 - Orange,10381,"Pacific Orange Hospital, LLC",33.8155975, -118.0070343
+30 - Orange,13077,Placentia Linda Hospital,33.8867477, -117.8420873
+30 - Orange,12755,Saddleback Memorial Medical Center,33.6080454, -117.7082712
+30 - Orange,13066,Saddleback Memorial Medical Center - San Clemente,33.4569206, -117.6500092
+30 - Orange,13059,South Coast Global Medical Center,33.7102623, -117.8848877
+30 - Orange,10457,St. Joseph Hospital,33.7822931, -117.864992
+30 - Orange,10458,St. Jude Medical Center,33.8946686, -117.9271851
+30 - Orange,10446,University of California Irvine Medical Center,33.7872532, -117.8906936
+31 - Placer,10494,Sutter Auburn Faith Hospital,38.9451599, -121.1018677
+30 - Orange,10475,West Anaheim Medical Center,33.8255768, -117.9949188
+31 - Placer,14214,KAISER FOUNDATION HOSPITAL - ROSEVILLE,38.7462654, -121.250061
+31 - Placer,17700,Sutter Roseville Medical Center,38.7651825, -121.2497864
+32 - Plumas,10514,Eastern Plumas Hospital-Portola Campus,39.8047562, -120.4591522
+32 - Plumas,10512,Plumas District Hospital,39.9388695, -120.962326
+32 - Plumas,10513,Seneca District Hospital,40.3054684, -121.2339062
+33 - Riverside,10529,Corona Regional Medical Center,33.8729897, -117.5685425
+33 - Riverside,10537,Desert Regional Medical Center,33.8384049, -116.5455457
+33 - Riverside,12662,Eisenhower Medical Center,33.7646523, -116.4055557
+33 - Riverside,10541,Hemet Valley Medical Center,33.7503204, -116.9600372
+33 - Riverside,10545,John F. Kennedy Memorial Hospital,33.7061195, -116.2371445
+33 - Riverside,18205,Joint Replacement Hospitals of America,33.7394603, -116.2601902
+33 - Riverside,16164,"KAISER FOUNDATION HOSPITAL, RIVERSIDE",33.9063949, -117.4708086
+33 - Riverside,16325,KAISER FOUNDATION HOSPITAL-MORENO VALLEY,33.8974037, -117.1860275
+33 - Riverside,13030,Kindred Hospital Riverside,33.8122063, -117.2227402
+33 - Riverside,18175,Loma Linda University Medical Center - Murrieta,33.6129264, -117.1671872
+33 - Riverside,16148,Menifee Valley Medical Center,33.7178323, -117.167853
+33 - Riverside,10553,Palo Verde Hospital,33.6130524, -114.5951157
+33 - Riverside,10554,Parkview Community Hospital Medical Center,33.9279747, -117.4384689
+33 - Riverside,18162,Rancho Mirage Rehabilitation Facility,33.8158657, -116.4397258
+33 - Riverside,10556,Riverside Community Hospital,33.9765587, -117.3814697
+33 - Riverside,18224,Riverside Psychiatric Hospital,33.901562, -117.246996
+33 - Riverside,15007,RIVERSIDE UNIVERSITY HEALTH SYSTEM - MEDICAL CENTER,33.9101547, -117.1954711
+33 - Riverside,10559,San Gorgonio Memorial Hospital,33.931839, -116.9456787
+33 - Riverside,15749,Southwest Healthcare System,33.5914612, -117.2380066
+33 - Riverside,16681,Southwest Healthcare System,33.5587616, -117.1833115
+33 - Riverside,18167,TEMECULA VALLEY HOSPITAL,33.4795884, -117.1047735
+34 - Sacramento,10604,Kaiser Foundation Hospital - Sacramento,38.6014175, -121.3941193
+34 - Sacramento,15570,Kaiser Foundation Hospital - South Sacramento,38.4695854, -121.4194641
+36 - San Bernardino,10695,St. Mary Medical Center,34.5418854, -117.2655716
+34 - Sacramento,10606,Mercy General Hospital,38.5705261, -121.4521561
+34 - Sacramento,16150,MERCY HOSPITAL OF FOLSOM,38.6702805, -121.1455231
+34 - Sacramento,10607,Mercy San Juan Medical Center,38.6695061, -121.3137817
+34 - Sacramento,13012,Methodist Hospital of Sacramento,38.4620781, -121.4165726
+34 - Sacramento,14506,SHRINERS HOSPITALS FOR CHILDREN NORTHERN CALIFORNIA,38.5528258, -121.4561514
+34 - Sacramento,10625,"Sutter Medical Center, Sacramento",38.5720177, -121.4692535
+34 - Sacramento,10619,University of California Davis Medical Center,38.5541146, -121.4572162
+34 - Sacramento,10631,Vibra Hospital of Sacramento,38.6819514, -121.1578529
+35 - San Benito,10640,Hazel Hawkins Memorial Hospital,36.8350527, -121.386422
+36 - San Bernardino,17282,Arrowhead Regional Medical Center,34.072016, -117.3527732
+36 - San Bernardino,16877,Ballard Rehabilitation Hospital,34.1293182, -117.3254547
+36 - San Bernardino,18197,Barstow Community Hospital,34.8923874, -117.017067
+36 - San Bernardino,13035,Bear Valley Community Hospital,34.246588, -116.888357
+36 - San Bernardino,13072,Chino Valley Medical Center,34.0256157, -117.6859436
+36 - San Bernardino,10684,Colorado River Medical Center,34.8330022, -114.6182652
+36 - San Bernardino,10697,Community Hospital of San Bernardino,34.1316234, -117.3225112
+36 - San Bernardino,12763,Desert Valley Hospital,34.4703064, -117.2994614
+36 - San Bernardino,14100,Hi-Desert Medical Center,34.1307526, -116.2750244
+36 - San Bernardino,10670,Kaiser Foundation Hospital Fontana,34.0733799, -117.4356213
+36 - San Bernardino,17905,Kaiser Foundation Hospital- Ontario,34.0324593, -117.6087418
+36 - San Bernardino,10685,Kindred Hospital Ontario,34.0688355, -117.6436655
+36 - San Bernardino,14102,Kindred Hospital Rancho,34.1036873, -117.5662231
+36 - San Bernardino,10677,Loma Linda University Medical Center,34.0491374, -117.2611718
+36 - San Bernardino,13073,Loma Linda University Medical Center East Campus Hospital,34.047153, -117.251221
+36 - San Bernardino,18161,LOMA LINDA UNIVERSITY SURGICAL HOSPITAL,34.0489349, -117.2199554
+36 - San Bernardino,12992,Montclair Hospital Medical Center,34.0786209, -117.695816
+36 - San Bernardino,10681,Mountains Community Hospital,34.2654533, -117.1685104
+36 - San Bernardino,10691,Redlands Community Hospital,34.0379677, -117.2068176
+37 - San Diego,12322,Grossmont Hospital,32.7809219, -117.0071487
+36 - San Bernardino,10696,San Antonio Regional Hospital,34.1020012, -117.6375198
+36 - San Bernardino,10694,St. Bernardine Medical Center,34.1341976, -117.2787054
+36 - San Bernardino,18201,Totally Kids Rehabilitation Hospital,34.0697174, -117.2448044
+36 - San Bernardino,10707,Victor Valley Global Medical Center,34.528168, -117.293938
+37 - San Diego,12872,Alvarado Hospital Medical Center,32.7763214, -117.0572968
+37 - San Diego,16263,ALVARADO HOSPITAL MEDICAL CENTER,32.7766724, -117.0577545
+37 - San Diego,12313,Fallbrook Hospital District,33.3808784, -117.2444534
+37 - San Diego,13111,Kaiser Foundation Hospital - San Diego,32.7913246, -117.0952377
+37 - San Diego,18199,Kaiser Permanente San Diego Central Hospital,32.8300264, -117.1266261
+37 - San Diego,12328,Kindred Hospital - San Diego,32.7561684, -117.1443558
+37 - San Diego,12347,Palomar Health Downtown Campus,33.1258902, -117.0762362
+37 - San Diego,18173,Palomar Medical Center West,33.1220474, -117.1203918
+37 - San Diego,12348,Paradise Valley Hospital,32.683949, -117.081635
+37 - San Diego,14190,Pomerado Hospital,32.9958373, -117.0578925
+37 - San Diego,12375,Promise Hospital of San Diego,32.7491951, -117.0756073
+37 - San Diego,12285,Rady Children's Hospital - San Diego,32.7975892, -117.1508317
+37 - San Diego,14181,Scripps Green Hospital,32.8963547, -117.2426147
+37 - San Diego,12309,Scripps Memorial Hospital - Encinitas,33.0362568, -117.2842529
+37 - San Diego,12363,Scripps Memorial Hospital - La Jolla,32.8851599, -117.2227914
+37 - San Diego,12339,Scripps Mercy Hospital,32.7513428, -117.1576843
+37 - San Diego,12268,Scripps Mercy Hospital Chula Vista,32.6337547, -117.0831528
+37 - San Diego,13336,Sharp Chula Vista Medical Center,32.6189003, -117.0226822
+37 - San Diego,12295,Sharp Coronado Hospital and Healthcare Center,32.6942524, -117.1679898
+37 - San Diego,15454,Sharp Mary Birch Hospital For Women And Newborns,32.7986345, -117.1560299
+37 - San Diego,12364,Sharp Memorial Hospital,32.8002452, -117.1551568
+37 - San Diego,12372,Tri-City Medical Center,33.1837005, -117.2928192
+37 - San Diego,11659,"UCSD La Jolla, John M/Sally B Thornton Hosp & Sulpizio Cardiovascular Ctr",32.8797432, -117.2238784
+38 - San Francisco,12432,Laguna Honda Hospital & Rehabilitation Center,37.7475858, -122.4587511
+37 - San Diego,12359,"University of California, San Diego Medical Center",32.7538215, -117.165144
+37 - San Diego,16703,Vibra Hospital of San Diego,32.7492828, -117.1599197
+38 - San Francisco,12421,California Pacific Medical Center  California East Campus Hospital,37.7867432, -122.4546738
+38 - San Francisco,12404,California Pacific Medical Center - California West Campus Hospital,37.7861157, -122.4560595
+38 - San Francisco,12416,California Pacific Medical Center - Davies Campus Hospital,37.768225, -122.434588
+38 - San Francisco,12482,California Pacific Medical Center - Pacific Campus Hospital,37.7906151, -122.4314346
+38 - San Francisco,12459,CALIFORNIA PACIFIC MEDICAL CENTER - ST. LUKES CAMPUS HOSPITAL,37.7471657, -122.4208527
+38 - San Francisco,18165,California Pacific Medical Center-Cathedral Hill Campus,37.7859802, -122.4223328
+38 - San Francisco,18188,California Pacific Medical Center-St. Lukes Hospital,37.7471657, -122.4208527
+38 - San Francisco,14621,Chinese Hospital,37.7956704, -122.4091771
+38 - San Francisco,12430,Kaiser Foundation Hospital - San Francisco,37.7823219, -122.4432297
+38 - San Francisco,12457,Saint Francis Memorial Hospital,37.7896309, -122.4165192
+38 - San Francisco,12463,San Francisco General Hospital,37.7556381, -122.4050903
+38 - San Francisco,12460,St. Mary's Medical Center,37.7737024, -122.4544012
+38 - San Francisco,12476,UCSF Medical Center,37.7635328, -122.4576252
+38 - San Francisco,18181,UCSF MEDICAL CENTER AT MISSION BAY,37.766874, -122.390852
+38 - San Francisco,12443,UCSF Medical Center at Mount Zion,37.784893, -122.4389267
+39 - San Joaquin,10729,Dameron Hospital,37.9612586, -121.3007066
+39 - San Joaquin,10745,Doctors Hospital of Manteca,37.8015862, -121.1975174
+39 - San Joaquin,16324,Kaiser Foundation Hospital - Manteca,37.7980576, -121.2462006
+39 - San Joaquin,10743,Lodi Memorial Hospital,38.1205101, -121.2877579
+39 - San Joaquin,10753,San Joaquin General Hospital,37.8866386, -121.2829971
+39 - San Joaquin,10750,St. Joseph's Medical Center of Stockton,37.9706078, -121.2882156
+39 - San Joaquin,10757,Sutter Tracy Community Hospital,37.743866, -121.4339905
+40 - San Luis Obispo,12964,French Hospital Medical Center,35.2779935, -120.6496936
+40 - San Luis Obispo,10766,"Marian Regional Medical Center, Arroyo Grande",35.1134605, -120.590538
+40 - San Luis Obispo,10778,Sierra Vista Regional Medical Center,35.2921181, -120.6660004
+40 - San Luis Obispo,13999,Twin Cities Community Hospital,35.5553551, -120.720665
+41 - San Mateo,10797,Kaiser Foundation Hospital - Redwood City,37.489263, -122.223849
+41 - San Mateo,18219,Kaiser Foundation Hospital - Redwood City,37.489127, -122.225155
+41 - San Mateo,13086,Kaiser Foundation Hospital - South San Francisco,37.659336, -122.439209
+41 - San Mateo,16836,Menlo Park Surgical Hospital,37.4621833, -122.1593676
+41 - San Mateo,10804,Mills-Peninsula Medical Center,37.5924072, -122.3850479
+41 - San Mateo,10810,San Mateo Medical Center,37.5309029, -122.300209
+41 - San Mateo,10811,Sequoia Hospital,37.4799843, -122.2544022
+41 - San Mateo,10801,Seton Medical Center,37.6796951, -122.4743729
+42 - Santa Barbara,17662,Cottage Rehabilitation Hospital,34.4328232, -119.7227325
+42 - Santa Barbara,10831,Goleta Valley Cottage Hospital,34.4334373, -119.8103867
+42 - Santa Barbara,10836,Lompoc Valley Medical Center,34.6392824, -120.4395707
+42 - Santa Barbara,10838,Marian Regional Medical Center,34.950985, -120.4132233
+42 - Santa Barbara,10843,Santa Barbara Cottage Hospital,34.4294089, -119.7232325
+42 - Santa Barbara,10848,Santa Ynez Valley Cottage Hospital,34.6020927, -120.1258926
+43 - Santa Clara,16713,Children's Recovery Center of Northern California,37.2597503, -121.9469628
+43 - Santa Clara,10883,El Camino Hospital,37.369339, -122.0803909
+43 - Santa Clara,10874,El Camino Hospital Los Gatos,37.2628555, -121.9692535
+43 - Santa Clara,10890,Good Samaritan Hospital,37.25222, -121.946602
+43 - Santa Clara,12952,KAISER FOUNDATION HOSPITAL-SAN JOSE,37.2393951, -121.8007431
+43 - Santa Clara,17668,Kaiser Foundation Hospital-Santa Clara,37.337645, -121.9983995
+43 - Santa Clara,16477,Lucile Packard Children's Hospital Stanford,37.4363861, -122.1750488
+43 - Santa Clara,10878,Mission Oaks Hospital,37.2443581, -121.9482269
+43 - Santa Clara,10919,O'Connor Hospital,37.328186, -121.938461
+43 - Santa Clara,10856,Regional Medical Center of San Jose,37.3625717, -121.849762
+43 - Santa Clara,17487,SAINT LOUISE REGIONAL HOSPITAL,37.0357666, -121.5710907
+43 - Santa Clara,10935,Santa Clara Valley Medical Center,37.313427, -121.9341888
+43 - Santa Clara,10943,Stanford Health Care,37.4330139, -122.1758423
+44 - Santa Cruz,10972,Dominican Hospital,36.99017, -121.983528
+44 - Santa Cruz,13901,Sutter Maternity & Surgery Center of Santa Cruz,36.9876938, -121.977478
+44 - Santa Cruz,15019,Watsonville Community Hospital,36.9282299, -121.7935015
+45 - Shasta,11000,Mayers Memorial Hospital,41.024181, -121.4244316
+45 - Shasta,11002,Mercy Medical Center Redding,40.5718193, -122.3952179
+45 - Shasta,16679,Patients' Hospital of Redding,40.5859413, -122.4166794
+45 - Shasta,11001,Shasta Regional Medical Center,40.5856285, -122.3877411
+45 - Shasta,16620,VIBRA HOSPITAL OF NORTHERN CALIFORNIA,40.5857304, -122.4131233
+47 - Siskiyou,14900,Fairchild Medical Center,41.7194939, -122.6458054
+47 - Siskiyou,13812,Mercy Medical Center Mt. Shasta,41.3189538, -122.3231439
+48 - Solano,18164,Kaiser Foundation Hospital - Vacaville,38.388462, -121.938097
+48 - Solano,13142,KAISER FOUNDATION HOSPITAL & REHAB CENTER - VALLEJO,38.1283642, -122.2476558
+48 - Solano,11019,Northbay Medical Center,38.2617416, -122.0466232
+48 - Solano,15807,NORTHBAY VACAVALLEY HOSPITAL,38.355854, -121.9519653
+48 - Solano,12525,Sutter Solano Medical Center,38.1311836, -122.2373276
+49 - Sonoma,12823,Healdsburg District Hospital,38.6274938, -122.8638015
+49 - Sonoma,16242,Kaiser Foundation Hospital - Santa Rosa,38.4714851, -122.7264175
+49 - Sonoma,14568,Petaluma Valley Hospital,38.2545395, -122.6317825
+49 - Sonoma,11054,Santa Rosa Memorial Hospital,38.4417572, -122.7023926
+49 - Sonoma,11059,Santa Rosa Memorial Hospital,38.4437103, -122.7013779
+49 - Sonoma,11064,Sonoma Valley Hospital,38.2884371, -122.465246
+49 - Sonoma,11052,Sonoma West Medical Center,38.3971062, -122.8192596
+49 - Sonoma,18187,Sutter Santa Rosa Regional Hospital,38.4950943, -122.751915
+50 - Stanislaus,11098,Central Valley Specialty Hospital,37.643425, -120.9906082
+50 - Stanislaus,11085,Doctors Medical Center,37.6653976, -120.9973984
+50 - Stanislaus,11090,Emanuel Medical Center,37.5116386, -120.8379974
+50 - Stanislaus,18204,HealthSouth Modesto Rehabilitation Hospital,37.6970596, -120.9754639
+50 - Stanislaus,18151,Kaiser Foundation Hospital Modesto,37.7055991, -121.0501467
+50 - Stanislaus,11111,Memorial Medical Center,37.6686707, -120.9733582
+50 - Stanislaus,13110,Oak Valley District Hospital,37.757076, -120.861115
+50 - Stanislaus,17461,Stanislaus Surgical Hospital,37.6647263, -120.9583817
+51 - Sutter,11114,Fremont Medical Center,39.1427086, -121.6177411
+51 - Sutter,17724,Sutter Surgical Hospital - North Valley,39.1316032, -121.6129532
+52 - Tehama,11121,St. Elizabeth Community Hospital,40.1481247, -122.2193375
+53 - Trinity,11125,Trinity Hospital,40.7377479, -122.9399025
+54 - Tulare,12601,Kaweah Delta Medical Center,36.3273963, -119.2960753
+54 - Tulare,18179,Kaweah Delta Rehabilitation Hospital,36.3238665, -119.3495277
+54 - Tulare,11140,Sierra View Medical Center,36.0695153, -119.0271007
+54 - Tulare,11145,Tulare Regional Medical Center,36.221307, -119.338575
+55 - Tuolumne,11151,Sonora Regional Medical Center,37.979607, -120.390839
+55 - Tuolumne,18163,Sonora Regional Medical Center,37.9757144, -120.3690092
+56 - Ventura,11159,Community Memorial Hospital - San Buenaventura,34.2745857, -119.25811
+56 - Ventura,11172,St Johns Regional Medical Center,34.2167816, -119.1563034
+56 - Ventura,11164,Los Robles Hospital & Medical Center,34.207592, -118.8824005
+56 - Ventura,16244,LOS ROBLES HOSPITAL & MEDICAL CENTER - EAST CAMPUS,34.1550293, -118.8155975
+56 - Ventura,11169,Ojai Valley Community Hospital,34.4428787, -119.2644653
+56 - Ventura,11177,Simi Valley Hospital & Health Care Services,34.289192, -118.744827
+56 - Ventura,13181,St Johns Pleasant Valley Hospital,34.2435837, -119.0198364
+56 - Ventura,17669,"Thousand Oaks Surgical Hosp., A Campus Of Los Robles Hosp. & Medical Ctr.",34.1750336, -118.8690338
+56 - Ventura,11162,Ventura County Medical Center,34.2761958, -119.2524069
+56 - Ventura,11175,Ventura County Medical Center - Santa Paula Hospital,34.3657997, -119.0654106
+57 - Yolo,17725,Sutter Davis Hospital,38.5628242, -121.7713013
+57 - Yolo,11198,Woodland Memorial Hospital,38.6640396, -121.7921524
+58 - Yuba,11205,Rideout Memorial Hospital,39.1382217, -121.5943604
