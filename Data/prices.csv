@@ -1,0 +1,7 @@
+Category,Select Care Provider,In-Network,Out-of-Network
+PrimaryCareProviders,$20 copay,$20 copay,50% coinsurance
+Hospitals,10% coinsurance,20% coinsurance,50% coinsurance
+UrgentCare,$50 copay,$50 copay,50% coinsurance
+Pharmacy,10% coinsurance,10% coinsurance,10% coinsurance
+BehavioralProfessionals,10% coinsurance,20% coinsurance,50% coinsurance
+Laboratories,10% coinsurance,20% coinsurance,50% insurance
