@@ -1,0 +1,13 @@
+.modal-body img {
+    width: 50px;
+    height: auto;
+    padding-left: 10px;
+}
+
+.modal-body .content {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid #18BC9C;
+    margin-bottom: 5px;
+    border-radius: 8px;
+}

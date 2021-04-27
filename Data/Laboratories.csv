@@ -1,25 +1,25 @@
-Name,Address,Phone,Distance,Specialties
-Quest Diagnostics Incorporated,"1530 S OLIVE ST, LOS ANGELES, CA 90015", (213) 747-5542 ,1.18miles,Independent Lab
-Quest Diagnostics,"1414 S GRAND AVE STE 180, LOS ANGELES, CA 90015", (213) 765-0457 ,1.21miles,Independent Lab
-Quest Diagnostics Incorporated,"1414 S GRAND AVE STE 180, LOS ANGELES, CA 90015", (213) 765-0457 ,1.21miles,Independent Lab
-LabCorp,"1400 S GRAND AVE STE 612, LOS ANGELES, CA 90015", (213) 745-8205 ,1.24miles,Independent Lab
-Quest Diagnostics Incorporated,"1400 S GRAND AVE FL 8TH, LOS ANGELES, CA 90015", (213) 765-9530 ,1.24miles,Independent Lab
-Quest Diagnostics Incorporated,"10833 LE CONTE AVENUE, LOS ANGELES, CA 90096", (310) 825-1900 ,2.03miles,Independent Lab
-Quest Diagnostics,"SUITE 203 & 204, 1127 WILSHIRE BLVD, LOS ANGELES, CA 90017", (213) 977-0164 ,2.1miles,Independent Lab
-Quest Diagnostics Incorporated,"1127 WILSHIRE BLVD STE 203, LOS ANGELES, CA 90017", (213) 977-0164 ,2.1miles,Independent Lab
-LabCorp,"2007 WILSHIRE BLVD STE 400, LOS ANGELES, CA 90057", (213) 413-0210 ,2.18miles,Independent Lab
-Quest Diagnostics,"500 S VIRGIL AVE STE 202, LOS ANGELES, CA 90020", (213) 389-3107 ,2.67miles,Independent Lab
-Quest Diagnostics Incorporated,"420 E 3RD ST STE 802, LOS ANGELES, CA 90013", (213) 687-8758 ,2.75miles,Independent Lab
-Quest Diagnostics,"420 E 3RD ST STE 802, LOS ANGELES, CA 90013", (213) 687-8758 ,2.75miles,Independent Lab
-Quest Diagnostics Incorporated,"3663 W 6TH ST STE 307, LOS ANGELES, CA 90020", (213) 738-8100 ,2.78miles,Independent Lab
-Quest Diagnostics,"2105 BEVERLY BLVD STE 105, LOS ANGELES, CA 90057", (213) 413-1274 ,2.87miles,Independent Lab
-Quest Diagnostics Incorporated,"2105 BEVERLY BLVD STE 105, LOS ANGELES, CA 90057", (213) 413-1274 ,2.87miles,Independent Lab
-Quest Diagnostics Incorporated,"1632 E CESAR E CHAVEZ AVE, LOS ANGELES, CA 90033", (323) 268-7649 ,4.08miles,Independent Lab
-LabCorp,"1825 CESAR CHAVEZ AVENUE, LOS ANGELES, CA 90033", (323) 441-0181 ,4.18miles,Independent Lab
-Quest Diagnostics Incorporated,"944 E HYDE PARK BLVD, INGLEWOOD, CA 90302", (888) 277-8772 ,4.74miles,Independent Lab
-Quest Diagnostics Incorporated,"1300 N VERMONT AVE, LOS ANGELES, CA 90027", (323) 913-4884 ,4.83miles,Independent Lab
-American Bio-Clinical Lab/N Main,"2730 N MAIN ST, LOS ANGELES, CA 90031", (323) 222-6688 ,4.84miles,Independent Lab
-LabCorp,"5901 W OLYMPIC BLVD STE 109, LOS ANGELES, CA 90036", (323) 933-9718 ,4.91miles,Independent Lab
-Quest Diagnostics,"4520 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 331-9112 ,4.97miles,Independent Lab
-Quest Diagnostics Incorporated,"4546 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 277-8772 ,4.97miles,Independent Lab
-Quest Diagnostics Incorporated,"4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 277-8772 ,4.97miles,Independent Lab
+Name,Address,Phone,Distance,Specialties,Latitude,Longitude
+Quest Diagnostics Incorporated,"1530 S OLIVE ST, LOS ANGELES, CA 90015",(213) 747-5542,1.18miles,Independent Lab,34.0352575,-118.2649551
+Quest Diagnostics,"1414 S GRAND AVE STE 180, LOS ANGELES, CA 90015",(213) 765-0457,1.21miles,Independent Lab,34.0364757,-118.2653972
+Quest Diagnostics Incorporated,"1414 S GRAND AVE STE 180, LOS ANGELES, CA 90015",(213) 765-0457,1.21miles,Independent Lab,34.0364757,-118.2653972
+LabCorp,"1400 S GRAND AVE STE 612, LOS ANGELES, CA 90015",(213) 745-8205,1.24miles,Independent Lab,34.0367904,-118.2651761
+Quest Diagnostics Incorporated,"1400 S GRAND AVE FL 8TH, LOS ANGELES, CA 90015",(213) 765-9530,1.24miles,Independent Lab,34.0368416,-118.2652246
+Quest Diagnostics Incorporated,"10833 LE CONTE AVENUE, LOS ANGELES, CA 90096",(310) 825-1900,2.03miles,Independent Lab,34.0642829,-118.4423562
+Quest Diagnostics,"SUITE 203 & 204, 1127 WILSHIRE BLVD, LOS ANGELES, CA 90017",(213) 977-0164,2.1miles,Independent Lab,34.0531932,-118.2638542
+Quest Diagnostics Incorporated,"1127 WILSHIRE BLVD STE 203, LOS ANGELES, CA 90017",(213) 977-0164,2.1miles,Independent Lab,34.0531932,-118.2638542
+LabCorp,"2007 WILSHIRE BLVD STE 400, LOS ANGELES, CA 90057",(213) 413-0210,2.18miles,Independent Lab,34.0576782,-118.2748605
+Quest Diagnostics,"500 S VIRGIL AVE STE 202, LOS ANGELES, CA 90020",(213) 389-3107,2.67miles,Independent Lab,34.0649948,-118.2867154
+Quest Diagnostics Incorporated,"420 E 3RD ST STE 802, LOS ANGELES, CA 90013",(213) 687-8758,2.75miles,Independent Lab,34.0466808,-118.2419722
+Quest Diagnostics,"420 E 3RD ST STE 802, LOS ANGELES, CA 90013",(213) 687-8758,2.75miles,Independent Lab,34.0466808,-118.2419722
+Quest Diagnostics Incorporated,"3663 W 6TH ST STE 307, LOS ANGELES, CA 90020",(213) 738-8100,2.78miles,Independent Lab,34.063828,-118.3020382
+Quest Diagnostics,"2105 BEVERLY BLVD STE 105, LOS ANGELES, CA 90057",(213) 413-1274,2.87miles,Independent Lab,34.067247,-118.2703818
+Quest Diagnostics Incorporated,"2105 BEVERLY BLVD STE 105, LOS ANGELES, CA 90057",(213) 413-1274,2.87miles,Independent Lab,34.067247,-118.2703818
+Quest Diagnostics Incorporated,"1632 E CESAR E CHAVEZ AVE, LOS ANGELES, CA 90033",(323) 268-7649,4.08miles,Independent Lab,34.0511367,-118.2180542
+LabCorp,"1825 CESAR CHAVEZ AVENUE, LOS ANGELES, CA 90033",(323) 441-0181,4.18miles,Independent Lab,34.0505749,-118.2154367
+Quest Diagnostics Incorporated,"944 E HYDE PARK BLVD, INGLEWOOD, CA 90302",(888) 277-8772,4.74miles,Independent Lab,33.978437,-118.341383
+Quest Diagnostics Incorporated,"1300 N VERMONT AVE, LOS ANGELES, CA 90027",(323) 913-4884,4.83miles,Independent Lab,34.0963224,-118.2903015
+American Bio-Clinical Lab/N Main,"2730 N MAIN ST, LOS ANGELES, CA 90031",(323) 222-6688,4.84miles,Independent Lab,34.0655611,-118.2130965
+LabCorp,"5901 W OLYMPIC BLVD STE 109, LOS ANGELES, CA 90036",(323) 933-9718,4.91miles,Independent Lab,34.0579402,-118.3601262
+Quest Diagnostics,"4520 W SUNSET BLVD, LOS ANGELES, CA 90027",(323) 331-9112,4.97miles,Independent Lab,34.0969729,-118.2880171
+Quest Diagnostics Incorporated,"4546 W SUNSET BLVD, LOS ANGELES, CA 90027",(888) 277-8772,4.97miles,Independent Lab,34.0979739,-118.2887565
+Quest Diagnostics Incorporated,"4650 W SUNSET BLVD, LOS ANGELES, CA 90027",(888) 277-8772,4.97miles,Independent Lab,34.0976168,-118.290099

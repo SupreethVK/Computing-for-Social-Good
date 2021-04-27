@@ -1,8 +1,8 @@
-"terms","definitions"
-"Co-insurance","This accounts for the percentage of the amount you owe from your bill for a health service you’ve taken. The rest is paid for by your insurance company."
-"Co-payment","This is a fixed amount of money that you need to pay for any services you receive. Co-payments occur either before or after reaching your deductible depending on the plan you choose. "
-"Deductible","The amount of money that needs to be paid by you before your insurance starts covering your payments. Accounts for health services beyond preventive care. "
-"In-Network/Out-Network","An In-Network provider is contractually bound to your insurance company to charge a predetermined amount for their services. Your insurance company will cover relatively little of what costs you may incur at an Out-of-Network provider. Hence, an In-network provider is always the best option. "
-"Out-of-Pocket Maximum","This is the maximum amount of money (co-pay/co-insurance) that you are responsible for paying every year. Once this limit is reached, your insurance company pays for all your medical bills for the rest of the year. "
-"Plan Type","There are different types of health insurance plans designed to meet different needs; some restrict provider choices or enable you to seek care from the plan's network of medical services."
-"Premium","The cost of becoming a member; paid monthly or annually to sustain the membership. Purchasing premium memberships offers one access to preventive care."
+terms,definitions
+Co-insurance,This accounts for the percentage of the amount you owe from your bill for a health service you've taken. The rest is paid for by your insurance company.
+Co-payment,This is a fixed amount of money that you need to pay for any services you receive. Co-payments occur either before or after reaching your deductible depending on the plan you choose. 
+Deductible,The amount of money that needs to be paid by you before your insurance starts covering your payments. Accounts for health services beyond preventive care. 
+In-Network/Out-Network,"An In-Network provider is contractually bound to your insurance company to charge a predetermined amount for their services. Your insurance company will cover relatively little of what costs you may incur at an Out-of-Network provider. Hence, an In-network provider is always the best option. "
+Out-of-Pocket Maximum,"This is the maximum amount of money (co-pay/co-insurance) that you are responsible for paying every year. Once this limit is reached, your insurance company pays for all your medical bills for the rest of the year. "
+Plan Type,There are different types of health insurance plans designed to meet different needs; some restrict provider choices or enable you to seek care from the plan's network of medical services.
+Premium,The cost of becoming a member; paid monthly or annually to sustain the membership. Purchasing premium memberships offers one access to preventive care.

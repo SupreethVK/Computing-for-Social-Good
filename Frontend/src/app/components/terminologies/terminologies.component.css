@@ -1,0 +1,32 @@
+.content {
+    padding-right: 120px;
+    padding-left: 120px;
+    padding-top: 70px;
+}
+
+.content > mat-card {
+    width: 200px;
+    margin-bottom: 16px;
+}
+
+mat-toolbar {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    align-items: center;
+    background-image: linear-gradient(to right, #2DB993 50%, #00AEEF);
+}
+
+.column-label {
+    margin-right: 8px;
+    font-size: 1rem;
+}
+
+.mat-card-content {
+    padding-top: 20px;
+}
+
+mat-card {
+    background-color: #2DB993;
+    /* background-image: linear-gradient(to right, #2DB993 50%, #00AEEF); */
+}
+

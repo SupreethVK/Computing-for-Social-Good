@@ -1,0 +1,25 @@
+<div class="container">
+  <mat-toolbar>
+      AETNA STUDENT HEALTH INSURANCE PLAN - OA MANAGED CHOICE POS
+  </mat-toolbar>
+</div>
+
+<div class="content">
+    <div fxLayout="row wrap" fxLayoutGap="16px grid">
+        <div fxFlex="33%" fxFlex.xs="100%" fxFlex.sm="33%" *ngFor="let category of categories">
+        <mat-card class="mat-elevation-z4" (mouseover)="toggleHover(category[0])" (mouseleave)="removeHover()">
+          <mat-card-header fxLayoutAlign="center">
+            <mat-card-title>{{ category[0] }}</mat-card-title>
+          </mat-card-header>
+          <a [routerLink] = "['/services', category[4]]" fxLayoutAlign="center"> 
+            <img mat-card-image src={{category[5]}}>
+          </a>
+          <mat-card-content *ngIf="hoveredElement === category[0]">
+            <p>
+                {{ category[6] }}
+            </p>
+          </mat-card-content>
+        </mat-card>
+      </div>
+    </div>
+</div>

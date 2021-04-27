@@ -1,12 +1,14 @@
 from flask import Flask,request, jsonify
 from flaskext.mysql import MySQL
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 mysql = MySQL()
-app.config['MYSQL_DATABASE_USER'] = 'root'
-app.config['MYSQL_DATABASE_PASSWORD'] = ''
-app.config['MYSQL_DATABASE_DB'] = 'socialgood'
-app.config['MYSQL_DATABASE_HOST'] = 'localhost'
+app.config['MYSQL_DATABASE_USER'] = 'medmaps0_jaya'
+app.config['MYSQL_DATABASE_PASSWORD'] = 'socialinnovator'
+app.config['MYSQL_DATABASE_DB'] = 'medmaps0_socialgood'
+app.config['MYSQL_DATABASE_HOST'] = '162.144.15.8'
 mysql.init_app(app)
 
 
@@ -33,8 +35,8 @@ def urg(name = ''):
 	prices = cursor.fetchall()
 	deets["data"] = results
 	deets["SelectCareProviders"] = prices[0][1]
-	deets["In-network"] = prices[0][2]
-	deets["Out-network"] = prices[0][3]
+	deets["Innetwork"] = prices[0][2]
+	deets["Outnetwork"] = prices[0][3]
 
 	cursor.close()
 
@@ -59,8 +61,8 @@ def phar(name = ''):
 	prices = cursor.fetchall()
 	deets["data"] = results
 	deets["SelectCareProviders"] = prices[0][1]
-	deets["In-network"] = prices[0][2]
-	deets["Out-network"] = prices[0][3]
+	deets["Innetwork"] = prices[0][2]
+	deets["Outnetwork"] = prices[0][3]
 	cursor.close()
 
 	return jsonify(deets)
@@ -84,8 +86,8 @@ def labs(name = ''):
 	prices = cursor.fetchall()
 	deets["data"] = results
 	deets["SelectCareProviders"] = prices[0][1]
-	deets["In-network"] = prices[0][2]
-	deets["Out-network"] = prices[0][3]
+	deets["Innetwork"] = prices[0][2]
+	deets["Outnetwork"] = prices[0][3]
 	cursor.close()
 
 	return jsonify(deets)
@@ -106,12 +108,12 @@ def bahvprofs(name = ''):
 		cursor.execute("select * from behavioralprofessionals where name like %s", n)
 		results = cursor.fetchall()
 	
-	cursor.execute("select * from prices where Category like %s", "BehavioralProfessionals")
+	cursor.execute("select * from prices where Category like %s", "MentalHealthProfessionals")
 	prices = cursor.fetchall()
 	deets["data"] = results
 	deets["SelectCareProviders"] = prices[0][1]
-	deets["In-network"] = prices[0][2]
-	deets["Out-network"] = prices[0][3]
+	deets["Innetwork"] = prices[0][2]
+	deets["Outnetwork"] = prices[0][3]
 	cursor.close()
 
 	return jsonify(deets)
@@ -135,8 +137,8 @@ def hosp(name = ''):
 	prices = cursor.fetchall()
 	deets["data"] = results
 	deets["SelectCareProviders"] = prices[0][1]
-	deets["In-network"] = prices[0][2]
-	deets["Out-network"] = prices[0][3]
+	deets["Innetwork"] = prices[0][2]
+	deets["Outnetwork"] = prices[0][3]
 	cursor.close()
 
 	return jsonify(deets)
@@ -160,8 +162,8 @@ def pcp(name = ''):
 	prices = cursor.fetchall()
 	deets["data"] = results
 	deets["SelectCareProviders"] = prices[0][1]
-	deets["In-network"] = prices[0][2]
-	deets["Out-network"] = prices[0][3]
+	deets["Innetwork"] = prices[0][2]
+	deets["Outnetwork"] = prices[0][3]
 	cursor.close()
 
 	return jsonify(deets)
@@ -198,7 +200,17 @@ def terms():
 	cursor.close()
 	return jsonify(deets)
 
-
+@app.route('/prices')
+def categories():
+	conn = mysql.connect()
+	cursor = conn.cursor()
+	reults = []
+	deets = {}
+	cursor.execute("select * from prices")
+	results = cursor.fetchall()
+	deets["data"] = results
+	cursor.close()
+	return jsonify(deets)
 
 
 		

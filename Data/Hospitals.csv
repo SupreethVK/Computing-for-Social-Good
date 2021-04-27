@@ -1,71 +1,71 @@
-Name,Address,Phone,Distance,Specialties
-California Hospital Medical Center- Los Angeles,"1401 S GRAND AVE, LOS ANGELES, CA 90015", (213) 748-2411 ,1.19miles,Acute Short Term Hospital
-Good Samaritan Hospital,"1225 WILSHIRE BLVD, LOS ANGELES, CA 90017", (213) 977-2121 ,2.1miles,Acute Short Term Hospital
-West Los Angeles VAMC,"351 E TEMPLE ST, LOS ANGELES, CA 90012", (213) 253-2677 ,3.06miles,Acute Short Term Hospital
-Cedars-Sinai Medical Center,"8730 ALDEN DRIVE, LOS ANGELES, CA 90051", (310) 423-3411 ,3.82miles,Acute Short Term Hospital
-Adventist Health White Memorial,"1720 CESAR E. CHAVEZ AVENUE, LOS ANGELES, CA 90033", (323) 268-5000 ,4.13miles,Acute Short Term Hospital
-Community Hospital of Huntington Park,"2623 E SLAUSON AVE, HUNTINGTON PARK, CA 90255", (323) 583-1931 ,4.26miles,Acute Short Term Hospital
-Barlow Respiratory Hospital,"2000 STADIUM WAY, LOS ANGELES, CA 90026", (213) 250-4200 ,4.47miles,Long Term Acute Care Hospital
-Hollywood Presbyterian Medical Center,"1300 N VERMONT AVE, LOS ANGELES, CA 90027", (323) 913-4800 ,4.83miles,Acute Short Term Hospital
-Childrens Hospital Los Angeles,"4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 660-2450 ,4.97miles,Children's Hospital
-Shriners Hospital for Children-Pasadena CA,"4650 SUNSET BLVD., LOS ANGELES, CA 90027", (213) 388-3151 ,4.97miles,Acute Short Term Hospital
-USC Kenneth Norris Jr. Cancer Hospital,"1441 EASTLAKE AVE, LOS ANGELES, CA 90089", (323) 865-3000 ,5.11miles,Acute Short Term Hospital
-Keck Hospital of USC,"1500 SAN PABLO ST, LOS ANGELES, CA 90033", (323) 442-8500 ,5.23miles,Acute Short Term Hospital
-Southern California Hospital at Hollywood,"6245 DE LONGPRE AVE, HOLLYWOOD, CA 90028", (323) 462-2271 ,5.4miles,Acute Short Term Hospital
-Los Angeles Community Hospital,"4081 E OLYMPIC BLVD, LOS ANGELES, CA 90023", (323) 267-0477 ,5.52miles,Acute Short Term Hospital
-East Los Angeles Doctors Hospital,"4060 EAST WHITTIER BLVD., LOS ANGELES, CA 90023", (323) 268-5514 ,5.64miles,Acute Short Term Hospital
-Kindred Hospital Los Angeles,"5525 W SLAUSON AVE, LOS ANGELES, CA 90056", (310) 642-0325 ,6.07miles,Long Term Acute Care Hospital
-Centinela Hospital Medical Center,"555 E HARDY ST, INGLEWOOD, CA 90301", (310) 673-4660 ,6.54miles,Acute Short Term Hospital
-Southern California Hospital at Culver City,"3828 DELMAS TER, CULVER CITY, CA 90232", (310) 836-7000 ,6.55miles,Acute Short Term Hospital
-Cedars-Sinai Medical Center,"8700 BEVERLY BLVD, WEST HOLLYWOOD, CA 90048", (323) 866-8415 ,6.66miles,Acute Short Term Hospital
-Cedars-Sinai Medical Center,"8700 BEVERLY BLVD, WEST HOLLYWOOD, CA 90048", (310) 423-3277 ,6.66miles,Acute Short Term Hospital
-Cedars-Sinai Medical Center,"8700 BEVERLY BLVD, WEST HOLLYWOOD, CA 90048", (323) 866-8415 ,6.66miles,Acute Short Term Hospital
-Cedar-Sinai Cancer Center,"8700 BEVERLY BLVD, WEST HOLLYWOOD, CA 90048", (323) 866-8415 ,6.66miles,Acute Short Term Hospital
-Glendale Memorial Hospital and Health Center,"1420 S CENTRAL AVE, GLENDALE, CA 91204", (818) 502-1900 ,7.12miles,Acute Short Term Hospital
-"Martin Luther King, JR Community Hospital","1680 E 120TH ST, LOS ANGELES, CA 90059", (424) 338-8000 ,7.4miles,Acute Short Term Hospital
-West Los Angeles VAMC,"5426 E OLYMPIC BLVD, COMMERCE, CA 90022", (702) 341-3288 ,7.41miles,Acute Short Term Hospital
-Monterey Park Hospital,"900 S ATLANTIC BLVD, MONTEREY PARK, CA 91754", (626) 570-9000 ,8.39miles,Acute Short Term Hospital
-College Medical Center,"13300 HAWTHORNE BLVD, HAWTHORNE, CA 90250", (562) 997-2000 ,8.91miles,Acute Short Term Hospital
-Adventist Health Glendale,"1509 WILSON TER, GLENDALE, CA 91206", (818) 409-8000 ,8.99miles,Acute Short Term Hospital
-"Alhambra Hospital Medical Center, L.P.","100 S RAYMOND AVE, ALHAMBRA, CA 91801", (626) 457-7938 ,9miles,Acute Short Term Hospital
-Adventist Health Glendale,"1500 E CHEVY CHASE DR STE 201, GLENDALE, CA 91206", (818) 863-4099 ,9.13miles,Acute Short Term Hospital
-Adventist Health Glendale,"1500 E CHEVY CHASE DR STE 401, GLENDALE, CA 91206", (818) 863-4446 ,9.13miles,Acute Short Term Hospital
-Providence Saint Joseph Medical Center,"501 S BUENA VISTA ST, BURBANK, CA 91505", (818) 843-5111 ,9.18miles,Acute Short Term Hospital
-Memorial Hospital of Gardena,"1145 W REDONDO BEACH BLVD, GARDENA, CA 90247", (310) 532-4200 ,9.3miles,Acute Short Term Hospital
-"Kindred Hospital South Bay                        KND Development 53, LLC dba","1246 W 155TH ST, GARDENA, CA 90247", (310) 768-2235 ,9.44miles,Long Term Acute Care Hospital
-Marina Del Rey Hospital                           Campus,"4650 LINCOLN BLVD, MARINA DEL REY, CA 90292", (310) 823-8911 ,9.53miles,Acute Short Term Hospital
-AHMC Garfield Medical Center LP,"525 N GARFIELD AVE, MONTEREY PARK, CA 91754", (626) 573-2222 ,9.59miles,Acute Short Term Hospital
-Ronald Reagan UCLA Medical Center,"757 WESTWOOD PLZ, LOS ANGELES, CA 90095", (310) 825-9111 ,9.67miles,Acute Short Term Hospital
-Stewart & Lynda Resnick Neuropsychiatric Hospital at UCLA,"150 UCLA MEDICAL PLZ, LOS ANGELES, CA 90024", (310) 825-9111 ,9.71miles,"Psychiatric Hospital, Acute and Long Term"
-West Los Angeles VAMC,"11301 WILSHIRE BLVD, LOS ANGELES, CA 90073", (310) 478-3711 ,10.19miles,Acute Short Term Hospital
-Shriners Hospital for Children-Pasadena CA,"909 S FAIR OAKS AVE, PASADENA, CA 91105", (213) 388-3151 ,10.44miles,Acute Short Term Hospital
-Beverly Hospital,"309 W BEVERLY BLVD, MONTEBELLO, CA 90640", (323) 725-4257 ,10.47miles,Acute Short Term Hospital
-Huntington Memorial Hospital,"100 W CALIFORNIA BLVD, PASADENA, CA 91105", (626) 397-5000 ,10.59miles,Acute Short Term Hospital
-PIH Health Hospital- Downey,"11500 BROOKSHIRE AVE, DOWNEY, CA 90241", (562) 904-5000 ,10.7miles,Acute Short Term Hospital
-Providence Saint John's Health Center,"2121 SANTA MONICA BLVD, SANTA MONICA, CA 90404", (310) 829-8365 ,11.19miles,Acute Short Term Hospital
-San Gabriel Valley Medical Center,"438 W LAS TUNAS DR, SAN GABRIEL, CA 91776", (626) 289-5454 ,11.41miles,Acute Short Term Hospital
-Santa Monica UCLA Medical Center and Orthopaedic  Hospital,"1250 16TH ST, SANTA MONICA, CA 90404", (310) 319-4000 ,11.65miles,Acute Short Term Hospital
-Torrance Memorial Medical Center,"855 MANHATTAN BEACH BLVD STE 208, MANHATTAN BEACH, CA 90266", (310) 517-4738 ,11.78miles,Acute Short Term Hospital
-Long Beach VAMC,"10210 ORR AND DAY RD, SANTA FE SPRINGS, CA 90670", (702) 341-3288 ,12.4miles,Acute Short Term Hospital
-BHC Alhambra Hospital,"4619 NORTH ROSEMEAD BLVD., ROSEMEAD, CA 91770", (626) 286-1191 ,12.74miles,"Psychiatric Hospital, Acute and Long Term"
-USC Verdugo Hills Hospital,"1812 VERDUGO BLVD, GLENDALE, CA 91208", (818) 790-7100 ,12.93miles,Acute Short Term Hospital
-Coast Plaza Hospital,"13100 STUDEBAKER RD, NORWALK, CA 90650", (562) 868-3751 ,13.17miles,Acute Short Term Hospital
-Sherman Oaks Hospital,"4929 VAN NUYS BLVD, SHERMAN OAKS, CA 91403", (818) 981-7111 ,13.22miles,Acute Short Term Hospital
-Torrance Memorial Medical Center,"824 E CARSON ST STE 208, CARSON, CA 90745", (310) 517-4738 ,13.53miles,Acute Short Term Hospital
-"Aurora Las Encinas, LLC","2900 E DEL MAR BLVD, PASADENA, CA 91107", (626) 795-9901 ,13.58miles,"Psychiatric Hospital, Acute and Long Term"
-Los Angeles Community Hospital at Bellflower,"9542 ARTESIA BLVD, BELLFLOWER, CA 90706", (562) 925-4500 ,13.66miles,"Psychiatric Hospital, Acute and Long Term"
-Providence Little Company of Mary Medical Center  Torrance,"4101 TORRANCE BLVD, TORRANCE, CA 90503", (310) 540-7676 ,13.74miles,Acute Short Term Hospital
-Lakewood Regional Medical Center,"3700 E SOUTH ST, LAKEWOOD, CA 90805", (562) 531-2550 ,13.87miles,Acute Short Term Hospital
-PIH Wound Healing Center,"12291 WASHINGTON BLVD STE 100, WHITTIER, CA 90606", (562) 698-0811 ,13.9miles,Acute Short Term Hospital
-Southern California Hospital at Van Nuys,"14433 EMELITA ST, VAN NUYS, CA 91401", (818) 787-1511 ,14.04miles,"Psychiatric Hospital, Acute and Long Term"
-PIH Perinatal Center,"12462 PUTNAM ST STE 303, WHITTIER, CA 90602", (562) 698-0811 ,14.11miles,Acute Short Term Hospital
-PIH Testing Center,"12462 PUTNAM ST STE 209, WHITTIER, CA 90602", (562) 698-0811 ,14.11miles,Acute Short Term Hospital
-The Heart and Lung Center at PIH,"12462 PUTNAM ST STE 200, WHITTIER, CA 90602", (562) 698-0811 ,14.11miles,Acute Short Term Hospital
-PIH Magnetic Resonance Imaging,"12455 WASHINGTON BLVD, WHITTIER, CA 90602", (562) 698-0811 ,14.11miles,Acute Short Term Hospital
-PIH Acute Rehabilitation,"12401 WASHINGTON BLVD, WHITTIER, CA 90602", (562) 698-0811 ,14.11miles,Acute Short Term Hospital
-PIH Transitional Care Unit,"12401 WASHINGTON BLVD, WHITTIER, CA 90602", (562) 698-0811 ,14.11miles,Acute Short Term Hospital
-PIH Health Hospital- Whittier,"12401 WASHINGTON BLVD, WHITTIER, CA 90602", (562) 698-0811 ,14.11miles,Acute Short Term Hospital
-Barlow Respiratory Hospital,"12401 WASHINGTON BLVD, WHITTIER, CA 90602", (562) 698-0811 ,14.11miles,Long Term Acute Care Hospital
-College Hospital Cerritos,"10802 COLLEGE PL, CERRITOS, CA 90703", (562) 924-9581 ,14.22miles,"Psychiatric Hospital, Acute and Long Term"
-Encino Hospital Medical Center,"16237 VENTURA BLVD, ENCINO, CA 91436", (818) 995-5000 ,14.75miles,Acute Short Term Hospital
-Norwalk Community Hospital,"13222 BLOOMFIELD AVE, NORWALK, CA 90650", (310) 863-4763 ,14.87miles,Acute Short Term Hospital
+Name,Address,Phone,Distance,Specialties,Latitude,Longitude
+California Hospital Medical Center- Los Angeles,"1401 S GRAND AVE, LOS ANGELES, CA 90015",(213) 748-2411,1.19miles,Acute Short Term Hospital,34.0374888,-118.2661449
+Good Samaritan Hospital,"1225 WILSHIRE BLVD, LOS ANGELES, CA 90017",(213) 977-2121,2.1miles,Acute Short Term Hospital,34.054492,-118.2649048
+West Los Angeles VAMC,"351 E TEMPLE ST, LOS ANGELES, CA 90012",(213) 253-2677,3.06miles,Acute Short Term Hospital,34.0520292,-118.2385001
+Cedars-Sinai Medical Center,"8730 ALDEN DRIVE, LOS ANGELES, CA 90051",(310) 423-3411,3.82miles,Acute Short Term Hospital,34.0750072,-118.3828082
+Adventist Health White Memorial,"1720 CESAR E. CHAVEZ AVENUE, LOS ANGELES, CA 90033",(323) 268-5000,4.13miles,Acute Short Term Hospital,34.0492967,-118.2171632
+Community Hospital of Huntington Park,"2623 E SLAUSON AVE, HUNTINGTON PARK, CA 90255",(323) 583-1931,4.26miles,Acute Short Term Hospital,33.9892173,-118.2245406
+Barlow Respiratory Hospital,"2000 STADIUM WAY, LOS ANGELES, CA 90026",(213) 250-4200,4.47miles,Long Term Acute Care Hospital,34.0761441,-118.2483681
+Hollywood Presbyterian Medical Center,"1300 N VERMONT AVE, LOS ANGELES, CA 90027",(323) 913-4800,4.83miles,Acute Short Term Hospital,34.0963224,-118.2903015
+Childrens Hospital Los Angeles,"4650 W SUNSET BLVD, LOS ANGELES, CA 90027",(323) 660-2450,4.97miles,Children's Hospital,34.0976168,-118.290099
+Shriners Hospital for Children-Pasadena CA,"4650 SUNSET BLVD., LOS ANGELES, CA 90027",(213) 388-3151,4.97miles,Acute Short Term Hospital,34.0976168,-118.290099
+USC Kenneth Norris Jr. Cancer Hospital,"1441 EASTLAKE AVE, LOS ANGELES, CA 90089",(323) 865-3000,5.11miles,Acute Short Term Hospital,34.0615104,-118.2053422
+Keck Hospital of USC,"1500 SAN PABLO ST, LOS ANGELES, CA 90033",(323) 442-8500,5.23miles,Acute Short Term Hospital,34.062488,-118.2027224
+Southern California Hospital at Hollywood,"6245 DE LONGPRE AVE, HOLLYWOOD, CA 90028",(323) 462-2271,5.4miles,Acute Short Term Hospital,34.0964254,-118.3252367
+Los Angeles Community Hospital,"4081 E OLYMPIC BLVD, LOS ANGELES, CA 90023",(323) 267-0477,5.52miles,Acute Short Term Hospital,34.0193498,-118.1865467
+East Los Angeles Doctors Hospital,"4060 EAST WHITTIER BLVD., LOS ANGELES, CA 90023",(323) 268-5514,5.64miles,Acute Short Term Hospital,34.0237682,-118.1841496
+Kindred Hospital Los Angeles,"5525 W SLAUSON AVE, LOS ANGELES, CA 90056",(310) 642-0325,6.07miles,Long Term Acute Care Hospital,33.9901823,-118.378426
+Centinela Hospital Medical Center,"555 E HARDY ST, INGLEWOOD, CA 90301",(310) 673-4660,6.54miles,Acute Short Term Hospital,33.9505544,-118.3479953
+Southern California Hospital at Culver City,"3828 DELMAS TER, CULVER CITY, CA 90232",(310) 836-7000,6.55miles,Acute Short Term Hospital,34.0230662,-118.3976364
+Cedars-Sinai Medical Center,"8700 BEVERLY BLVD, WEST HOLLYWOOD, CA 90048",(323) 866-8415,6.66miles,Acute Short Term Hospital,34.0761098,-118.3799992
+Cedars-Sinai Medical Center,"8700 BEVERLY BLVD, WEST HOLLYWOOD, CA 90048",(310) 423-3277,6.66miles,Acute Short Term Hospital,34.0761098,-118.3799992
+Cedars-Sinai Medical Center,"8700 BEVERLY BLVD, WEST HOLLYWOOD, CA 90048",(323) 866-8415,6.66miles,Acute Short Term Hospital,34.0761098,-118.3799992
+Cedar-Sinai Cancer Center,"8700 BEVERLY BLVD, WEST HOLLYWOOD, CA 90048",(323) 866-8415,6.66miles,Acute Short Term Hospital,34.0761098,-118.3799992
+Glendale Memorial Hospital and Health Center,"1420 S CENTRAL AVE, GLENDALE, CA 91204",(818) 502-1900,7.12miles,Acute Short Term Hospital,34.1280862,-118.2569564
+"Martin Luther King, JR Community Hospital","1680 E 120TH ST, LOS ANGELES, CA 90059",(424) 338-8000,7.4miles,Acute Short Term Hospital,33.9231768,-118.2437996
+West Los Angeles VAMC,"5426 E OLYMPIC BLVD, COMMERCE, CA 90022",(702) 341-3288,7.41miles,Acute Short Term Hospital,34.0145179,-118.1554564
+Monterey Park Hospital,"900 S ATLANTIC BLVD, MONTEREY PARK, CA 91754",(626) 570-9000,8.39miles,Acute Short Term Hospital,34.0495478,-118.1383262
+College Medical Center,"13300 HAWTHORNE BLVD, HAWTHORNE, CA 90250",(562) 997-2000,8.91miles,Acute Short Term Hospital,33.9116018,-118.3519476
+Adventist Health Glendale,"1509 WILSON TER, GLENDALE, CA 91206",(818) 409-8000,8.99miles,Acute Short Term Hospital,34.1502139,-118.2304591
+"Alhambra Hospital Medical Center, L.P.","100 S RAYMOND AVE, ALHAMBRA, CA 91801",(626) 457-7938,9miles,Acute Short Term Hospital,34.0903051,-118.1440538
+Adventist Health Glendale,"1500 E CHEVY CHASE DR STE 201, GLENDALE, CA 91206",(818) 863-4099,9.13miles,Acute Short Term Hospital,34.1517311,-118.2321381
+Adventist Health Glendale,"1500 E CHEVY CHASE DR STE 401, GLENDALE, CA 91206",(818) 863-4446,9.13miles,Acute Short Term Hospital,34.1517142,-118.2320558
+Providence Saint Joseph Medical Center,"501 S BUENA VISTA ST, BURBANK, CA 91505",(818) 843-5111,9.18miles,Acute Short Term Hospital,34.1569786,-118.3285243
+Memorial Hospital of Gardena,"1145 W REDONDO BEACH BLVD, GARDENA, CA 90247",(310) 532-4200,9.3miles,Acute Short Term Hospital,33.8929929,-118.2950049
+"Kindred Hospital South Bay KND Development 53, LLC dba","1246 W 155TH ST, GARDENA, CA 90247",(310) 768-2235,9.44miles,Long Term Acute Care Hospital,33.8901279,-118.2973342
+Marina Del Rey Hospital Campus,"4650 LINCOLN BLVD, MARINA DEL REY, CA 90292",(310) 823-8911,9.53miles,Acute Short Term Hospital,33.9821449,-118.4392262
+AHMC Garfield Medical Center LP,"525 N GARFIELD AVE, MONTEREY PARK, CA 91754",(626) 573-2222,9.59miles,Acute Short Term Hospital,34.0678947,-118.1238043
+Ronald Reagan UCLA Medical Center,"757 WESTWOOD PLZ, LOS ANGELES, CA 90095",(310) 825-9111,9.67miles,Acute Short Term Hospital,34.0652918,-118.4466512
+Stewart & Lynda Resnick Neuropsychiatric Hospital at UCLA,"150 UCLA MEDICAL PLZ, LOS ANGELES, CA 90024",(310) 825-9111,9.71miles,"Psychiatric Hospital, Acute and Long Term",34.0652277,-118.4460282
+West Los Angeles VAMC,"11301 WILSHIRE BLVD, LOS ANGELES, CA 90073",(310) 478-3711,10.19miles,Acute Short Term Hospital,34.0552155,-118.4560567
+Shriners Hospital for Children-Pasadena CA,"909 S FAIR OAKS AVE, PASADENA, CA 91105",(213) 388-3151,10.44miles,Acute Short Term Hospital,34.1305339,-118.1507597
+Beverly Hospital,"309 W BEVERLY BLVD, MONTEBELLO, CA 90640",(323) 725-4257,10.47miles,Acute Short Term Hospital,34.0150831,-118.100165
+Huntington Memorial Hospital,"100 W CALIFORNIA BLVD, PASADENA, CA 91105",(626) 397-5000,10.59miles,Acute Short Term Hospital,34.1344717,-118.1529644
+PIH Health Hospital- Downey,"11500 BROOKSHIRE AVE, DOWNEY, CA 90241",(562) 904-5000,10.7miles,Acute Short Term Hospital,33.9346337,-118.1312307
+Providence Saint John's Health Center,"2121 SANTA MONICA BLVD, SANTA MONICA, CA 90404",(310) 829-8365,11.19miles,Acute Short Term Hospital,34.0307739,-118.4796445
+San Gabriel Valley Medical Center,"438 W LAS TUNAS DR, SAN GABRIEL, CA 91776",(626) 289-5454,11.41miles,Acute Short Term Hospital,34.1023234,-118.1055415
+Santa Monica UCLA Medical Center and Orthopaedic Hospital,"1250 16TH ST, SANTA MONICA, CA 90404",(310) 319-4000,11.65miles,Acute Short Term Hospital,34.0270998,-118.4863064
+Torrance Memorial Medical Center,"855 MANHATTAN BEACH BLVD STE 208, MANHATTAN BEACH, CA 90266",(310) 517-4738,11.78miles,Acute Short Term Hospital,33.887571,-118.4017509
+Long Beach VAMC,"10210 ORR AND DAY RD, SANTA FE SPRINGS, CA 90670",(702) 341-3288,12.4miles,Acute Short Term Hospital,33.9441558,-118.090203
+BHC Alhambra Hospital,"4619 NORTH ROSEMEAD BLVD., ROSEMEAD, CA 91770",(626) 286-1191,12.74miles,"Psychiatric Hospital, Acute and Long Term",34.0887274,-118.0738133
+USC Verdugo Hills Hospital,"1812 VERDUGO BLVD, GLENDALE, CA 91208",(818) 790-7100,12.93miles,Acute Short Term Hospital,34.2044971,-118.2157467
+Coast Plaza Hospital,"13100 STUDEBAKER RD, NORWALK, CA 90650",(562) 868-3751,13.17miles,Acute Short Term Hospital,33.9127726,-118.0988257
+Sherman Oaks Hospital,"4929 VAN NUYS BLVD, SHERMAN OAKS, CA 91403",(818) 981-7111,13.22miles,Acute Short Term Hospital,34.1602807,-118.4495134
+Torrance Memorial Medical Center,"824 E CARSON ST STE 208, CARSON, CA 90745",(310) 517-4738,13.53miles,Acute Short Term Hospital,33.8311477,-118.2604282
+"Aurora Las Encinas, LLC","2900 E DEL MAR BLVD, PASADENA, CA 91107",(626) 795-9901,13.58miles,"Psychiatric Hospital, Acute and Long Term",34.1416573,-118.0910777
+Los Angeles Community Hospital at Bellflower,"9542 ARTESIA BLVD, BELLFLOWER, CA 90706",(562) 925-4500,13.66miles,"Psychiatric Hospital, Acute and Long Term",33.8743136,-118.1297319
+Providence Little Company of Mary Medical Center Torrance,"4101 TORRANCE BLVD, TORRANCE, CA 90503",(310) 540-7676,13.74miles,Acute Short Term Hospital,33.8384678,-118.3572436
+Lakewood Regional Medical Center,"3700 E SOUTH ST, LAKEWOOD, CA 90805",(562) 531-2550,13.87miles,Acute Short Term Hospital,33.8597946,-118.1484742
+PIH Wound Healing Center,"12291 WASHINGTON BLVD STE 100, WHITTIER, CA 90606",(562) 698-0811,13.9miles,Acute Short Term Hospital,33.9688257,-118.0503744
+Southern California Hospital at Van Nuys,"14433 EMELITA ST, VAN NUYS, CA 91401",(818) 787-1511,14.04miles,"Psychiatric Hospital, Acute and Long Term",34.1769578,-118.4475697
+PIH Perinatal Center,"12462 PUTNAM ST STE 303, WHITTIER, CA 90602",(562) 698-0811,14.11miles,Acute Short Term Hospital,33.9702136,-118.0476442
+PIH Testing Center,"12462 PUTNAM ST STE 209, WHITTIER, CA 90602",(562) 698-0811,14.11miles,Acute Short Term Hospital,33.9701607,-118.0476677
+The Heart and Lung Center at PIH,"12462 PUTNAM ST STE 200, WHITTIER, CA 90602",(562) 698-0811,14.11miles,Acute Short Term Hospital,33.9701764,-118.0476296
+PIH Magnetic Resonance Imaging,"12455 WASHINGTON BLVD, WHITTIER, CA 90602",(562) 698-0811,14.11miles,Acute Short Term Hospital,33.9680872,-118.0465562
+PIH Acute Rehabilitation,"12401 WASHINGTON BLVD, WHITTIER, CA 90602",(562) 698-0811,14.11miles,Acute Short Term Hospital,33.9690304,-118.0490717
+PIH Transitional Care Unit,"12401 WASHINGTON BLVD, WHITTIER, CA 90602",(562) 698-0811,14.11miles,Acute Short Term Hospital,33.9690304,-118.0490717
+PIH Health Hospital- Whittier,"12401 WASHINGTON BLVD, WHITTIER, CA 90602",(562) 698-0811,14.11miles,Acute Short Term Hospital,33.9690304,-118.0490717
+Barlow Respiratory Hospital,"12401 WASHINGTON BLVD, WHITTIER, CA 90602",(562) 698-0811,14.11miles,Long Term Acute Care Hospital,33.9690304,-118.0490717
+College Hospital Cerritos,"10802 COLLEGE PL, CERRITOS, CA 90703",(562) 924-9581,14.22miles,"Psychiatric Hospital, Acute and Long Term",33.8844022,-118.1032151
+Encino Hospital Medical Center,"16237 VENTURA BLVD, ENCINO, CA 91436",(818) 995-5000,14.75miles,Acute Short Term Hospital,34.1574278,-118.4870017
+Norwalk Community Hospital,"13222 BLOOMFIELD AVE, NORWALK, CA 90650",(310) 863-4763,14.87miles,Acute Short Term Hospital,33.9107134,-118.0641183

@@ -1,0 +1,46 @@
+<agm-map #gm [zoom]="12" [latitude]="lat" [longitude]="lng">
+    <div *ngIf="categoryurl == 'primarycareproviders'">
+        <agm-marker *ngFor="let data of categorydata" [latitude]="data[5]" [longitude]="data[6]" (mouseOver)="onMouseOver(infoWindow,gm)" (markerClick)="openModal(data)">
+            <agm-info-window [disableAutoPan]="false" #infoWindow>
+                <div> {{ data[0] }} </div>
+            </agm-info-window>
+        </agm-marker>
+    </div>
+    <div *ngIf="categoryurl == 'hospitals'">
+        <agm-marker *ngFor="let data of categorydata" [latitude]="data[5]" [longitude]="data[6]" (mouseOver)="onMouseOver(infoWindow,gm)" (markerClick)="openModal(data)">
+            <agm-info-window [disableAutoPan]="false" #infoWindow>
+                <div> {{ data[0] }} </div>
+            </agm-info-window>
+        </agm-marker>
+    </div>
+    <div *ngIf="categoryurl == 'urgentcare'">
+        <agm-marker *ngFor="let data of categorydata" [latitude]="data[5]" [longitude]="data[6]" (mouseOver)="onMouseOver(infoWindow,gm)" (markerClick)="openModal(data)">
+            <agm-info-window [disableAutoPan]="false" #infoWindow>
+                <div> {{ data[0] }} </div>
+            </agm-info-window>
+        </agm-marker>
+    </div>
+    <div *ngIf="categoryurl == 'pharmacies'">
+        <agm-marker *ngFor="let data of categorydata" [latitude]="data[4]" [longitude]="data[5]" (mouseOver)="onMouseOver(infoWindow,gm)" (markerClick)="openModal(data)">
+            <agm-info-window [disableAutoPan]="false" #infoWindow>
+                <div> {{ data[0] }} </div>
+            </agm-info-window>
+        </agm-marker>
+    </div>
+    <div *ngIf="categoryurl == 'behavioralprofessionals'">
+        <agm-marker *ngFor="let data of categorydata" [latitude]="data[5]" [longitude]="data[6]" (mouseOver)="onMouseOver(infoWindow,gm)" (markerClick)="openModal(data)">
+            <agm-info-window [disableAutoPan]="false" #infoWindow>
+                <div> {{ data[0] }} </div>
+            </agm-info-window>
+        </agm-marker>
+    </div>
+    <div *ngIf="categoryurl == 'laboratories'">
+        <agm-marker *ngFor="let data of categorydata" [latitude]="data[5]" [longitude]="data[6]" (mouseOver)="onMouseOver(infoWindow,gm)" (markerClick)="openModal(data)">
+            <agm-info-window [disableAutoPan]="false" #infoWindow>
+                <div> {{ data[0] }} </div>
+            </agm-info-window>
+        </agm-marker>
+    </div>
+</agm-map>
+
+

@@ -1,0 +1,60 @@
+<!-- <p>servicedata works!</p>
+
+<div *ngFor="let details of category_details">
+    <div *ngFor="let i of details">
+        {{ i }}
+    </div>
+</div> -->
+
+
+<div class="modal-header">
+    <div class="modal-title">
+        <h1>{{ name }}</h1>
+        <h5 *ngIf = "speciality">{{ speciality }}</h5>
+    </div>
+    <button type="button" class="close" data-dismiss="modal" (click)="closeModal('dismiss')">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+<div class="modal-body">
+    <div class="content row" *ngIf = "address">
+        <div class="col-2">
+            <img src="http://medmaps.co/website_images/logo.png" alt="address">
+        </div>
+        <div class="col-9">
+           {{ address }}
+        </div>
+    </div>
+    <div class="content row" *ngIf = "phone_number">
+        <div class="col-2">
+            <img src="http://medmaps.co/website_images/phone.svg" alt="phone">
+        </div>
+        <div class="col-9">
+           {{ phone_number }}
+        </div>
+    </div>
+    <div class="content row" *ngIf = "distance">
+        <div class="col-2">
+            <img src="http://medmaps.co/website_images/distance.svg" alt="distance">
+        </div>
+        <div class="col-9">
+           {{ distance }}
+        </div>
+    </div>
+    <div class="content row" *ngIf = "cost">
+        <div class="col-2">
+            <img src="http://medmaps.co/website_images/cost.svg" alt="cost">
+        </div>
+        <div class="col-9">
+           {{ cost }}
+        </div>
+    </div>
+    <div class="content row" *ngIf = "website">
+        <div class="col-2">
+            <img src="http://medmaps.co/website_images/website.svg" alt="website">
+        </div>
+        <div class="col-9">
+            {{ website }}
+        </div>
+    </div>
+</div>

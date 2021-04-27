@@ -1,17 +1,17 @@
-Name,Address,Phone,Distance,Specialties
-Direct Urgent Care Incorporated,"1148 S BROADWAY, LOS ANGELES, CA 90015", (323) 421-7928 ,1.55miles,Urgent Care Center
-Healthcare Partners MG Montebello - UCC,"1025 W OLYMPIC BLVD, LOS ANGELES, CA 90015", (310) 354-4200 ,1.61miles,Urgent Care Center
-Immediate Care Center,"1025 W OLYMPIC BLVD, LOS ANGELES, CA 90015", (213) 623-2225 ,1.61miles,Urgent Care Center
-"Concentra Health Services, Inc.","1313 W 8TH ST STE 100, LOS ANGELES, CA 90017", (866) 944-6046 ,1.82miles,Urgent Care Center
-Reliant Urgent Care,"814 SOUTH FRANCISCO STREET, LOS ANGELES, CA 90017", (310) 597-4408 ,2.11miles,Urgent Care Center
-"Concentra Health Services, Inc.","420 E 3RD ST STE 600, LOS ANGELES, CA 90013", (866) 944-6046 ,2.75miles,Urgent Care Center
-Weekend Urgent Care,"3701 STOCKER ST STE 101, VIEW PARK, CA 90008", (310) 910-7221 ,3.39miles,Urgent Care Center
-Cina Urgent Care,"3756 ROSALIA DRIVE, SUITE 100, LOS ANGELES, CA 90008", (323) 792-4278 ,3.6miles,Urgent Care Center
-Direct Urgent Care Incorporated,"2110 W SUNSET BLVD STE M, LOS ANGELES, CA 90026", (833) 873-2852 ,3.69miles,Urgent Care Center
-"Concentra Health Services, Inc.","3851 SOTO STREET, VERNON, CA 90058", (866) 944-6046 ,3.84miles,Urgent Care Center
-Reliant Urgent Care,"5900 PACIFIC BLVD, HUNTINGTON PARK, CA 90255", (310) 740-9867 ,4.19miles,Urgent Care Center
-All Care Medical Group - Huntington Park - UCC,"2675 E SLAUSON AVE, HUNTINGTON PARK, CA 90255", (213) 589-6681 ,4.26miles,Urgent Care Center
-"Holy Cross Urgent Care, Inc","4864 SANTA MONICA BLVD, LOS ANGELES, CA 90029", (323) 660-7770 ,4.5miles,Urgent Care Center
-Axminster Medical Group - UCC,"4314 W SLAUSON AVE, LOS ANGELES, CA 90043", (323) 293-7171 ,4.69miles,Urgent Care Center
-The Urgent Care at Vermont,"1234 N VERMONT AVE, LOS ANGELES, CA 90029", (323) 660-0831 ,4.7miles,Urgent Care Center
-St. John's Urgent Care & Medical Corporation,"1119 N WESTERN AVE STE G, LOS ANGELES, CA 90029", (323) 957-9300 ,4.73miles,Urgent Care Center
+Name,Address,Phone,Distance,Specialties,Latitude,Longitude
+Direct Urgent Care Incorporated,"1148 S BROADWAY, LOS ANGELES, CA 90015",(323) 421-7928,1.55miles,Urgent Care Center,34.0385454,-118.2595413
+Healthcare Partners MG Montebello - UCC,"1025 W OLYMPIC BLVD, LOS ANGELES, CA 90015",(310) 354-4200,1.61miles,Urgent Care Center,34.0466296,-118.2666809
+Immediate Care Center,"1025 W OLYMPIC BLVD, LOS ANGELES, CA 90015",(213) 623-2225,1.61miles,Urgent Care Center,34.0466296,-118.2666809
+"Concentra Health Services, Inc.","1313 W 8TH ST STE 100, LOS ANGELES, CA 90017",(866) 944-6046,1.82miles,Urgent Care Center,34.0506587,-118.269482
+Reliant Urgent Care,"814 SOUTH FRANCISCO STREET, LOS ANGELES, CA 90017",(310) 597-4408,2.11miles,Urgent Care Center,34.0482457,-118.2630054
+"Concentra Health Services, Inc.","420 E 3RD ST STE 600, LOS ANGELES, CA 90013",(866) 944-6046,2.75miles,Urgent Care Center,34.0466058,-118.2420109
+Weekend Urgent Care,"3701 STOCKER ST STE 101, VIEW PARK, CA 90008",(310) 910-7221,3.39miles,Urgent Care Center,34.0070427,-118.3378663
+Cina Urgent Care,"3756 ROSALIA DRIVE, SUITE 100, LOS ANGELES, CA 90008",(323) 792-4278,3.6miles,Urgent Care Center,34.00882,-118.339161
+Direct Urgent Care Incorporated,"2110 W SUNSET BLVD STE M, LOS ANGELES, CA 90026",(833) 873-2852,3.69miles,Urgent Care Center,34.077189,-118.2641266
+"Concentra Health Services, Inc.","3851 SOTO STREET, VERNON, CA 90058",(866) 944-6046,3.84miles,Urgent Care Center,34.0070845,-118.2200874
+Reliant Urgent Care,"5900 PACIFIC BLVD, HUNTINGTON PARK, CA 90255",(310) 740-9867,4.19miles,Urgent Care Center,33.9889705,-118.2247936
+All Care Medical Group - Huntington Park - UCC,"2675 E SLAUSON AVE, HUNTINGTON PARK, CA 90255",(213) 589-6681,4.26miles,Urgent Care Center,33.9895026,-118.2229178
+"Holy Cross Urgent Care, Inc","4864 SANTA MONICA BLVD, LOS ANGELES, CA 90029",(323) 660-7770,4.5miles,Urgent Care Center,34.0905926,-118.2956744
+Axminster Medical Group - UCC,"4314 W SLAUSON AVE, LOS ANGELES, CA 90043",(323) 293-7171,4.69miles,Urgent Care Center,33.9886838,-118.3509888
+The Urgent Care at Vermont,"1234 N VERMONT AVE, LOS ANGELES, CA 90029",(323) 660-0831,4.7miles,Urgent Care Center,34.0943041,-118.2915401
+St. John's Urgent Care & Medical Corporation,"1119 N WESTERN AVE STE G, LOS ANGELES, CA 90029",(323) 957-9300,4.73miles,Urgent Care Center,34.0915524,-118.3097447

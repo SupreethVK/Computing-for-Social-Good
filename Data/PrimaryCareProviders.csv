@@ -1,423 +1,306 @@
-Name,Address,Phone,Distance,Specialties
-Planned Parenthood Los Angeles,"400 W 30TH ST, LOS ANGELES, CA 90007", (800) 576-5544 ,0.43miles,Family Practice; Pediatrics; Obstetrics & Gynecology; Urology
-"Mitha, Kiran K., MD","403 W ADAMS BLVD, LOS ANGELES, CA 90007", (213) 741-8330 ,0.48miles,Pediatrics
-"Duffaut, Calvin J., MD","403 W ADAMS BLVD, LOS ANGELES, CA 90007", (213) 741-8330 ,0.48miles,Family Practice; Sports Medicine
-"Miller, Emily M., MD","403 W ADAMS BLVD, LOS ANGELES, CA 90007", (213) 741-8330 ,0.48miles,Family Practice
-"Lee, James H., MD","403 W ADAMS BLVD, LOS ANGELES, CA 90007", (213) 741-8330 ,0.48miles,Pediatrics
-"Kashani, Houman M., MD","2214 S HOOVER ST, LOS ANGELES, CA 90007", (213) 622-3100 ,0.62miles,Family Practice
-"Akhavan, Afshin, DO","2409 S VERMONT AVE, LOS ANGELES, CA 90007", (323) 730-1663 ,0.7miles,Family Practice
-"Hernandez Rodriguez, Julio Ivan Alexander, MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015", (213) 623-2225 ,0.85miles,Family Practice
-"Kiefer, Noemi, MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015", (213) 623-2225 ,0.85miles,Internal Medicine
-"Ramirez, Leslie May, MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015", (213) 961-5950 ,0.85miles,Family Practice
-"Carlos, Jesus R., MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015", (213) 623-2225 ,0.85miles,Internal Medicine
-"Yemofio, Francis Nii L., MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015", (213) 623-2225 ,0.85miles,Internal Medicine
-"Basta, Onsy S., MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015", (213) 623-2225 ,0.85miles,Pediatrics
-"Gahng, Sarah Minhee, MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015", (626) 745-2244 ,0.85miles,Family Practice
-"Hsieh, Bertran, MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015", (213) 623-2225 ,0.85miles,Internal Medicine
-"Mcunu, Brittany N., MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015", (213) 623-2225 ,0.85miles,Internal Medicine
-"Miranda, Juan Angel Lemus, MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015", (213) 623-2225 ,0.85miles,Family Practice
-"Lim, Cathrin H., MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015", (213) 623-2225 ,0.85miles,Family Practice
-"Bahrami, Pouya, DO","1414 S GRAND AVE STE 100, LOS ANGELES, CA 90015", (213) 481-2200 ,1.21miles,Internal Medicine - 12 and older
-"Muqtadeer, Javeria A., DO","1400 S GRAND AVE STE 801, LOS ANGELES, CA 90015", (213) 741-9227 ,1.24miles,Internal Medicine
-"Herrmann, Matthew, MD","1400 S GRAND AVE STE 801, LOS ANGELES, CA 90015", (213) 741-9727 ,1.24miles,Internal Medicine - 12 and older
-"Millner, Carl E., MD","1400 S GRAND AVE STE 801, LOS ANGELES, CA 90015", (213) 741-9727 ,1.24miles,Internal Medicine
-"Songster, Giuliana, MD","1400 S GRAND AVE STE 805, LOS ANGELES, CA 90015", (213) 763-1500 ,1.24miles,Medical Genetics; Obstetrics & Gynecology - CA PCP
-"Zareno, Teresita Alonzo, MD","1600 W PICO BLVD, LOS ANGELES, CA 90015", (213) 386-5252 ,1.31miles,Family Practice; Pediatrics
-"Bendana, Raul Joaquin, MD","1619 1/2 W PICO BLVD, LOS ANGELES, CA 90015", (213) 487-0615 ,1.31miles,General Practice
-"Akhavan, Afshin, DO","530 E WASHINGTON BLVD, LOS ANGELES, CA 90015", (213) 747-2626 ,1.34miles,Family Practice
-"Lavi, Alfred, DO","2324 W PICO BLVD, LOS ANGELES, CA 90006", (213) 383-3600 ,1.46miles,Family Practice
-"Yaghi, Mohamad J., MD","4301 S FIGUEROA ST STE F, LOS ANGELES, CA 90037", (323) 231-7700 ,1.48miles,Pediatrics
-"Abdian, Loghman, MD","1107 S ALVARADO ST STE 102, LOS ANGELES, CA 90006", (213) 380-9999 ,1.6miles,General Practice - Newborn to 100 ; Family Practice
-"Arai, Peter Takayuki, MD","2600 W PICO BLVD STE 105, LOS ANGELES, CA 90006", (213) 388-2772 ,1.6miles,Family Practice - 18 and older
-"Gill, Cadrin E., MD","231 W VERNON AVE STE 101, LOS ANGELES, CA 90037", (323) 231-5181 ,1.6miles,Family Practice
-Optum-El Monte (Peds),"1025 W OLYMPIC BLVD, LOS ANGELES, CA 90015", (213) 623-2225 ,1.61miles,Pediatrics
-"Chung, Dong Sun, MD","2528 W OLYMPIC BLVD STE 103, LOS ANGELES, CA 90006", (213) 386-5002 ,1.69miles,Internal Medicine
-"Chavez, Edgar Alexander, MD","1005 E WASHINGTON BLVD STE A, LOS ANGELES, CA 90021", (323) 233-3100 ,1.71miles,Family Practice
-"Yoon, Eun Joo, MD","2560 W OLYMPIC BLVD STE 101B, LOS ANGELES, CA 90006", (213) 480-1000 ,1.8miles,Internal Medicine
-"Pourmoussa, Andrew, MD","705 W 9TH ST APT 1105, LOS ANGELES, CA 90015", (310) 893-0560 ,1.8miles,Internal Medicine
-"An, Albert S., MD","2655 W OLYMPIC BLVD STE 207, LOS ANGELES, CA 90006", (213) 388-7887 ,1.84miles,Family Practice
-"An, Lauri I., MD","2655 W OLYMPIC BLVD STE 207, LOS ANGELES, CA 90006", (213) 388-7887 ,1.84miles,Family Practice
-"Jeong, Heesoo, MD","2675 W OLYMPIC BLVD STE 202, LOS ANGELES, CA 90006", (213) 387-1541 ,1.84miles,Internal Medicine
-"Lee, Mi-Jeong, MD","2675 W OLYMPIC BLVD STE 103, LOS ANGELES, CA 90006", (213) 252-0036 ,1.84miles,Pediatrics - Newborn to 18
-"Han, Kyung M., MD","2681 W OLYMPIC BLVD STE 221, LOS ANGELES, CA 90006", (213) 387-7800 ,1.85miles,Internal Medicine
-"Johnson, Veassa Gail, MD","4760 S FIGUEROA ST, LOS ANGELES, CA 90037", (323) 232-2601 ,1.87miles,Internal Medicine - 21 and older
-"Savage, Arnold, MD","4760 S FIGUEROA ST, LOS ANGELES, CA 90037", (323) 232-2601 ,1.87miles,Internal Medicine - 21 and older ; Gastroenterology
-"Torkan, Bruce, MD","820 S ALVARADO ST STE A, LOS ANGELES, CA 90057", (213) 384-0604 ,1.88miles,General Practice
-"Kohanzadeh, Shahla, MD","803 S ALVARADO ST, LOS ANGELES, CA 90057", (213) 381-1117 ,1.89miles,General Practice
-"Kim, Paul H., MD","2727 W OLYMPIC BLVD STE 307, LOS ANGELES, CA 90006", (213) 388-1010 ,1.89miles,Internal Medicine
-"Kim, Doeyoung, MD","2727 W OLYMPIC BLVD STE 302, LOS ANGELES, CA 90006", (213) 674-7350 ,1.89miles,Family Practice
-"Sohn, Hyang Eun, MD","2727 W OLYMPIC BLVD STE 305, LOS ANGELES, CA 90006", (213) 739-8822 ,1.89miles,Internal Medicine - 16 to 99
-"Cho, Ahra, MD","2727 W OLYMPIC BLVD STE 205, LOS ANGELES, CA 90006", (213) 529-4251 ,1.89miles,Internal Medicine
-"Yun, Eun M., MD","819 S ALVARADO ST STE 101, LOS ANGELES, CA 90057", (213) 388-6000 ,1.93miles,Internal Medicine
-"Byun, Sung-Nae, MD","2120 W 8TH ST STE 102, LOS ANGELES, CA 90057", (213) 382-2700 ,2miles,Internal Medicine - 16 and older
-"Carleton-Nathan, Jennifer, MD","700 S FLOWER ST STE 2340, LOS ANGELES, CA 90017", (310) 500-2039 ,2.05miles,Family Practice
-"Richina, Jonathan, MD","700 S FLOWER ST STE 2340, LOS ANGELES, CA 90017", (310) 500-2039 ,2.05miles,Family Practice
-"Hwang, Eun K., MD","3000 W OLYMPIC BLVD STE 304, LOS ANGELES, CA 90006", (213) 380-1122 ,2.05miles,Pediatrics - Newborn to 21
-"Kim, Joseph Sung-Ryul, MD","3000 W OLYMPIC BLVD STE 202, LOS ANGELES, CA 90006", (213) 380-1388 ,2.05miles,"Internal Medicine; Endocrinology, Diabetes & Metabolism"
-"Hong, Sung Jeen, MD","3000 W OLYMPIC BLVD STE 304, LOS ANGELES, CA 90006", (213) 380-1122 ,2.05miles,Pediatrics - Newborn to 21
-"Oliai, Caspian, MD","750 W 7TH ST STE 2500, LOS ANGELES, CA 90017", (213) 988-8340 ,2.06miles,Internal Medicine; Hematology/Oncology
-"Kozman, Daniel M., MD","700 W 7TH ST STE S270-D, LOS ANGELES, CA 90017", (213) 896-0010 ,2.07miles,Internal Medicine
-"Soza, Jose S., MD","700 W 7TH ST STE S270-D, LOS ANGELES, CA 90017", (213) 988-8380 ,2.07miles,Family Practice
-"Chee, Felicia Sumon, MD","700 W 7TH ST STE S270-D, LOS ANGELES, CA 90017", (213) 988-8380 ,2.07miles,Internal Medicine
-"Murray, Katina R., MD","700 W 7TH ST STE S270-D, LOS ANGELES, CA 90017", (213) 988-8380 ,2.07miles,Family Practice
-"Cho, Jae Hyung, MD","3030 W OLYMPIC BLVD STE 206, LOS ANGELES, CA 90006", (213) 322-2666 ,2.08miles,Internal Medicine
-"Chai, Alexander Sin Tat, MD","1245 WILSHIRE BLVD STE 914, LOS ANGELES, CA 90017", (213) 484-8474 ,2.1miles,Internal Medicine
-"ProHealth Partners, A Medical Group, Inc.","1245 WILSHIRE BLVD STE 511, LOS ANGELES, CA 90017", (213) 977-1246 ,2.1miles,Family Practice
-"Nakashima, George, MD","1245 WILSHIRE BLVD STE 635, LOS ANGELES, CA 90017", (213) 617-7073 ,2.1miles,Pediatrics
-"Richardson-Te, Carol A., MD","1245 WILSHIRE BLVD STE 630, LOS ANGELES, CA 90017", (213) 977-0511 ,2.1miles,Internal Medicine - 18 and older
-"Te, Francis C., MD","1245 WILSHIRE BLVD STE 630, LOS ANGELES, CA 90017", (213) 977-0511 ,2.1miles,Internal Medicine - 16 and older
-"Davies, Joanna Marie Szyszlo, MD","1245 WILSHIRE BLVD STE 903, LOS ANGELES, CA 90017", (213) 977-1144 ,2.1miles,Internal Medicine; Rheumatology
-"ProHealth Partners, A Medical Group, Inc.","1245 WILSHIRE BLVD STE 511, LOS ANGELES, CA 90017", (213) 977-1246 ,2.1miles,Family Practice
-"Inouye, Katherine K., MD","1245 WILSHIRE BLVD STE 635, LOS ANGELES, CA 90017", (213) 617-7073 ,2.1miles,Pediatrics
-"Willson, Stuart L., MD","1245 WILSHIRE BLVD STE 903, LOS ANGELES, CA 90017", (213) 977-1144 ,2.1miles,Internal Medicine
-"Hahn, James C.S., MD","1245 WILSHIRE BLVD STE 790, LOS ANGELES, CA 90017", (323) 735-1111 ,2.1miles,Internal Medicine
-"Kumar, Nupur, DO","1245 WILSHIRE BLVD STE 611, LOS ANGELES, CA 90017", (213) 977-0187 ,2.1miles,Family Practice
-"Chai, Alexander Sin Tat, MD","1245 WILSHIRE BLVD STE 914, LOS ANGELES, CA 90017", (213) 484-8474 ,2.1miles,Internal Medicine
-"Nakashima, George, MD","1245 WILSHIRE BLVD STE 635, LOS ANGELES, CA 90017", (213) 617-7073 ,2.1miles,Pediatrics
-"Chong, Soo Hun, MD","1245 WILSHIRE BLVD STE 510, LOS ANGELES, CA 90017", (213) 481-0651 ,2.1miles,Internal Medicine
-"Roe, James T., MD","1245 WILSHIRE BLVD STE 514, LOS ANGELES, CA 90017", (213) 482-5141 ,2.1miles,Internal Medicine; Nephrology - 18 and older
-"Huang, Cindy, MD","1245 WILSHIRE BLVD STE 903, LOS ANGELES, CA 90017", (213) 977-1144 ,2.1miles,Internal Medicine; Endocrinology
-"Bhandari, Anil Kumar, MD","1245 WILSHIRE BLVD STE 703, LOS ANGELES, CA 90017", (213) 977-0419 ,2.1miles,Internal Medicine; Cardiac Electrophysiology; Cardiovascular Disease
-"Kanegae, Thomas Henry, MD","1245 WILSHIRE BLVD STE 616, LOS ANGELES, CA 90017", (213) 977-1030 ,2.1miles,Internal Medicine; Cardiovascular Disease
-"Beesley, Ellis N., Jr, MD","1127 WILSHIRE BLVD STE 707, LOS ANGELES, CA 90017", (213) 482-4830 ,2.1miles,Pediatrics
-"Guice, Michael James, MD","1127 WILSHIRE BLVD STE 1509, LOS ANGELES, CA 90017", (213) 482-8600 ,2.1miles,General Practice
-"Bland, Stephen L., MD","1127 WILSHIRE BLVD STE 1010, LOS ANGELES, CA 90017", (213) 977-0208 ,2.1miles,Internal Medicine
-"Kim, Karen, MD","1127 WILSHIRE BLVD STE 403, LOS ANGELES, CA 90017", (213) 250-9988 ,2.1miles,Internal Medicine - 18 and older
-"Chow, Thick G., MD","817 S VERMONT AVE, LOS ANGELES, CA 90005", (213) 385-0029 ,2.12miles,Family Practice
-"Lucero, Peter Agapay, MD","2208 W 7TH ST, LOS ANGELES, CA 90057", (213) 384-3434 ,2.15miles,General Practice; Family Practice
-"Llado, Carmencita J., MD","2208 W 7TH ST, LOS ANGELES, CA 90057", (213) 384-3434 ,2.15miles,Internal Medicine - 18 and older
-Los Angeles Clinica Medica General,"2208 W 7TH ST, LOS ANGELES, CA 90057", (213) 384-3434 ,2.15miles,General Practice
-"Dijamco, Ethel S., MD","2208 W 7TH ST, LOS ANGELES, CA 90057", (213) 384-3434 ,2.15miles,General Practice
-"Kohan, Mario A., MD","2208 W 7TH ST, LOS ANGELES, CA 90057", (213) 384-3434 ,2.15miles,General Practice
-"Lawrence, Patrick B., MD","1061 E VERNON AVE STE F, LOS ANGELES, CA 90011", (323) 233-9686 ,2.15miles,General Practice - 16 and older ; Family Practice; Obstetrics & Gynecology
-"Herrera, Gaston, MD","1061 E VERNON AVE STE F, LOS ANGELES, CA 90011", (855) 960-5595 ,2.15miles,"General Practice; Family Practice; Pathology, Anatomic"
-"Peace, DeVaughn Kenn, MD","4326 S WESTERN AVE, LOS ANGELES, CA 90062", (323) 299-9914 ,2.15miles,Pediatrics
-"Kang, Hun Ku, MD","2900 W 8TH ST, LOS ANGELES, CA 90005", (213) 382-7022 ,2.2miles,Family Practice
-"Espinoza, Maria A., MD","2151 W 6TH ST FL 2ND, LOS ANGELES, CA 90057", (213) 483-2222 ,2.34miles,Family Practice
-"Rostami, Nejat, MD","2972 WILSHIRE BLVD, LOS ANGELES, CA 90010", (213) 484-0000 ,2.44miles,General Practice
-"Govindarajan, Gopal, MD","1640 W 3RD ST, LOS ANGELES, CA 90017", (213) 483-1251 ,2.51miles,Internal Medicine; Cardiovascular Disease
-"Ngo, Hy Phung, MD","5801 S FIGUEROA ST, LOS ANGELES, CA 90003", (323) 971-3883 ,2.58miles,General Practice; Internal Medicine - 18 and older
-"Supan, Jocelyn, DO","2100 W 3RD ST STE 200, LOS ANGELES, CA 90057", (213) 413-8742 ,2.58miles,Pediatrics
-"Linares, Yendi N., MD","2100 W 3RD ST STE 200, LOS ANGELES, CA 90057", (213) 413-8742 ,2.58miles,Pediatrics
-"Zhou, Ann, DO","2100 W 3RD ST STE 400, LOS ANGELES, CA 90057", (888) 499-9303 ,2.58miles,Family Practice
-"Gill, Matthew, DO","2100 W 3RD ST STE 400, LOS ANGELES, CA 90057", (888) 499-9303 ,2.58miles,Family Practice
-"Mirazic, Brian, MD","3518 W 8TH ST, LOS ANGELES, CA 90005", (213) 384-9949 ,2.58miles,General Practice
-"Cha, Min Young, MD","520 S VIRGIL AVE STE 507, LOS ANGELES, CA 90020", (213) 480-7770 ,2.64miles,Internal Medicine - 12 and older
-"Oh, Pilsoo, MD","520 S VIRGIL AVE STE 202, LOS ANGELES, CA 90020", (213) 368-0360 ,2.64miles,Internal Medicine; Gastroenterology - 18 and older
-"Lee, Sonwoo, MD","505 S VIRGIL AVE STE 208, LOS ANGELES, CA 90020", (213) 739-0007 ,2.67miles,Internal Medicine; Rheumatology
-"Mercader, Rolando S., MD","201 ALVARADO STREET, SUITE 600, LOS ANGELES, CA 90057", (213) 484-6694 ,2.67miles,Pediatrics - Newborn to 18
-"Ngan, George, MD","201 S ALVARADO ST STE 717, LOS ANGELES, CA 90057", (213) 989-6959 ,2.67miles,Internal Medicine
-"In, George C., MD","500 S VIRGIL AVE STE 501, LOS ANGELES, CA 90020", (323) 735-7700 ,2.67miles,Family Practice
-"Kim, Janet S., MD","500 S VIRGIL AVE STE 204, LOS ANGELES, CA 90020", (213) 388-7828 ,2.67miles,Pediatrics - Newborn to 18
-"Aguilera, Manuel C., MD","2534 W 3RD ST, LOS ANGELES, CA 90057", (213) 382-1175 ,2.7miles,Internal Medicine - 15 and older
-"Shigematsu, Ronald, MD","420 E 3RD ST STE 705, LOS ANGELES, CA 90013", (213) 628-1020 ,2.75miles,Family Practice
-"Iinuma, Jay K., MD","420 E 3RD ST STE 904, LOS ANGELES, CA 90013", (213) 947-3171 ,2.75miles,Family Practice
-"Kawaratani, Sumi K., MD","420 E 3RD ST STE 705, LOS ANGELES, CA 90013", (213) 628-1020 ,2.75miles,Family Practice
-"Park, Wilson H., MD","3663 W 6TH ST STE 100, LOS ANGELES, CA 90020", (213) 383-4000 ,2.78miles,Internal Medicine
-"Song, Mark Myungjae, MD","3663 W 6TH ST STE 307, LOS ANGELES, CA 90020", (213) 736-1884 ,2.78miles,Internal Medicine; Nephrology
-"Paek, Woo Hyun, MD","3663 W 6TH ST STE 301, LOS ANGELES, CA 90020", (213) 291-3228 ,2.78miles,Pediatrics - Newborn to 21
-"Sohn, David Dai Han, MD","3663 W 6TH ST STE 106, LOS ANGELES, CA 90020", (213) 381-7272 ,2.78miles,Internal Medicine
-"Kim, Hei Pak, MD","3663 W 6TH ST STE 203, LOS ANGELES, CA 90020", (213) 480-1251 ,2.78miles,Internal Medicine
-"Shin, Eun I., MD","3663 W 6TH ST STE 305, LOS ANGELES, CA 90020", (213) 427-7020 ,2.78miles,Obstetrics & Gynecology; Obstetrics & Gynecology - CA PCP
-"Kim, Seung H., MD","3663 W 6TH ST STE 206, LOS ANGELES, CA 90020", (213) 385-5500 ,2.78miles,Internal Medicine
-"Chang, Bong S., MD","3671 W 6TH ST STE A, LOS ANGELES, CA 90020", (213) 383-8496 ,2.79miles,Pediatrics
-"Pakour, Meada, MD","3671 W 6TH ST STE B, LOS ANGELES, CA 90020", (213) 375-7511 ,2.79miles,Pediatrics
-"Wyatt, Wendell D., MD","3731 WILSHIRE BLVD STE 850, LOS ANGELES, CA 90010", (323) 913-4200 ,2.8miles,Internal Medicine
-"Suyat, George U., MD","2105 BEVERLY BLVD STE 131, LOS ANGELES, CA 90057", (213) 413-8836 ,2.87miles,Internal Medicine
-"Zapata, Reynaldo C., MD","2105 BEVERLY BLVD STE 211, LOS ANGELES, CA 90057", (213) 413-6207 ,2.87miles,Internal Medicine - 18 and older
-"Lopez, Horacio G., MD","2105 BEVERLY BLVD STE 129, LOS ANGELES, CA 90057", (213) 353-3600 ,2.87miles,Pediatrics; Pediatric Allergy & Immunology; Allergy & Immunology
-"Zapata, Reynaldo C., MD","2105 BEVERLY BLVD STE 211, LOS ANGELES, CA 90057", (213) 413-6207 ,2.87miles,Internal Medicine - 18 and older
-"Sohal, Mohinder Singh, MD","2105 BEVERLY BLVD STE 227, LOS ANGELES, CA 90057", (213) 484-8186 ,2.87miles,Internal Medicine; Cardiovascular Disease
-"Rose, Daniel M., MD","2105 BEVERLY BLVD STE 231, LOS ANGELES, CA 90057", (818) 997-7117 ,2.87miles,Family Practice
-"Quesada, Abel R., MD","4221 S ALAMEDA ST, VERNON, CA 90058", (323) 676-5111 ,2.89miles,General Practice
-"Badday, Jalal M., MD","431 S HEWITT ST STE B, LOS ANGELES, CA 90013", (213) 537-0610 ,2.94miles,Internal Medicine
-"Mungcal, Renato V., MD","133 S VERMONT AVE, LOS ANGELES, CA 90004", (213) 480-0748 ,3.14miles,Family Practice
-"Huh, John (Yongchul) Y., MD","356 S WESTERN AVE STE 200, LOS ANGELES, CA 90020", (213) 384-1717 ,3.2miles,Internal Medicine
-"Chickey, Anna L., MD","2536 W TEMPLE ST, LOS ANGELES, CA 90026", (213) 385-7888 ,3.2miles,Internal Medicine
-"Zandi Esfahani, Mahin, MD","4300 CRENSHAW BLVD, LOS ANGELES, CA 90008", (323) 298-1668 ,3.24miles,General Practice
-"Modi, Meera J., MD","1100 W SUNSET BLVD, LOS ANGELES, CA 90012", (213) 250-3716 ,3.35miles,General Practice; Internal Medicine - 12 and older
-"Ton, Hoang Tich, MD","642 N BROADWAY STE 2, LOS ANGELES, CA 90012", (213) 620-1720 ,3.37miles,General Practice
-"Pan, Zhao-Yang, MD","652 N BROADWAY STE A, LOS ANGELES, CA 90012", (213) 617-7673 ,3.38miles,Family Practice
-"Opoku, Edward N., DO","2520 WEST STREET, SUITE 106, LOS ANGELES, CA 90016", (213) 389-2526 ,3.39miles,General Practice
-"Wong, Kin, DO","709 N HILL ST STE 8, LOS ANGELES, CA 90012", (213) 628-3300 ,3.41miles,Internal Medicine - 13 and older
-"Casabar, Ruben, MD","711 N ALVARADO ST STE 101, LOS ANGELES, CA 90026", (213) 484-8786 ,3.42miles,General Practice; Pediatrics - Newborn to 21
-"Paja, Isaias, Jr, MD","711 N ALVARADO ST STE 101, LOS ANGELES, CA 90026", (213) 484-8786 ,3.42miles,Family Practice
-"Huang, Jimmy Chi-Ning, DO","3756 SANTA ROSALIA DR STE 422, LOS ANGELES, CA 90008", (323) 292-0211 ,3.44miles,Family Practice
-"Negussie, Suzanna S., MD","3756 SANTA ROSALIA DR STE 320, LOS ANGELES, CA 90008", (323) 292-5600 ,3.44miles,Pediatrics
-"McGarrity, Sharon, DO","3750 SANTA ROSALIA DR STE 101, LOS ANGELES, CA 90008", (323) 294-1160 ,3.44miles,Family Practice
-"McGarrity, Sharon, DO","3750 SANTA ROSALIA DR STE 101, LOS ANGELES, CA 90008", (323) 294-1160 ,3.44miles,Family Practice
-"Aguilera, Gemelia H., MD","3761 BEVERLY BLVD, LOS ANGELES, CA 90004", (323) 663-2100 ,3.47miles,Internal Medicine
-"Sampson, Michael S., MD","3919 BEVERLY BLVD STE 203, LOS ANGELES, CA 90004", (323) 953-2956 ,3.5miles,Internal Medicine
-"Boun, Singh Ahn, MD","809 N HILL ST STE K, LOS ANGELES, CA 90012", (213) 346-9982 ,3.54miles,Family Practice - 19 to 100
-"Ma, George W., MD","711 W COLLEGE ST STE 210, LOS ANGELES, CA 90012", (213) 621-2998 ,3.57miles,Internal Medicine - 12 and older
-"Velez, Cesar A., MD","711 W COLLEGE ST STE 328, LOS ANGELES, CA 90012", (213) 482-8313 ,3.57miles,General Practice
-"Guzman, Julio V., MD","4214 WEST BEVERLY BLVD., SUITE 212, LOS ANGELES, CA 90004", (213) 385-9912 ,3.59miles,Family Practice
-"Liang, Yong Yao, MD","888 N HILL ST, LOS ANGELES, CA 90012", (213) 687-0863 ,3.59miles,Family Practice
-"Covington, Elizabeth J., MD","3701 STREETOCKER STREET, SUITE 101, LOS ANGELES, CA 90008", (323) 290-2107 ,3.6miles,Family Practice
-"Awariefe, Henry Okpako, MD","1039 W FLORENCE AVE, LOS ANGELES, CA 90044", (323) 776-1500 ,3.64miles,Family Practice
-"Wong, Shi-Yin, MD","407 W COLLEGE ST, LOS ANGELES, CA 90012", (213) 680-3990 ,3.64miles,General Practice; Family Practice
-"Chan, Kimberly, MD","407 W COLLEGE ST, LOS ANGELES, CA 90012", (213) 680-3990 ,3.64miles,Internal Medicine
-"Zhang, Yan P., MD","1711 W TEMPLE ST STE 1056, LOS ANGELES, CA 90026", (626) 442-2929 ,3.66miles,General Practice
-"Joaquin, Arnel M., MD","1711 W TEMPLE ST STE 5606, LOS ANGELES, CA 90026", (213) 353-6000 ,3.66miles,Internal Medicine
-"Kiley, Antuan, MD","1711 W TEMPLE ST STE 5657, LOS ANGELES, CA 90026", (818) 631-9722 ,3.66miles,Internal Medicine; Obstetrics & Gynecology
-"De La Llana, Jose A., MD","1711 W TEMPLE ST, LOS ANGELES, CA 90026", (213) 989-6100 ,3.66miles,General Practice
-"Ramadan, Sera N., DO","1711 W TEMPLE ST STE 4691, LOS ANGELES, CA 90026", (213) 238-5887 ,3.66miles,Internal Medicine
-"Natividad, Alberto V., MD","1711 W TEMPLE ST STE 3200, LOS ANGELES, CA 90026", (213) 989-1951 ,3.66miles,General Practice
-"Pullen, Jo Ann C., MD","1711 W TEMPLE ST FL 7TH, LOS ANGELES, CA 90026", (213) 207-5050 ,3.66miles,Internal Medicine; Geriatrics
-"Chu, Paul H.J., MD","945 N HILL ST, LOS ANGELES, CA 90012", (213) 617-0777 ,3.68miles,Internal Medicine
-"Young, Justin Coleman, MD","2110 W SUNSET BLVD STE M, LOS ANGELES, CA 90026", (833) 873-2852 ,3.69miles,Family Practice
-"Liu, Qiji, MD","1900 E SLAUSON AVE, HUNTINGTON PARK, CA 90255", (888) 499-9303 ,3.73miles,Family Practice
-"Silao, Michael A., MD","1931 W SUNSET BLVD, LOS ANGELES, CA 90026", (213) 484-1212 ,3.74miles,Internal Medicine
-"Lalezari, Bahman, MD","4944 W PICO BLVD, LOS ANGELES, CA 90019", (323) 939-5346 ,3.8miles,Internal Medicine - 18 and older
-"Hwee, Thomas Ni, MD","993 N BROADWAY STE A, LOS ANGELES, CA 90012", (213) 625-7995 ,3.83miles,Family Practice
-"Li, Xia, MD","1304 ECHO PARK AVE, LOS ANGELES, CA 90026", (213) 977-1286 ,3.85miles,Internal Medicine
-"Sghiatti, Vincent R., MD","6316 HOLMES AVE, LOS ANGELES, CA 90001", (323) 583-5887 ,3.88miles,General Practice; Family Practice
-"Geiseler, Alexander Jan, MD","2920 SUNSET BLVD., LOS ANGELES, CA 90026", (212) 226-7666 ,3.95miles,Pediatrics - Newborn to 21
-"Kao, Christine, DO","2920 SUNSET BLVD., LOS ANGELES, CA 90026", (323) 825-9223 ,3.95miles,Pediatrics
-"Thomas, Kevin C., MD","7301 S WESTERN AVE, LOS ANGELES, CA 90047", (323) 778-2131 ,3.98miles,General Practice
-"Chen, Lulu L., MD","1318 E FLORENCE AVE, LOS ANGELES, CA 90001", (323) 584-9525 ,4.01miles,Family Practice
-"Pedroza, Victor Manuel, MD","2705 WHITTIER BLVD, LOS ANGELES, CA 90023", (323) 263-3861 ,4.1miles,General Practice; Internal Medicine
-"Banta, Warren P., MD","1700 E CESAR E CHAVEZ AVE STE 3500, LOS ANGELES, CA 90033", (323) 264-0430 ,4.1miles,Internal Medicine; Hematology/Oncology - 18 and older
-"Loza, Julio A., DO","1700 EAST CESAR CHAVEZ AVENUE, SUITE 3600, LOS ANGELES, CA 90033", (323) 262-4176 ,4.1miles,Internal Medicine
-Hematology Oncology Specialists,"1700 E CESAR E CHAVEZ AVE STE 3500, LOS ANGELES, CA 90033", (323) 264-0430 ,4.1miles,Internal Medicine; Hematology/Oncology
-"Rivera, Martha E., MD","1700 E CESAR E CHAVEZ AVE STE 3450, LOS ANGELES, CA 90033", (323) 261-0259 ,4.1miles,Infectious Disease; Pediatrics - Newborn to 21
-"Lau, Susie H., MD","1700 E CESAR E CHAVEZ AVE STE 3600, LOS ANGELES, CA 90033", (323) 252-6946 ,4.1miles,Internal Medicine
-White Memorial Med Center-Boyle Heights Med Clinic,"1700 CESAR E. CHAVEZ AVENUE, SUITE L275, LOS ANGELES, CA 90033", (323) 268-5000 ,4.1miles,Internal Medicine; Radiation Oncology; Palliative Medicine
-"Nemri, Talin, MD","1700 E CESAR E CHAVEZ AVE STE 3000, LOS ANGELES, CA 90033", (323) 435-0191 ,4.1miles,Internal Medicine - 18 and older
-"Rivera, Martha E., MD","1700 E CESAR E CHAVEZ AVE STE 3450, LOS ANGELES, CA 90033", (323) 261-0259 ,4.1miles,Infectious Disease; Pediatrics - Newborn to 21
-White Memorial Med Center-Boyle Heights Med Clinic,"1700 EAST CESAR CHAVEZ AVENUE, SUITE 3300, LOS ANGELES, CA 90033", (323) 307-8900 ,4.1miles,Internal Medicine; Radiation Oncology; Palliative Medicine
-"Burke, Lennis Patrick, MD","1700 E CESAR E CHAVEZ AVE STE 1300, LOS ANGELES, CA 90033", (323) 526-2483 ,4.1miles,Cardiovascular Disease; Cardiology; Pediatrics - Newborn to 21 ; Pediatric Cardiology
-"Ho, John, MD","1700 E CESAR E CHAVEZ AVE STE 1300, LOS ANGELES, CA 90033", (323) 526-2483 ,4.1miles,Pediatrics - Newborn to 21 ; Pediatric Cardiology
-"Abboy, Ramadas, MD","1700 E CESAR E CHAVEZ AVE STE 3100, LOS ANGELES, CA 90033", (323) 263-9779 ,4.1miles,Internal Medicine; Pulmonary Disease
-"Ghaly, Azmy Fouad, MD","1700 E CESAR E CHAVEZ AVE STE 3900, LOS ANGELES, CA 90033", (323) 307-0800 ,4.1miles,Internal Medicine
-"Abdou, Zahid Jean, MD","1701 E CESAR E CHAVEZ AVE STE 100, LOS ANGELES, CA 90033", (323) 987-1362 ,4.1miles,Internal Medicine
-"Abdou, Zahid Jean, MD","1701 E CESAR E CHAVEZ AVE STE 510, LOS ANGELES, CA 90033", (323) 987-1362 ,4.1miles,Internal Medicine
-"Agrawal, Nisha Jain, MD","1701 CESAR E CHAVEZ AVENUE, SUITE 402, LOS ANGELES, CA 90033", (323) 317-9200 ,4.1miles,Family Practice
-"Munoz Martin Sanchez, Silvia, MD","1701 E CESAR E CHAVEZ AVE STE 100, LOS ANGELES, CA 90033", (323) 987-1362 ,4.1miles,Internal Medicine
-"Chen, Shaw Shen, MD","1701 E CESAR E CHAVEZ AVE STE 120, LOS ANGELES, CA 90033", (323) 987-1362 ,4.1miles,Internal Medicine
-"Chen, Shaw Shen, MD","1701 E CESAR E CHAVEZ AVE STE 100, LOS ANGELES, CA 90033", (323) 987-1362 ,4.1miles,Internal Medicine
-"Ku-Borden, Teresa Ting, MD","1701 E CESAR E CHAVEZ AVE STE 230, LOS ANGELES, CA 90033", (323) 226-1100 ,4.1miles,Family Practice
-"Agrawal, Nisha Jain, MD","1701 CESAR E CHAVEZ AVENUE, SUITE 230, LOS ANGELES, CA 90033", (323) 226-1100 ,4.1miles,Family Practice
-"Munoz Martin Sanchez, Silvia, MD","1701 E CESAR E CHAVEZ AVE STE 100, LOS ANGELES, CA 90033", (323) 987-1362 ,4.1miles,Internal Medicine
-"Lau, Alan Chun Kau, MD","1701 E CESAR E CHAVEZ AVE STE 120, LOS ANGELES, CA 90033", (323) 987-1362 ,4.1miles,Internal Medicine - 12 and older
-"To, Dong Do, MD","1701 E CESAR E CHAVEZ AVE STE 120, LOS ANGELES, CA 90033", (323) 987-1362 ,4.1miles,Internal Medicine
-"Castro, Edward, MD","1701 E CESAR E CHAVEZ AVE STE 402, LOS ANGELES, CA 90033", (310) 538-5222 ,4.1miles,Family Practice
-"Castro, Edward, MD","1701 E CESAR E CHAVEZ AVE STE 230, LOS ANGELES, CA 90033", (323) 226-1100 ,4.1miles,Family Practice
-"Rajyaguru, Parth Sharad, MD","1701 E CESAR E CHAVEZ AVE STE 402, LOS ANGELES, CA 90033", (323) 317-9200 ,4.1miles,Internal Medicine
-"Rajyaguru, Parth Sharad, MD","1701 E CESAR E CHAVEZ AVE STE 230, LOS ANGELES, CA 90033", (323) 226-1100 ,4.1miles,Internal Medicine
-"Bueno, Mauricio Eduardo, MD","1701 E CESAR E CHAVEZ AVE STE 230, LOS ANGELES, CA 90033", (323) 226-1100 ,4.1miles,Family Practice
-"Bueno, Mauricio Eduardo, MD","1701 E CESAR E CHAVEZ AVE STE 402, LOS ANGELES, CA 90033", (323) 317-9200 ,4.1miles,Family Practice
-"Villegas, Sergio B., MD","1701 E CESAR E CHAVEZ AVE STE 402, LOS ANGELES, CA 90033", (323) 317-9200 ,4.1miles,Family Practice
-"Kamdar, Anjana Vikram, MD","1701 E CESAR E CHAVEZ AVE STE 536, LOS ANGELES, CA 90033", (323) 264-4300 ,4.1miles,Internal Medicine - 12 and older ; Nephrology
-"To, Dong Do, MD","1701 E CESAR E CHAVEZ AVE STE 100, LOS ANGELES, CA 90033", (323) 987-1362 ,4.1miles,Internal Medicine
-"Chan, Andrew Steven, MD","1701 E CESAR E CHAVEZ AVE STE 402, LOS ANGELES, CA 90033", (323) 226-1100 ,4.1miles,Internal Medicine - 12 and older
-"Lopez, Maria Cynthia Sinio, MD","1701 E CESAR E CHAVEZ AVE STE 402, LOS ANGELES, CA 90033", (323) 317-9200 ,4.1miles,Family Practice
-"Agrawal, Nisha Jain, MD","1701 CESAR E CHAVEZ AVENUE, SUITE 402, LOS ANGELES, CA 90033", (323) 317-9200 ,4.1miles,Family Practice
-"Hiromura, Christopher Matthew, MD","1701 CESAR CHAVEZ AVENUE, SUITE 402, LOS ANGELES, CA 90033", (323) 317-9200 ,4.1miles,Family Practice
-"Hiromura, Christopher Matthew, MD","1701 E CESAR E CHAVEZ AVE STE 230, LOS ANGELES, CA 90033", (323) 317-9200 ,4.1miles,Family Practice
-"Silva, Vasthi Vivian, MD","1701 E CESAR E CHAVEZ AVE STE 100, LOS ANGELES, CA 90033", (323) 987-1362 ,4.1miles,Internal Medicine
-"Meas, Morodak, MD","1701 E CESAR E CHAVEZ AVE STE 230, LOS ANGELES, CA 90033", (323) 226-1100 ,4.1miles,Family Practice
-"Meas, Morodak, MD","1701 E CESAR E CHAVEZ AVE STE 402, LOS ANGELES, CA 90033", (323) 317-9200 ,4.1miles,Family Practice
-"Lau, Alan Chun Kau, MD","1701 E CESAR E CHAVEZ AVE STE 120, LOS ANGELES, CA 90033", (323) 987-1362 ,4.1miles,Internal Medicine - 12 and older
-"Arevalo, Rodolfo Antonio, MD","1701 E CESAR E CHAVEZ AVE STE 354, LOS ANGELES, CA 90033", (323) 221-5366 ,4.1miles,Family Practice
-"Vizel, Mikhail, MD","1720 CESAR E. CHAVEZ AVENUE, SUITE 1512, LOS ANGELES, CA 90033", (323) 265-5085 ,4.13miles,Internal Medicine
-"Lee, Timothy Daehoon, MD","1720 CESAR E. CHAVEZ AVENUE, LOS ANGELES, CA 90033", (323) 268-5000 ,4.13miles,Internal Medicine
-"Medina, Gilberto, MD","1720 E CESAR E CHAVEZ AVE STE 201, LOS ANGELES, CA 90033", (323) 260-5789 ,4.13miles,Family Practice
-"Crown City Medical Group, Inc.","1542 E FLORENCE AVE, LOS ANGELES, CA 90001", (323) 584-0222 ,4.16miles,General Practice
-"Villanueva, Juventino T., MD","1542 E FLORENCE AVE STE 300, LOS ANGELES, CA 90001", (323) 584-0222 ,4.16miles,Pediatrics - Newborn to 21
-"Khalil, Nagy, MD","1557 E FLORENCE AVE, LOS ANGELES, CA 90001", (323) 584-1490 ,4.16miles,Pediatrics
-"Hakim, Ragaie Lamie, MD","1557 E FLORENCE AVE, LOS ANGELES, CA 90001", (323) 584-1490 ,4.16miles,Pediatrics
-"Munoz Martin Sanchez, Alma Angelica, MD","1828 E CESAR E CHAVEZ AVE STE 5000, LOS ANGELES, CA 90033", (323) 987-1200 ,4.16miles,Pediatrics
-"Zamora, Antonio, MD","1828 E CESAR E CHAVEZ AVE STE 5000, LOS ANGELES, CA 90033", (323) 987-1200 ,4.16miles,Pediatrics
-"Gailiunas, Paul Nathan, MD","1828 CESAR E. CHAVEZ AVENUE, SUITE 5000, LOS ANGELES, CA 90033", (323) 987-1200 ,4.16miles,Family Practice
-"Rincon, Francisco I., MD","1828 E CESAR E CHAVEZ AVE STE 5000, LOS ANGELES, CA 90033", (323) 987-1200 ,4.16miles,Pediatrics
-White Memorial Med Center-Boyle Heights Med Clinic,"1828 CESAR E. CHAVEZ AVENUE, SUITE 4600, LOS ANGELES, CA 90033", (323) 307-8585 ,4.16miles,Internal Medicine; Radiation Oncology; Palliative Medicine
-"Anderson, Neville W., MD","321 N LARCHMONT BLVD STE 1020, LOS ANGELES, CA 90004", (323) 960-8500 ,4.2miles,Pediatrics
-"Montegrande, Faye M., MD","321 N LARCHMONT BLVD STE 824, LOS ANGELES, CA 90004", (323) 464-0286 ,4.2miles,Internal Medicine
-"Negussie, Suzanna S., MD","3717 S LA BREA AVE STE 201, LOS ANGELES, CA 90016", (323) 292-5600 ,4.2miles,Pediatrics
-"Nacorda, Jason, DO","3743 S LA BREA AVE, LOS ANGELES, CA 90016", (323) 329-9900 ,4.21miles,Family Practice
-"DeshMukh, Anagha A., MD","2219 E 1ST ST, LOS ANGELES, CA 90033", (323) 889-7830 ,4.29miles,Internal Medicine - 12 and older
-St. Francis Multi-Specialty-Huntington Park,"2700 E SLAUSON AVE STE 200, HUNTINGTON PARK, CA 90255", (323) 588-8558 ,4.31miles,Family Practice
-"Banta, Dante Atienza, MD","875 N WESTERN AVE, LOS ANGELES, CA 90029", (323) 461-0777 ,4.4miles,General Practice
-"Gonzalez, Timothy M., MD","2750 E SLAUSON AVE, HUNTINGTON PARK, CA 90255", (323) 582-1863 ,4.41miles,Internal Medicine
-Optum-Huntington Park (IM),"2750 E SLAUSON AVE, HUNTINGTON PARK, CA 90255", (323) 583-3010 ,4.41miles,Family Practice
-Optum-Huntngtn Park(Peds),"2750 E SLAUSON AVE, HUNTINGTON PARK, CA 90255", (323) 582-1863 ,4.41miles,Pediatrics
-Optum-Huntington Park (IM),"2750 E SLAUSON AVE, HUNTINGTON PARK, CA 90255", (323) 583-3010 ,4.41miles,Family Practice
-"Segura, George Armando, MD","1828 EAST CESAR ECHAVEZ AVENUE, SUITE 5000, LOS ANGELES, CA 90033", (323) 987-1200 ,4.42miles,Pediatrics
-"Lucero, Peter Agapay, MD","6347 PACIFIC BLVD, HUNTINGTON PARK, CA 90255", (323) 583-8383 ,4.51miles,General Practice; Family Practice
-"Coloma, Mara A., MD","6347 PACIFIC BLVD, HUNTINGTON PARK, CA 90255", (323) 583-8383 ,4.51miles,General Practice
-"Kohan, Mario A., MD","6347 PACIFIC BLVD, HUNTINGTON PARK, CA 90255", (213) 739-3269 ,4.51miles,General Practice
-"Llado, Carmencita J., MD","6347 PACIFIC BLVD, HUNTINGTON PARK, CA 90255", (323) 583-8383 ,4.51miles,Internal Medicine - 18 and older
-"Tamayo, Beatriz Eliana, MD","6347 PACIFIC BLVD, HUNTINGTON PARK, CA 90255", (323) 583-8383 ,4.51miles,Internal Medicine
-"Dijamco, Ethel S., MD","6347 PACIFIC BLVD, HUNTINGTON PARK, CA 90255", (323) 583-8383 ,4.51miles,General Practice
-"Soliman, Rasha, MD","6526 RUGBY AVE, HUNTINGTON PARK, CA 90255", (323) 583-2247 ,4.56miles,Family Practice
-"Soliman, Tahani, MD","6526 RUGBY AVE, HUNTINGTON PARK, CA 90255", (323) 583-2247 ,4.56miles,General Practice
-"Crown City Medical Group, Inc.","6601 RUGBY AVE STE 300, HUNTINGTON PARK, CA 90255", (323) 582-1177 ,4.59miles,General Practice
-"Iniguez, Walfredo R., MD","6601 RUGBY AVE STE 300, HUNTINGTON PARK, CA 90255", (323) 582-1177 ,4.59miles,Pediatrics - Newborn to 18
-"Devera, Oscar S., MD","6601 RUGBY AVE STE 300, HUNTINGTON PARK, CA 90255", (323) 582-1177 ,4.59miles,Pediatrics
-"Villanueva, Juventino T., MD","6601 RUGBY AVE STE 300, HUNTINGTON PARK, CA 90255", (323) 582-1177 ,4.59miles,Pediatrics - Newborn to 21
-"Paredes, Potenciano Reynoso, MD","617 W MANCHESTER AVE, LOS ANGELES, CA 90044", (323) 750-9715 ,4.59miles,Pediatrics - Newborn to 21
-"Valenzuela, Efren S., MD","617 W MANCHESTER AVE, LOS ANGELES, CA 90044", (323) 750-9715 ,4.59miles,Pediatrics
-"Daniel, Chancelor, MD","617 W MANCHESTER AVE, LOS ANGELES, CA 90044", (323) 750-9715 ,4.59miles,Family Practice
-"Soliman, Jimmy H., MD","617 W MANCHESTER AVE, LOS ANGELES, CA 90044", (323) 778-6215 ,4.59miles,Internal Medicine - 13 and older
-"Danielyan, Nouneh Oganesovna, MD","5220 SANTA MONICA BLVD STE E, LOS ANGELES, CA 90029", (323) 913-9300 ,4.61miles,Internal Medicine - 12 and older
-"Karapetian, Michael Yurevich, MD","5220 SANTA MONICA BLVD STE E, LOS ANGELES, CA 90029", (323) 913-9300 ,4.61miles,Internal Medicine
-"Romanenko, Dmitriy, MD","2670 E GAGE AVE STE 4, HUNTINGTON PARK, CA 90255", (323) 588-2005 ,4.61miles,Obstetrics & Gynecology - CA PCP
-"Ter-Zakarian, Hovanes John, MD","5250 SANTA MONICA BLVD STE 310, LOS ANGELES, CA 90029", (323) 663-9831 ,4.61miles,General Practice; Family Practice
-"Pehlevanian, Garo Z., MD","5250 SANTA MONICA BLVD STE 207, LOS ANGELES, CA 90029", (323) 664-0857 ,4.61miles,Internal Medicine; Cardiovascular Disease
-"Artinyan, Ludvik, MD","5300 SANTA MONICA BLVD STE 200, LOS ANGELES, CA 90029", (323) 461-5882 ,4.62miles,General Practice
-"Rostami, Nejat, MD","1080 N WESTERN AVE, LOS ANGELES, CA 90029", (323) 957-8787 ,4.62miles,General Practice
-"Khalil, Nagy, MD","2719 E GAGE AVE, HUNTINGTON PARK, CA 90255", (323) 277-0272 ,4.68miles,Pediatrics
-"Hakim, Ragaie Lamie, MD","2719 E GAGE AVE, HUNTINGTON PARK, CA 90255", (323) 277-0272 ,4.68miles,Pediatrics
-"Olaes, Lamberto S., MD","1267 N VIRGIL AVE, LOS ANGELES, CA 90029", (323) 664-7628 ,4.68miles,Internal Medicine
-Axminster Medical Group - Slauson                 Internal Med,"4314 W SLAUSON AVE, LOS ANGELES, CA 90043", (323) 293-7171 ,4.69miles,Internal Medicine
-Axminster Medical Group-Slauson Ped,"4314 W SLAUSON AVE, LOS ANGELES, CA 90043", (323) 293-7171 ,4.69miles,Pediatrics
-"Andersen, Kristen Nicole, MD","4314 W SLAUSON AVE, LOS ANGELES, CA 90043", (323) 293-7171 ,4.69miles,Pediatrics - Newborn to 21
-"El Asmar, Imad Aziz, MD","1234 N VERMONT AVE, LOS ANGELES, CA 90029", (323) 660-5624 ,4.7miles,Internal Medicine
-"Gindi, Magdi Riad, MD","1110 N WESTERN AVE STE 201, LOS ANGELES, CA 90029", (323) 463-6881 ,4.72miles,General Practice; Family Practice
-"Gindi, Nabila Erian, MD","1110 N WESTERN AVE STE 201, LOS ANGELES, CA 90029", (323) 463-6881 ,4.72miles,General Practice; Family Practice
-"Shah, Kiritkumar S., MD","3444 WHITTIER BLVD, LOS ANGELES, CA 90023", (323) 268-6751 ,4.78miles,Family Practice
-"Eldessouky, Amani A., MD","1704 W MANCHESTER AVE STE 109, LOS ANGELES, CA 90047", (323) 778-8485 ,4.8miles,Family Practice
-"Bulaon, Carlos O., MD","3500 WHITTIER BLVD STE 105, LOS ANGELES, CA 90023", (323) 262-8100 ,4.83miles,Family Practice
-"Watchi, Ralph M., MD","1300 N VERMONT AVE STE 901, LOS ANGELES, CA 90027", (323) 912-9221 ,4.83miles,Pediatrics; Pediatric Infectious Disease
-"AIDS Healthcare Foundation, Inc.","1300 N VERMONT AVE STE 407, LOS ANGELES, CA 90027", (323) 662-0792 ,4.83miles,Internal Medicine; Infectious Disease
-"Ngan, George, MD","1300 N VERMONT AVE STE 506, LOS ANGELES, CA 90027", (213) 989-6959 ,4.83miles,Internal Medicine
-"Lagman, Rosario, MD","1300 N VERMONT AVE STE 802-A, LOS ANGELES, CA 90027", (323) 660-6363 ,4.83miles,Pediatrics - Newborn to 18
-"Feldsher, Zhanna, MD","1300 N VERMONT AVE STE 606, LOS ANGELES, CA 90027", (323) 660-6200 ,4.83miles,Pediatrics
-"Al-Jazayrly, Ghassan M., MD","1300 N VERMONT AVE STE 606, LOS ANGELES, CA 90027", (323) 660-6212 ,4.83miles,Internal Medicine; Hematology/Oncology
-"Kalindjian, Krikor Israel, MD","1300 N VERMONT AVE STE 807, LOS ANGELES, CA 90027", (323) 660-5191 ,4.83miles,Internal Medicine - 18 and older
-"Kunnawuthidee, Kamoltipya C., MD","1300 N VERMONT AVE STE 702, LOS ANGELES, CA 90027", (323) 928-2799 ,4.83miles,Pediatrics - Newborn to 18
-"Galdamez, Violeta Auxiliadora, MD","6831 SEVILLE AVE, HUNTINGTON PARK, CA 90255", (323) 581-8234 ,4.86miles,Pediatrics
-"Lakha, Rumi K., DO","7136 PACIFIC BLVD STE 225, HUNTINGTON PARK, CA 90255", (323) 588-5467 ,4.86miles,Family Practice
-"DeLeaver-Russell, Margo P., MD","2928 EAST CESAR CHAVEZ AVENUE, LOS ANGELES, CA 90033", (323) 266-6700 ,4.86miles,Pediatrics - Newborn to 21
-"Madatovian, Harut, DO","2928 E CESAR E CHAVEZ AVE, LOS ANGELES, CA 90033", (323) 266-6700 ,4.86miles,Family Practice; Sports Medicine
-"Madatovian, Harut, DO","2928 E CESAR E CHAVEZ AVE, LOS ANGELES, CA 90033", (323) 266-6700 ,4.86miles,Family Practice; Sports Medicine
-"Feldsher, Zhanna, MD","2928 EAST CESAR CHAVEZ AVENUE, LOS ANGELES, CA 90033", (323) 266-6700 ,4.86miles,Pediatrics
-"Singleton, Michael J., MD","8880 S BROADWAY, LOS ANGELES, CA 90003", (323) 750-1196 ,4.88miles,Internal Medicine
-"Zevallos, Edwin W., MD","6915 SEVILLE AVE, HUNTINGTON PARK, CA 90255", (323) 588-9800 ,4.9miles,Internal Medicine - 12 and older
-"Shadi, Payam, MD","5901 W OLYMPIC BLVD STE 404, LOS ANGELES, CA 90036", (323) 938-9999 ,4.91miles,Internal Medicine; Sleep Medicine
-"Gladstein, Jay Edward, MD","5901 W OLYMPIC BLVD STE 310, LOS ANGELES, CA 90036", (310) 550-1010 ,4.91miles,Internal Medicine; Infectious Disease
-"Kruglyakov, Svetlana, MD","5901 W OLYMPIC BLVD STE 503B, LOS ANGELES, CA 90036", (323) 456-0500 ,4.91miles,Pediatrics
-"Gladstein, Jay Edward, MD","5901 W OLYMPIC BLVD STE 500, LOS ANGELES, CA 90036", (323) 215-1725 ,4.91miles,Internal Medicine; Infectious Disease
-"Peters, Anne Louise, MD","5901 W OLYMPIC BLVD STE 208, LOS ANGELES, CA 90036", (323) 936-8283 ,4.91miles,Internal Medicine
-"Mora, Lawrence A., MD","5901 W OLYMPIC BLVD STE 404, LOS ANGELES, CA 90036", (323) 456-0185 ,4.91miles,Family Practice
-"Rahban, Alfred, MD","5901 W OLYMPIC BLVD STE 307, LOS ANGELES, CA 90036", (323) 939-3669 ,4.91miles,Internal Medicine; Nephrology
-"Visnyei, Koppany, MD","5901 W OLYMPIC BLVD STE 401, LOS ANGELES, CA 90036", (310) 651-9017 ,4.91miles,Internal Medicine
-"Gladstein, Jay Edward, MD","5901 W OLYMPIC BLVD STE 310, LOS ANGELES, CA 90036", (323) 215-1725 ,4.91miles,Internal Medicine; Infectious Disease
-"Lalezari, David Benjamin, MD","5901 W OLYMPIC BLVD STE 404, LOS ANGELES, CA 90036", (323) 938-9999 ,4.91miles,Internal Medicine
-"Cunningham, Andrew T., MD","4470 W SUNSET BLVD STE 92709, LOS ANGELES, CA 90027", (434) 248-7508 ,4.94miles,Family Practice
-"Banerjee, Shomir, MD","4470 W SUNSET BLVD STE 92709, LOS ANGELES, CA 90027", (434) 248-7508 ,4.94miles,Family Practice
-"Katiraie, Sepehr, MD","2638 E FLORENCE AVE, WALNUT PARK, CA 90255", (323) 588-3800 ,4.96miles,General Practice
-"King, Lu-Wei T., MD","2680 E FLORENCE AVE, HUNTINGTON PARK, CA 90255", (323) 581-4665 ,4.96miles,Obstetrics & Gynecology; Obstetrics & Gynecology - CA PCP - 11 and older
-"Lewis, Laura Anne, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Cidon, Michal J., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 660-2450 ,4.97miles,Pediatrics; Pediatric Rheumatology
-"Puri, Varsha M., DO","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics - Newborn to 21
-"Khouzam, Nadine, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Nephrology; Pediatrics; Pediatric Nephrology
-"Khouzam, Nadine, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Nephrology; Pediatrics; Pediatric Nephrology
-"Smith, Jasmine Raquel, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (323) 361-6177 ,4.97miles,Internal Medicine; Pediatrics
-"Grekov, Karolina, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Uniat, Jonathan J., MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Donthi, Rajesh R., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-6177 ,4.97miles,Pediatrics
-"Russell, Christopher J., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-2453 ,4.97miles,Pediatrics
-"Lafortune, Marie-Michele C., MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Easley, Alicia, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-6177 ,4.97miles,Pediatrics
-"Luu, Cindy, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics; Emergency Medicine
-"Cross, Corinn, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics; Emergency Medicine
-"Cross, Corinn, MD","4650 W SUNSET BLVD MSC 76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics; Emergency Medicine
-"Linares, Yendi N., MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (323) 669-2534 ,4.97miles,Pediatrics
-"Linares, Yendi N., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Calasanti, Piper Ann, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics - Newborn to 21
-"Roberts, Suzanne L., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Tanna, Priya, MD","4650 W SUNSET BLVD MSC 76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Tanna, Priya, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Miller, Jennifer C., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,General Practice; Pediatrics
-"Olson, Johanna Lynn, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Takata, Glenn, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-2110 ,4.97miles,Pediatrics
-"Yang, Unikora P., MD","4650 W SUNSET BLVD MSC 76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics - Newborn to 21
-"Sessions, Cindy L., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Schifsky, Kelly, DO","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics; Developmental Behavioral Pediatrics
-"Castillo, Patricia R., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,General Practice; Pediatrics
-"Ostrom, Kathleen M., MD","4650 SUNSET BLVD., MS# 76, LOS ANGELES, CA 90027", (323) 361-6177 ,4.97miles,Pediatrics
-"Geller, David H., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,"Endocrinology, Diabetes & Metabolism; Endocrinology; Pediatrics; Pediatric Endocrinology"
-"Nelson, Lara P., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-2262 ,4.97miles,Pediatrics
-"Zhou, Amy, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics - Newborn to 21
-"Yacoob, Sajjad A., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2110 ,4.97miles,Pediatrics
-"Espinoza, Juan C., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Smithson, Gary Mark, MD","4650 W SUNSET BLVD STE 76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Lotz, Natalia Veronique, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Arora, Gitanjli Dhingra, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (323) 361-2109 ,4.97miles,"Pediatrics; Pediatrics, Hospice and Palliative Care"
-"Arora, Gitanjli Dhingra, MD","4650 SUNSET BLVD., MS #76, LOS ANGELES, CA 90027", (323) 361-3854 ,4.97miles,"Pediatrics; Pediatrics, Hospice and Palliative Care"
-"Lee, Julianne Ohnmar, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics - Newborn to 21
-"Raam, Manu Shree, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-2113 ,4.97miles,Pediatrics
-"Masoom, Saamia I., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Gutierrez, Yvonne R., MD","4650 W SUNSET BLVD STE 76, LOS ANGELES, CA 90027", (323) 669-2110 ,4.97miles,Pediatrics - Newborn to 21
-"Borzutzky, Claudia R., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-2153 ,4.97miles,Adolescent Medicine - 12 to 21
-"Patel, Mona S., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-2122 ,4.97miles,Pediatrics
-"Van Speybroeck, Alexander L., MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Van Speybroeck, Alexander L., MD","4650 W SUNSET BLVD MSC 76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Lewis, Laura Anne, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Cidon, Michal J., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 660-2450 ,4.97miles,Pediatrics; Pediatric Rheumatology
-"Huynh, Thanh M., MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Hunter, Samantha, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (323) 669-2534 ,4.97miles,Pediatrics
-"Arora, Bhavana K., MD","4650 W SUNSET BLVD MSC 76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics - Newborn to 21
-"Danialifar, Tanaz Farzan, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Gastroenterology; Pediatrics - Newborn to 21
-"Zipkin, Jenny R., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Maslan, Anna Avital, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Yang, Jeffrey H., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2110 ,4.97miles,Pediatrics; Developmental Behavioral Pediatrics
-"Elhawary, Chaddy, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Internal Medicine; Pediatrics
-"Ross, Nicole E., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2534 ,4.97miles,Pediatrics
-"Jung, Christina, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Collins, Jolene E., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Go, Ruth, MD","4650 SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-6177 ,4.97miles,Pediatrics
-"Go, Ruth, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-6177 ,4.97miles,Pediatrics
-"Zipkin, Ronen I., MD","4650 W SUNSET BLVD STE 76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Villegas, Patricia F., DO","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics - Newborn to 21
-"Villegas, Patricia F., DO","4650 W SUNSET BLVD MSC 76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics - Newborn to 21
-"Ben-Isaac, Eyal, MD","4650 W SUNSET BLVD MSC 76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics - Newborn to 21
-"Bryant, Michael D., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-6177 ,4.97miles,Pediatrics
-"Ben-Isaac, Eyal, MD","4650 W SUNSET BLVD STE 76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics - Newborn to 21
-"Panesar, Amreeta, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Bennett, Ashley Gail, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2110 ,4.97miles,Pediatrics
-"Bennett, Ashley Gail, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-2113 ,4.97miles,Pediatrics
-"Balkian, Ara, MD","4650 SUNSET BLVD., MS #76, LOS ANGELES, CA 90027", (323) 361-6177 ,4.97miles,Pediatrics
-"Chawla, Faisal, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-2113 ,4.97miles,Pediatrics
-"Nielsen, Katherine, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Bhatia, Parul, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Zhou, Amy, MD","4650 W SUNSET BLVD MSC 76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics - Newborn to 21
-"Liu, Amy X., MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Wolke, Michael M., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-2109 ,4.97miles,Pediatrics
-"Lotz, Natalia Veronique, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Masoom, Saamia I., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Go, Ruth, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-6177 ,4.97miles,Pediatrics
-"Go, Ruth, MD","4650 SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-6177 ,4.97miles,Pediatrics
-"Jung, Christina, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Lee, Julianne Ohnmar, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics - Newborn to 21
-"Uniat, Jonathan J., MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Olson, Johanna Lynn, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Ben-Isaac, Eyal, MD","4650 W SUNSET BLVD STE 76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics - Newborn to 21
-"Ben-Isaac, Eyal, MD","4650 W SUNSET BLVD MSC 76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics - Newborn to 21
-"Bryant, Michael D., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 361-6177 ,4.97miles,Pediatrics
-"Espinoza, Juan C., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Liu, Amy X., MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Elhawary, Chaddy, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Internal Medicine; Pediatrics
-"Gutierrez, Yvonne R., MD","4650 W SUNSET BLVD STE 76, LOS ANGELES, CA 90027", (323) 669-2110 ,4.97miles,Pediatrics - Newborn to 21
-"Ross, Nicole E., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2534 ,4.97miles,Pediatrics
-"Lafortune, Marie-Michele C., MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Maslan, Anna Avital, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Zipkin, Jenny R., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Javier, Joyce, MD","4650 SUNSET BLVD., MS #76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Khouzam, Nadine, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Nephrology; Pediatrics; Pediatric Nephrology
-"Khouzam, Nadine, MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Nephrology; Pediatrics; Pediatric Nephrology
-"Luu, Cindy, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics; Emergency Medicine
-"Smith, Jasmine Raquel, MD","4650 SUNSET BLVD., LOS ANGELES, CA 90027", (323) 361-6177 ,4.97miles,Internal Medicine; Pediatrics
-"Austin, Juliana L., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Endocrinology; Pediatrics; Pediatric Endocrinology - Newborn to 21
-"Keefer, Matthew S., MD","4650 SUNSET BLVD. MS, SUITE 76, LOS ANGELES, CA 90027", (323) 669-2110 ,4.97miles,Pediatrics - Newborn to 21
-"Javier, Joyce, MD","4650 SUNSET BLVD., MS #76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics
-"Elamir, Sameh M., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics
-"Kraft, Colleen A., MD","4650 W SUNSET BLVD, LOS ANGELES, CA 90027", (888) 631-2452 ,4.97miles,Pediatrics - Newborn to 21
-"Vasko, Robert Charles, MD","4650 W SUNSET BLVD MSC 76, LOS ANGELES, CA 90027", (323) 669-2113 ,4.97miles,Pediatrics - Newborn to 21
-"Saed, Robert A., MD","335 N LA BREA AVE, LOS ANGELES, CA 90036", (323) 634-3850 ,5miles,Internal Medicine
-UCLA Entertainment Industry Medical Group,"335 N LA BREA AVE, LOS ANGELES, CA 90036", (323) 634-3850 ,5miles,Internal Medicine
-"Ribaudo, Janice, MD","335 N LA BREA AVE, LOS ANGELES, CA 90036", (323) 634-3850 ,5miles,Family Practice
-"Yun, Thomas Hyonuk, MD","335 N LA BREA AVE, LOS ANGELES, CA 90036", (323) 634-3850 ,5miles,Internal Medicine
-"Wang, Sandra Jen-Pei, MD","335 N LA BREA AVE, LOS ANGELES, CA 90036", (323) 634-3850 ,5miles,Internal Medicine; Geriatrics
+Name,Address,Phone,Distance,Specialties,Latitude,Longitude
+Planned Parenthood Los Angeles,"400 W 30TH ST, LOS ANGELES, CA 90007",(800) 576-5544,0.43miles,Family Practice; Pediatrics; Obstetrics & Gynecology; Urology,34.0236821,-118.2757762
+"Mitha, Kiran K., MD","403 W ADAMS BLVD, LOS ANGELES, CA 90007",(213) 741-8330,0.48miles,Pediatrics,34.0276982,-118.2735459
+"Duffaut, Calvin J., MD","403 W ADAMS BLVD, LOS ANGELES, CA 90007",(213) 741-8330,0.48miles,Family Practice; Sports Medicine,34.0276982,-118.2735459
+"Miller, Emily M., MD","403 W ADAMS BLVD, LOS ANGELES, CA 90007",(213) 741-8330,0.48miles,Family Practice,34.0276982,-118.2735459
+"Lee, James H., MD","403 W ADAMS BLVD, LOS ANGELES, CA 90007",(213) 741-8330,0.48miles,Pediatrics,34.0276982,-118.2735459
+"Kashani, Houman M., MD","2214 S HOOVER ST, LOS ANGELES, CA 90007",(213) 622-3100,0.62miles,Family Practice,34.0356029,-118.2837466
+"Akhavan, Afshin, DO","2409 S VERMONT AVE, LOS ANGELES, CA 90007",(323) 730-1663,0.7miles,Family Practice,34.0342548,-118.2917728
+"Hernandez Rodriguez, Julio Ivan Alexander, MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015",(213) 623-2225,0.85miles,Family Practice,34.0385321,-118.2823535
+"Kiefer, Noemi, MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015",(213) 623-2225,0.85miles,Internal Medicine,34.0385321,-118.2823535
+"Ramirez, Leslie May, MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015",(213) 961-5950,0.85miles,Family Practice,34.0385321,-118.2823535
+"Carlos, Jesus R., MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015",(213) 623-2225,0.85miles,Internal Medicine,34.0385321,-118.2823535
+"Yemofio, Francis Nii L., MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015",(213) 623-2225,0.85miles,Internal Medicine,34.0385321,-118.2823535
+"Basta, Onsy S., MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015",(213) 623-2225,0.85miles,Pediatrics,34.0385321,-118.2823535
+"Gahng, Sarah Minhee, MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015",(626) 745-2244,0.85miles,Family Practice,34.0385321,-118.2823535
+"Hsieh, Bertran, MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015",(213) 623-2225,0.85miles,Internal Medicine,34.0385321,-118.2823535
+"Mcunu, Brittany N., MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015",(213) 623-2225,0.85miles,Internal Medicine,34.0385321,-118.2823535
+"Miranda, Juan Angel Lemus, MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015",(213) 623-2225,0.85miles,Family Practice,34.0385321,-118.2823535
+"Lim, Cathrin H., MD","1120 W WASHINGTON BLVD, LOS ANGELES, CA 90015",(213) 623-2225,0.85miles,Family Practice,34.0385321,-118.2823535
+"Bahrami, Pouya, DO","1414 S GRAND AVE STE 100, LOS ANGELES, CA 90015",(213) 481-2200,1.21miles,Internal Medicine - 12 and older,34.0365455,-118.2654217
+"Muqtadeer, Javeria A., DO","1400 S GRAND AVE STE 801, LOS ANGELES, CA 90015",(213) 741-9227,1.24miles,Internal Medicine,34.0367882,-118.2651614
+"Herrmann, Matthew, MD","1400 S GRAND AVE STE 801, LOS ANGELES, CA 90015",(213) 741-9727,1.24miles,Internal Medicine - 12 and older,34.0367882,-118.2651614
+"Millner, Carl E., MD","1400 S GRAND AVE STE 801, LOS ANGELES, CA 90015",(213) 741-9727,1.24miles,Internal Medicine,34.0367882,-118.2651614
+"Songster, Giuliana, MD","1400 S GRAND AVE STE 805, LOS ANGELES, CA 90015",(213) 763-1500,1.24miles,Medical Genetics; Obstetrics & Gynecology - CA PCP,34.0367882,-118.2651614
+"Zareno, Teresita Alonzo, MD","1600 W PICO BLVD, LOS ANGELES, CA 90015",(213) 386-5252,1.31miles,Family Practice; Pediatrics,34.0444611,-118.2771716
+"Bendana, Raul Joaquin, MD","1619 1/2 W PICO BLVD, LOS ANGELES, CA 90015",(213) 487-0615,1.31miles,General Practice,34.0459479,-118.2794445
+"Akhavan, Afshin, DO","530 E WASHINGTON BLVD, LOS ANGELES, CA 90015",(213) 747-2626,1.34miles,Family Practice,34.0284494,-118.2596288
+"Lavi, Alfred, DO","2324 W PICO BLVD, LOS ANGELES, CA 90006",(213) 383-3600,1.46miles,Family Practice,34.0469572,-118.2872406
+"Yaghi, Mohamad J., MD","4301 S FIGUEROA ST STE F, LOS ANGELES, CA 90037",(323) 231-7700,1.48miles,Pediatrics,34.0048885,-118.2832211
+"Abdian, Loghman, MD","1107 S ALVARADO ST STE 102, LOS ANGELES, CA 90006",(213) 380-9999,1.6miles,General Practice - Newborn to 100 ; Family Practice,34.0499405,-118.281354
+"Arai, Peter Takayuki, MD","2600 W PICO BLVD STE 105, LOS ANGELES, CA 90006",(213) 388-2772,1.6miles,Family Practice - 18 and older,34.0470182,-118.2949244
+"Gill, Cadrin E., MD","231 W VERNON AVE STE 101, LOS ANGELES, CA 90037",(323) 231-5181,1.6miles,Family Practice,34.0040384,-118.2776489
+Optum-El Monte (Peds),"1025 W OLYMPIC BLVD, LOS ANGELES, CA 90015",(213) 623-2225,1.61miles,Pediatrics,34.0466296,-118.2666809
+"Chung, Dong Sun, MD","2528 W OLYMPIC BLVD STE 103, LOS ANGELES, CA 90006",(213) 386-5002,1.69miles,Internal Medicine,34.0521519,-118.2848491
+"Chavez, Edgar Alexander, MD","1005 E WASHINGTON BLVD STE A, LOS ANGELES, CA 90021",(323) 233-3100,1.71miles,Family Practice,34.0260683,-118.2529128
+"Yoon, Eun Joo, MD","2560 W OLYMPIC BLVD STE 101B, LOS ANGELES, CA 90006",(213) 480-1000,1.8miles,Internal Medicine,34.0521134,-118.2869236
+"Pourmoussa, Andrew, MD","705 W 9TH ST APT 1105, LOS ANGELES, CA 90015",(310) 893-0560,1.8miles,Internal Medicine,34.0462257,-118.2614992
+"An, Albert S., MD","2655 W OLYMPIC BLVD STE 207, LOS ANGELES, CA 90006",(213) 388-7887,1.84miles,Family Practice,34.0525898,-118.2899617
+"An, Lauri I., MD","2655 W OLYMPIC BLVD STE 207, LOS ANGELES, CA 90006",(213) 388-7887,1.84miles,Family Practice,34.0525898,-118.2899617
+"Jeong, Heesoo, MD","2675 W OLYMPIC BLVD STE 202, LOS ANGELES, CA 90006",(213) 387-1541,1.84miles,Internal Medicine,34.0509861,-118.2912742
+"Lee, Mi-Jeong, MD","2675 W OLYMPIC BLVD STE 103, LOS ANGELES, CA 90006",(213) 252-0036,1.84miles,Pediatrics - Newborn to 18,34.052631,-118.2906374
+"Han, Kyung M., MD","2681 W OLYMPIC BLVD STE 221, LOS ANGELES, CA 90006",(213) 387-7800,1.85miles,Internal Medicine,34.0525978,-118.2908443
+"Johnson, Veassa Gail, MD","4760 S FIGUEROA ST, LOS ANGELES, CA 90037",(323) 232-2601,1.87miles,Internal Medicine - 21 and older,33.9996505,-118.2823992
+"Savage, Arnold, MD","4760 S FIGUEROA ST, LOS ANGELES, CA 90037",(323) 232-2601,1.87miles,Internal Medicine - 21 and older ; Gastroenterology,33.9996505,-118.2823992
+"Torkan, Bruce, MD","820 S ALVARADO ST STE A, LOS ANGELES, CA 90057",(213) 384-0604,1.88miles,General Practice,34.0540974,-118.2781788
+"Kohanzadeh, Shahla, MD","803 S ALVARADO ST, LOS ANGELES, CA 90057",(213) 381-1117,1.89miles,General Practice,34.0548473,-118.2784368
+"Kim, Paul H., MD","2727 W OLYMPIC BLVD STE 307, LOS ANGELES, CA 90006",(213) 388-1010,1.89miles,Internal Medicine,34.0529374,-118.2931218
+"Kim, Doeyoung, MD","2727 W OLYMPIC BLVD STE 302, LOS ANGELES, CA 90006",(213) 674-7350,1.89miles,Family Practice,34.0529342,-118.293119
+"Sohn, Hyang Eun, MD","2727 W OLYMPIC BLVD STE 305, LOS ANGELES, CA 90006",(213) 739-8822,1.89miles,Internal Medicine - 16 to 99,34.0529374,-118.2931218
+"Cho, Ahra, MD","2727 W OLYMPIC BLVD STE 205, LOS ANGELES, CA 90006",(213) 529-4251,1.89miles,Internal Medicine,34.0528777,-118.2931278
+"Yun, Eun M., MD","819 S ALVARADO ST STE 101, LOS ANGELES, CA 90057",(213) 388-6000,1.93miles,Internal Medicine,34.0544286,-118.2784711
+"Byun, Sung-Nae, MD","2120 W 8TH ST STE 102, LOS ANGELES, CA 90057",(213) 382-2700,2miles,Internal Medicine - 16 and older,34.0551078,-118.2787264
+"Carleton-Nathan, Jennifer, MD","700 S FLOWER ST STE 2340, LOS ANGELES, CA 90017",(310) 500-2039,2.05miles,Family Practice,34.0482784,-118.2587519
+"Richina, Jonathan, MD","700 S FLOWER ST STE 2340, LOS ANGELES, CA 90017",(310) 500-2039,2.05miles,Family Practice,34.0482784,-118.2587519
+"Hwang, Eun K., MD","3000 W OLYMPIC BLVD STE 304, LOS ANGELES, CA 90006",(213) 380-1122,2.05miles,Pediatrics - Newborn to 21,34.0523386,-118.3003027
+"Kim, Joseph Sung-Ryul, MD","3000 W OLYMPIC BLVD STE 202, LOS ANGELES, CA 90006",(213) 380-1388,2.05miles,"Internal Medicine; Endocrinology, Diabetes & Metabolism",34.0523386,-118.3003027
+"Hong, Sung Jeen, MD","3000 W OLYMPIC BLVD STE 304, LOS ANGELES, CA 90006",(213) 380-1122,2.05miles,Pediatrics - Newborn to 21,34.0523386,-118.3003027
+"Oliai, Caspian, MD","750 W 7TH ST STE 2500, LOS ANGELES, CA 90017",(213) 988-8340,2.06miles,Internal Medicine; Hematology/Oncology,34.0477529,-118.2586667
+"Kozman, Daniel M., MD","700 W 7TH ST STE S270-D, LOS ANGELES, CA 90017",(213) 896-0010,2.07miles,Internal Medicine,34.0483786,-118.2588174
+"Soza, Jose S., MD","700 W 7TH ST STE S270-D, LOS ANGELES, CA 90017",(213) 988-8380,2.07miles,Family Practice,34.0483786,-118.2588174
+"Chee, Felicia Sumon, MD","700 W 7TH ST STE S270-D, LOS ANGELES, CA 90017",(213) 988-8380,2.07miles,Internal Medicine,34.0483786,-118.2588174
+"Murray, Katina R., MD","700 W 7TH ST STE S270-D, LOS ANGELES, CA 90017",(213) 988-8380,2.07miles,Family Practice,34.0483786,-118.2588174
+"Cho, Jae Hyung, MD","3030 W OLYMPIC BLVD STE 206, LOS ANGELES, CA 90006",(213) 322-2666,2.08miles,Internal Medicine,34.0524123,-118.3014287
+"Chai, Alexander Sin Tat, MD","1245 WILSHIRE BLVD STE 914, LOS ANGELES, CA 90017",(213) 484-8474,2.1miles,Internal Medicine,34.0540733,-118.2659361
+"ProHealth Partners, A Medical Group, Inc.","1245 WILSHIRE BLVD STE 511, LOS ANGELES, CA 90017",(213) 977-1246,2.1miles,Family Practice,34.0542121,-118.2658386
+"Nakashima, George, MD","1245 WILSHIRE BLVD STE 635, LOS ANGELES, CA 90017",(213) 617-7073,2.1miles,Pediatrics,34.0540938,-118.2661458
+"Richardson-Te, Carol A., MD","1245 WILSHIRE BLVD STE 630, LOS ANGELES, CA 90017",(213) 977-0511,2.1miles,Internal Medicine - 18 and older,34.0538411,-118.2659098
+"Te, Francis C., MD","1245 WILSHIRE BLVD STE 630, LOS ANGELES, CA 90017",(213) 977-0511,2.1miles,Internal Medicine - 16 and older,34.0538411,-118.2659098
+"Davies, Joanna Marie Szyszlo, MD","1245 WILSHIRE BLVD STE 903, LOS ANGELES, CA 90017",(213) 977-1144,2.1miles,Internal Medicine; Rheumatology,34.0541675,-118.2659125
+"ProHealth Partners, A Medical Group, Inc.","1245 WILSHIRE BLVD STE 511, LOS ANGELES, CA 90017",(213) 977-1246,2.1miles,Family Practice,34.0542121,-118.2658386
+"Inouye, Katherine K., MD","1245 WILSHIRE BLVD STE 635, LOS ANGELES, CA 90017",(213) 617-7073,2.1miles,Pediatrics,34.0540938,-118.2661458
+"Willson, Stuart L., MD","1245 WILSHIRE BLVD STE 903, LOS ANGELES, CA 90017",(213) 977-1144,2.1miles,Internal Medicine,34.0541675,-118.2659125
+"Hahn, James C.S., MD","1245 WILSHIRE BLVD STE 790, LOS ANGELES, CA 90017",(323) 735-1111,2.1miles,Internal Medicine,34.0542121,-118.2658386
+"Kumar, Nupur, DO","1245 WILSHIRE BLVD STE 611, LOS ANGELES, CA 90017",(213) 977-0187,2.1miles,Family Practice,34.0538411,-118.2659098
+"Chai, Alexander Sin Tat, MD","1245 WILSHIRE BLVD STE 914, LOS ANGELES, CA 90017",(213) 484-8474,2.1miles,Internal Medicine,34.0540733,-118.2659361
+"Nakashima, George, MD","1245 WILSHIRE BLVD STE 635, LOS ANGELES, CA 90017",(213) 617-7073,2.1miles,Pediatrics,34.0540938,-118.2661458
+"Chong, Soo Hun, MD","1245 WILSHIRE BLVD STE 510, LOS ANGELES, CA 90017",(213) 481-0651,2.1miles,Internal Medicine,34.0540909,-118.2659333
+"Roe, James T., MD","1245 WILSHIRE BLVD STE 514, LOS ANGELES, CA 90017",(213) 482-5141,2.1miles,Internal Medicine; Nephrology - 18 and older,34.0540909,-118.2659333
+"Huang, Cindy, MD","1245 WILSHIRE BLVD STE 903, LOS ANGELES, CA 90017",(213) 977-1144,2.1miles,Internal Medicine; Endocrinology,34.0541675,-118.2659125
+"Bhandari, Anil Kumar, MD","1245 WILSHIRE BLVD STE 703, LOS ANGELES, CA 90017",(213) 977-0419,2.1miles,Internal Medicine; Cardiac Electrophysiology; Cardiovascular Disease,34.0541545,-118.2658859
+"Kanegae, Thomas Henry, MD","1245 WILSHIRE BLVD STE 616, LOS ANGELES, CA 90017",(213) 977-1030,2.1miles,Internal Medicine; Cardiovascular Disease,34.0541684,-118.265891
+"Beesley, Ellis N., Jr, MD","1127 WILSHIRE BLVD STE 707, LOS ANGELES, CA 90017",(213) 482-4830,2.1miles,Pediatrics,34.0535023,-118.2642196
+"Guice, Michael James, MD","1127 WILSHIRE BLVD STE 1509, LOS ANGELES, CA 90017",(213) 482-8600,2.1miles,General Practice,34.0535023,-118.2642196
+"Bland, Stephen L., MD","1127 WILSHIRE BLVD STE 1010, LOS ANGELES, CA 90017",(213) 977-0208,2.1miles,Internal Medicine,34.0531932,-118.2638542
+"Kim, Karen, MD","1127 WILSHIRE BLVD STE 403, LOS ANGELES, CA 90017",(213) 250-9988,2.1miles,Internal Medicine - 18 and older,34.0530706,-118.264043
+"Chow, Thick G., MD","817 S VERMONT AVE, LOS ANGELES, CA 90005",(213) 385-0029,2.12miles,Family Practice,34.0571057,-118.2918265
+"Lucero, Peter Agapay, MD","2208 W 7TH ST, LOS ANGELES, CA 90057",(213) 384-3434,2.15miles,General Practice; Family Practice,34.0568412,-118.2787451
+"Llado, Carmencita J., MD","2208 W 7TH ST, LOS ANGELES, CA 90057",(213) 384-3434,2.15miles,Internal Medicine - 18 and older,34.0568412,-118.2787451
+Los Angeles Clinica Medica General,"2208 W 7TH ST, LOS ANGELES, CA 90057",(213) 384-3434,2.15miles,General Practice,34.0568412,-118.2787451
+"Dijamco, Ethel S., MD","2208 W 7TH ST, LOS ANGELES, CA 90057",(213) 384-3434,2.15miles,General Practice,34.0568412,-118.2787451
+"Kohan, Mario A., MD","2208 W 7TH ST, LOS ANGELES, CA 90057",(213) 384-3434,2.15miles,General Practice,34.0568412,-118.2787451
+"Lawrence, Patrick B., MD","1061 E VERNON AVE STE F, LOS ANGELES, CA 90011",(323) 233-9686,2.15miles,General Practice - 16 and older ; Family Practice; Obstetrics & Gynecology,34.0041171,-118.2569
+"Herrera, Gaston, MD","1061 E VERNON AVE STE F, LOS ANGELES, CA 90011",(855) 960-5595,2.15miles,"General Practice; Family Practice; Pathology, Anatomic",34.0041171,-118.2569
+"Peace, DeVaughn Kenn, MD","4326 S WESTERN AVE, LOS ANGELES, CA 90062",(323) 299-9914,2.15miles,Pediatrics,34.0042617,-118.3086592
+"Kang, Hun Ku, MD","2900 W 8TH ST, LOS ANGELES, CA 90005",(213) 382-7022,2.2miles,Family Practice,34.0574998,-118.2892502
+"Espinoza, Maria A., MD","2151 W 6TH ST FL 2ND, LOS ANGELES, CA 90057",(213) 483-2222,2.34miles,Family Practice,34.060345,-118.275411
+"Rostami, Nejat, MD","2972 WILSHIRE BLVD, LOS ANGELES, CA 90010",(213) 484-0000,2.44miles,General Practice,34.0615269,-118.2863199
+"Govindarajan, Gopal, MD","1640 W 3RD ST, LOS ANGELES, CA 90017",(213) 483-1251,2.51miles,Internal Medicine; Cardiovascular Disease,34.0602775,-118.2670455
+"Ngo, Hy Phung, MD","5801 S FIGUEROA ST, LOS ANGELES, CA 90003",(323) 971-3883,2.58miles,General Practice; Internal Medicine - 18 and older,33.9895578,-118.2830531
+"Supan, Jocelyn, DO","2100 W 3RD ST STE 200, LOS ANGELES, CA 90057",(213) 413-8742,2.58miles,Pediatrics,34.062331,-118.2735837
+"Linares, Yendi N., MD","2100 W 3RD ST STE 200, LOS ANGELES, CA 90057",(213) 413-8742,2.58miles,Pediatrics,34.062331,-118.2735837
+"Zhou, Ann, DO","2100 W 3RD ST STE 400, LOS ANGELES, CA 90057",(888) 499-9303,2.58miles,Family Practice,34.062331,-118.2735837
+"Gill, Matthew, DO","2100 W 3RD ST STE 400, LOS ANGELES, CA 90057",(888) 499-9303,2.58miles,Family Practice,34.062331,-118.2735837
+"Mirazic, Brian, MD","3518 W 8TH ST, LOS ANGELES, CA 90005",(213) 384-9949,2.58miles,General Practice,34.0572116,-118.3075051
+"Cha, Min Young, MD","520 S VIRGIL AVE STE 507, LOS ANGELES, CA 90020",(213) 480-7770,2.64miles,Internal Medicine - 12 and older,34.0644416,-118.2866509
+"Oh, Pilsoo, MD","520 S VIRGIL AVE STE 202, LOS ANGELES, CA 90020",(213) 368-0360,2.64miles,Internal Medicine; Gastroenterology - 18 and older,34.0644637,-118.2866881
+"Lee, Sonwoo, MD","505 S VIRGIL AVE STE 208, LOS ANGELES, CA 90020",(213) 739-0007,2.67miles,Internal Medicine; Rheumatology,34.0648897,-118.2874946
+"Mercader, Rolando S., MD","201 ALVARADO STREET, SUITE 600, LOS ANGELES, CA 90057",(213) 484-6694,2.67miles,Pediatrics - Newborn to 18,34.064301,-118.272263
+"Ngan, George, MD","201 S ALVARADO ST STE 717, LOS ANGELES, CA 90057",(213) 989-6959,2.67miles,Internal Medicine,34.0644278,-118.2720764
+"In, George C., MD","500 S VIRGIL AVE STE 501, LOS ANGELES, CA 90020",(323) 735-7700,2.67miles,Family Practice,34.0649948,-118.2867154
+"Kim, Janet S., MD","500 S VIRGIL AVE STE 204, LOS ANGELES, CA 90020",(213) 388-7828,2.67miles,Pediatrics - Newborn to 18,34.0649338,-118.2866246
+"Aguilera, Manuel C., MD","2534 W 3RD ST, LOS ANGELES, CA 90057",(213) 382-1175,2.7miles,Internal Medicine - 15 and older,34.0652121,-118.2776718
+"Shigematsu, Ronald, MD","420 E 3RD ST STE 705, LOS ANGELES, CA 90013",(213) 628-1020,2.75miles,Family Practice,34.0467915,-118.2420295
+"Iinuma, Jay K., MD","420 E 3RD ST STE 904, LOS ANGELES, CA 90013",(213) 947-3171,2.75miles,Family Practice,34.0469021,-118.2420868
+"Kawaratani, Sumi K., MD","420 E 3RD ST STE 705, LOS ANGELES, CA 90013",(213) 628-1020,2.75miles,Family Practice,34.0467915,-118.2420295
+"Park, Wilson H., MD","3663 W 6TH ST STE 100, LOS ANGELES, CA 90020",(213) 383-4000,2.78miles,Internal Medicine,34.063828,-118.3020382
+"Song, Mark Myungjae, MD","3663 W 6TH ST STE 307, LOS ANGELES, CA 90020",(213) 736-1884,2.78miles,Internal Medicine; Nephrology,34.063828,-118.3020382
+"Paek, Woo Hyun, MD","3663 W 6TH ST STE 301, LOS ANGELES, CA 90020",(213) 291-3228,2.78miles,Pediatrics - Newborn to 21,34.063828,-118.3020382
+"Sohn, David Dai Han, MD","3663 W 6TH ST STE 106, LOS ANGELES, CA 90020",(213) 381-7272,2.78miles,Internal Medicine,34.063828,-118.3020382
+"Kim, Hei Pak, MD","3663 W 6TH ST STE 203, LOS ANGELES, CA 90020",(213) 480-1251,2.78miles,Internal Medicine,34.0637994,-118.3019594
+"Shin, Eun I., MD","3663 W 6TH ST STE 305, LOS ANGELES, CA 90020",(213) 427-7020,2.78miles,Obstetrics & Gynecology; Obstetrics & Gynecology - CA PCP,34.063828,-118.3020382
+"Kim, Seung H., MD","3663 W 6TH ST STE 206, LOS ANGELES, CA 90020",(213) 385-5500,2.78miles,Internal Medicine,34.0636821,-118.30218
+"Chang, Bong S., MD","3671 W 6TH ST STE A, LOS ANGELES, CA 90020",(213) 383-8496,2.79miles,Pediatrics,34.0637282,-118.3025177
+"Pakour, Meada, MD","3671 W 6TH ST STE B, LOS ANGELES, CA 90020",(213) 375-7511,2.79miles,Pediatrics,34.0637282,-118.3025177
+"Wyatt, Wendell D., MD","3731 WILSHIRE BLVD STE 850, LOS ANGELES, CA 90010",(323) 913-4200,2.8miles,Internal Medicine,34.062319,-118.307216
+"Suyat, George U., MD","2105 BEVERLY BLVD STE 131, LOS ANGELES, CA 90057",(213) 413-8836,2.87miles,Internal Medicine,34.067247,-118.2703818
+"Zapata, Reynaldo C., MD","2105 BEVERLY BLVD STE 211, LOS ANGELES, CA 90057",(213) 413-6207,2.87miles,Internal Medicine - 18 and older,34.067247,-118.2703818
+"Lopez, Horacio G., MD","2105 BEVERLY BLVD STE 129, LOS ANGELES, CA 90057",(213) 353-3600,2.87miles,Pediatrics; Pediatric Allergy & Immunology; Allergy & Immunology,34.067247,-118.2703818
+"Zapata, Reynaldo C., MD","2105 BEVERLY BLVD STE 211, LOS ANGELES, CA 90057",(213) 413-6207,2.87miles,Internal Medicine - 18 and older,34.067247,-118.2703818
+"Sohal, Mohinder Singh, MD","2105 BEVERLY BLVD STE 227, LOS ANGELES, CA 90057",(213) 484-8186,2.87miles,Internal Medicine; Cardiovascular Disease,34.067247,-118.2703818
+"Rose, Daniel M., MD","2105 BEVERLY BLVD STE 231, LOS ANGELES, CA 90057",(818) 997-7117,2.87miles,Family Practice,34.067247,-118.2703818
+"Quesada, Abel R., MD","4221 S ALAMEDA ST, VERNON, CA 90058",(323) 676-5111,2.89miles,General Practice,34.0046061,-118.2393883
+"Badday, Jalal M., MD","431 S HEWITT ST STE B, LOS ANGELES, CA 90013",(213) 537-0610,2.94miles,Internal Medicine,34.0424812,-118.2355304
+"Mungcal, Renato V., MD","133 S VERMONT AVE, LOS ANGELES, CA 90004",(213) 480-0748,3.14miles,Family Practice,34.0717479,-118.291862
+"Huh, John (Yongchul) Y., MD","356 S WESTERN AVE STE 200, LOS ANGELES, CA 90020",(213) 384-1717,3.2miles,Internal Medicine,34.0676569,-118.3089735
+"Chickey, Anna L., MD","2536 W TEMPLE ST, LOS ANGELES, CA 90026",(213) 385-7888,3.2miles,Internal Medicine,34.0721296,-118.274678
+"Zandi Esfahani, Mahin, MD","4300 CRENSHAW BLVD, LOS ANGELES, CA 90008",(323) 298-1668,3.24miles,General Practice,34.0053594,-118.3334801
+"Modi, Meera J., MD","1100 W SUNSET BLVD, LOS ANGELES, CA 90012",(213) 250-3716,3.35miles,General Practice; Internal Medicine - 12 and older,34.065472,-118.2496015
+"Ton, Hoang Tich, MD","642 N BROADWAY STE 2, LOS ANGELES, CA 90012",(213) 620-1720,3.37miles,General Practice,34.0597521,-118.2390712
+"Pan, Zhao-Yang, MD","652 N BROADWAY STE A, LOS ANGELES, CA 90012",(213) 617-7673,3.38miles,Family Practice,34.060008,-118.2391996
+"Opoku, Edward N., DO","2520 WEST STREET, SUITE 106, LOS ANGELES, CA 90016",(213) 389-2526,3.39miles,General Practice,34.0576595,-118.3075682
+"Wong, Kin, DO","709 N HILL ST STE 8, LOS ANGELES, CA 90012",(213) 628-3300,3.41miles,Internal Medicine - 13 and older,34.0610891,-118.2411544
+"Casabar, Ruben, MD","711 N ALVARADO ST STE 101, LOS ANGELES, CA 90026",(213) 484-8786,3.42miles,General Practice; Pediatrics - Newborn to 21,34.074322,-118.265813
+"Paja, Isaias, Jr, MD","711 N ALVARADO ST STE 101, LOS ANGELES, CA 90026",(213) 484-8786,3.42miles,Family Practice,34.074322,-118.265813
+"Huang, Jimmy Chi-Ning, DO","3756 SANTA ROSALIA DR STE 422, LOS ANGELES, CA 90008",(323) 292-0211,3.44miles,Family Practice,34.0088198,-118.3391612
+"Negussie, Suzanna S., MD","3756 SANTA ROSALIA DR STE 320, LOS ANGELES, CA 90008",(323) 292-5600,3.44miles,Pediatrics,34.0088198,-118.3391612
+"McGarrity, Sharon, DO","3750 SANTA ROSALIA DR STE 101, LOS ANGELES, CA 90008",(323) 294-1160,3.44miles,Family Practice,34.007849,-118.3387348
+"McGarrity, Sharon, DO","3750 SANTA ROSALIA DR STE 101, LOS ANGELES, CA 90008",(323) 294-1160,3.44miles,Family Practice,34.007849,-118.3387348
+"Aguilera, Gemelia H., MD","3761 BEVERLY BLVD, LOS ANGELES, CA 90004",(323) 663-2100,3.47miles,Internal Medicine,34.0766522,-118.2910201
+"Sampson, Michael S., MD","3919 BEVERLY BLVD STE 203, LOS ANGELES, CA 90004",(323) 953-2956,3.5miles,Internal Medicine,34.0765122,-118.2941828
+"Boun, Singh Ahn, MD","809 N HILL ST STE K, LOS ANGELES, CA 90012",(213) 346-9982,3.54miles,Family Practice - 19 to 100,34.0631519,-118.2396422
+"Ma, George W., MD","711 W COLLEGE ST STE 210, LOS ANGELES, CA 90012",(213) 621-2998,3.57miles,Internal Medicine - 12 and older,34.065795,-118.241238
+"Velez, Cesar A., MD","711 W COLLEGE ST STE 328, LOS ANGELES, CA 90012",(213) 482-8313,3.57miles,General Practice,34.065795,-118.241238
+"Guzman, Julio V., MD","4214 WEST BEVERLY BLVD., SUITE 212, LOS ANGELES, CA 90004",(213) 385-9912,3.59miles,Family Practice,34.0759929,-118.3006577
+"Liang, Yong Yao, MD","888 N HILL ST, LOS ANGELES, CA 90012",(213) 687-0863,3.59miles,Family Practice,34.0641961,-118.2386328
+"Covington, Elizabeth J., MD","3701 STREETOCKER STREET, SUITE 101, LOS ANGELES, CA 90008",(323) 290-2107,3.6miles,Family Practice,34.0070427,-118.3378663
+"Awariefe, Henry Okpako, MD","1039 W FLORENCE AVE, LOS ANGELES, CA 90044",(323) 776-1500,3.64miles,Family Practice,33.9748124,-118.2933608
+"Wong, Shi-Yin, MD","407 W COLLEGE ST, LOS ANGELES, CA 90012",(213) 680-3990,3.64miles,General Practice; Family Practice,34.064248,-118.23767
+"Chan, Kimberly, MD","407 W COLLEGE ST, LOS ANGELES, CA 90012",(213) 680-3990,3.64miles,Internal Medicine,34.064248,-118.23767
+"Zhang, Yan P., MD","1711 W TEMPLE ST STE 1056, LOS ANGELES, CA 90026",(626) 442-2929,3.66miles,General Practice,34.0695317,-118.2634888
+"Joaquin, Arnel M., MD","1711 W TEMPLE ST STE 5606, LOS ANGELES, CA 90026",(213) 353-6000,3.66miles,Internal Medicine,34.0696967,-118.2635015
+"Kiley, Antuan, MD","1711 W TEMPLE ST STE 5657, LOS ANGELES, CA 90026",(818) 631-9722,3.66miles,Internal Medicine; Obstetrics & Gynecology,34.0695317,-118.2634888
+"De La Llana, Jose A., MD","1711 W TEMPLE ST, LOS ANGELES, CA 90026",(213) 989-6100,3.66miles,General Practice,34.0695317,-118.2634888
+"Ramadan, Sera N., DO","1711 W TEMPLE ST STE 4691, LOS ANGELES, CA 90026",(213) 238-5887,3.66miles,Internal Medicine,34.0695317,-118.2634888
+"Natividad, Alberto V., MD","1711 W TEMPLE ST STE 3200, LOS ANGELES, CA 90026",(213) 989-1951,3.66miles,General Practice,34.0695317,-118.2634888
+"Pullen, Jo Ann C., MD","1711 W TEMPLE ST FL 7TH, LOS ANGELES, CA 90026",(213) 207-5050,3.66miles,Internal Medicine; Geriatrics,34.0695317,-118.2634888
+"Chu, Paul H.J., MD","945 N HILL ST, LOS ANGELES, CA 90012",(213) 617-0777,3.68miles,Internal Medicine,34.065761,-118.238272
+"Young, Justin Coleman, MD","2110 W SUNSET BLVD STE M, LOS ANGELES, CA 90026",(833) 873-2852,3.69miles,Family Practice,34.077189,-118.2641266
+"Liu, Qiji, MD","1900 E SLAUSON AVE, HUNTINGTON PARK, CA 90255",(888) 499-9303,3.73miles,Family Practice,33.9887475,-118.2370207
+"Silao, Michael A., MD","1931 W SUNSET BLVD, LOS ANGELES, CA 90026",(213) 484-1212,3.74miles,Internal Medicine,34.0782191,-118.262027
+"Lalezari, Bahman, MD","4944 W PICO BLVD, LOS ANGELES, CA 90019",(323) 939-5346,3.8miles,Internal Medicine - 18 and older,34.0475194,-118.3443
+"Hwee, Thomas Ni, MD","993 N BROADWAY STE A, LOS ANGELES, CA 90012",(213) 625-7995,3.83miles,Family Practice,34.0664674,-118.2363756
+"Li, Xia, MD","1304 ECHO PARK AVE, LOS ANGELES, CA 90026",(213) 977-1286,3.85miles,Internal Medicine,34.0769962,-118.2570633
+"Sghiatti, Vincent R., MD","6316 HOLMES AVE, LOS ANGELES, CA 90001",(323) 583-5887,3.88miles,General Practice; Family Practice,33.9826147,-118.2406567
+"Geiseler, Alexander Jan, MD","2920 SUNSET BLVD., LOS ANGELES, CA 90026",(212) 226-7666,3.95miles,Pediatrics - Newborn to 21,34.0830677,-118.2738633
+"Kao, Christine, DO","2920 SUNSET BLVD., LOS ANGELES, CA 90026",(323) 825-9223,3.95miles,Pediatrics,34.0830677,-118.2738633
+"Thomas, Kevin C., MD","7301 S WESTERN AVE, LOS ANGELES, CA 90047",(323) 778-2131,3.98miles,General Practice,33.9735013,-118.3092462
+"Chen, Lulu L., MD","1318 E FLORENCE AVE, LOS ANGELES, CA 90001",(323) 584-9525,4.01miles,Family Practice,33.9746226,-118.2512967
+"Pedroza, Victor Manuel, MD","2705 WHITTIER BLVD, LOS ANGELES, CA 90023",(323) 263-3861,4.1miles,General Practice; Internal Medicine,34.0328292,-118.2117234
+"Banta, Warren P., MD","1700 E CESAR E CHAVEZ AVE STE 3500, LOS ANGELES, CA 90033",(323) 264-0430,4.1miles,Internal Medicine; Hematology/Oncology - 18 and older,34.0507631,-118.2175167
+"Loza, Julio A., DO","1700 EAST CESAR CHAVEZ AVENUE, SUITE 3600, LOS ANGELES, CA 90033",(323) 262-4176,4.1miles,Internal Medicine,34.0508872,-118.2175287
+Hematology Oncology Specialists,"1700 E CESAR E CHAVEZ AVE STE 3500, LOS ANGELES, CA 90033",(323) 264-0430,4.1miles,Internal Medicine; Hematology/Oncology,34.0507631,-118.2175167
+"Rivera, Martha E., MD","1700 E CESAR E CHAVEZ AVE STE 3450, LOS ANGELES, CA 90033",(323) 261-0259,4.1miles,Infectious Disease; Pediatrics - Newborn to 21,34.0507417,-118.2174264
+"Lau, Susie H., MD","1700 E CESAR E CHAVEZ AVE STE 3600, LOS ANGELES, CA 90033",(323) 252-6946,4.1miles,Internal Medicine,34.0508872,-118.2175287
+White Memorial Med Center-Boyle Heights Med Clinic,"1700 CESAR E. CHAVEZ AVENUE, SUITE L275, LOS ANGELES, CA 90033",(323) 268-5000,4.1miles,Internal Medicine; Radiation Oncology; Palliative Medicine,34.0508872,-118.2175287
+"Nemri, Talin, MD","1700 E CESAR E CHAVEZ AVE STE 3000, LOS ANGELES, CA 90033",(323) 435-0191,4.1miles,Internal Medicine - 18 and older,34.0507524,-118.2174716
+"Rivera, Martha E., MD","1700 E CESAR E CHAVEZ AVE STE 3450, LOS ANGELES, CA 90033",(323) 261-0259,4.1miles,Infectious Disease; Pediatrics - Newborn to 21,34.0507417,-118.2174264
+White Memorial Med Center-Boyle Heights Med Clinic,"1700 EAST CESAR CHAVEZ AVENUE, SUITE 3300, LOS ANGELES, CA 90033",(323) 307-8900,4.1miles,Internal Medicine; Radiation Oncology; Palliative Medicine,34.0508145,-118.2174775
+"Burke, Lennis Patrick, MD","1700 E CESAR E CHAVEZ AVE STE 1300, LOS ANGELES, CA 90033",(323) 526-2483,4.1miles,Cardiovascular Disease; Cardiology; Pediatrics - Newborn to 21 ; Pediatric Cardiology,34.0507417,-118.2174264
+"Ho, John, MD","1700 E CESAR E CHAVEZ AVE STE 1300, LOS ANGELES, CA 90033",(323) 526-2483,4.1miles,Pediatrics - Newborn to 21 ; Pediatric Cardiology,34.0507417,-118.2174264
+"Abboy, Ramadas, MD","1700 E CESAR E CHAVEZ AVE STE 3100, LOS ANGELES, CA 90033",(323) 263-9779,4.1miles,Internal Medicine; Pulmonary Disease,34.0507417,-118.2174264
+"Ghaly, Azmy Fouad, MD","1700 E CESAR E CHAVEZ AVE STE 3900, LOS ANGELES, CA 90033",(323) 307-0800,4.1miles,Internal Medicine,34.0508145,-118.2174775
+"Abdou, Zahid Jean, MD","1701 E CESAR E CHAVEZ AVE STE 100, LOS ANGELES, CA 90033",(323) 987-1362,4.1miles,Internal Medicine,34.0513188,-118.2171673
+"Abdou, Zahid Jean, MD","1701 E CESAR E CHAVEZ AVE STE 510, LOS ANGELES, CA 90033",(323) 987-1362,4.1miles,Internal Medicine,34.0513309,-118.2172456
+"Agrawal, Nisha Jain, MD","1701 CESAR E CHAVEZ AVENUE, SUITE 402, LOS ANGELES, CA 90033",(323) 317-9200,4.1miles,Family Practice,34.0513315,-118.2171184
+"Munoz Martin Sanchez, Silvia, MD","1701 E CESAR E CHAVEZ AVE STE 100, LOS ANGELES, CA 90033",(323) 987-1362,4.1miles,Internal Medicine,34.0513188,-118.2171673
+"Chen, Shaw Shen, MD","1701 E CESAR E CHAVEZ AVE STE 120, LOS ANGELES, CA 90033",(323) 987-1362,4.1miles,Internal Medicine,34.0513785,-118.2171632
+"Chen, Shaw Shen, MD","1701 E CESAR E CHAVEZ AVE STE 100, LOS ANGELES, CA 90033",(323) 987-1362,4.1miles,Internal Medicine,34.0513188,-118.2171673
+"Ku-Borden, Teresa Ting, MD","1701 E CESAR E CHAVEZ AVE STE 230, LOS ANGELES, CA 90033",(323) 226-1100,4.1miles,Family Practice,34.0513314,-118.2171184
+"Agrawal, Nisha Jain, MD","1701 CESAR E CHAVEZ AVENUE, SUITE 230, LOS ANGELES, CA 90033",(323) 226-1100,4.1miles,Family Practice,34.0513314,-118.2171184
+"Munoz Martin Sanchez, Silvia, MD","1701 E CESAR E CHAVEZ AVE STE 100, LOS ANGELES, CA 90033",(323) 987-1362,4.1miles,Internal Medicine,34.0513188,-118.2171673
+"Lau, Alan Chun Kau, MD","1701 E CESAR E CHAVEZ AVE STE 120, LOS ANGELES, CA 90033",(323) 987-1362,4.1miles,Internal Medicine - 12 and older,34.0513785,-118.2171632
+"To, Dong Do, MD","1701 E CESAR E CHAVEZ AVE STE 120, LOS ANGELES, CA 90033",(323) 987-1362,4.1miles,Internal Medicine,34.0513785,-118.2171632
+"Castro, Edward, MD","1701 E CESAR E CHAVEZ AVE STE 402, LOS ANGELES, CA 90033",(310) 538-5222,4.1miles,Family Practice,34.0513315,-118.2171184
+"Castro, Edward, MD","1701 E CESAR E CHAVEZ AVE STE 230, LOS ANGELES, CA 90033",(323) 226-1100,4.1miles,Family Practice,34.0513314,-118.2171184
+"Rajyaguru, Parth Sharad, MD","1701 E CESAR E CHAVEZ AVE STE 402, LOS ANGELES, CA 90033",(323) 317-9200,4.1miles,Internal Medicine,34.0513315,-118.2171184
+"Rajyaguru, Parth Sharad, MD","1701 E CESAR E CHAVEZ AVE STE 230, LOS ANGELES, CA 90033",(323) 226-1100,4.1miles,Internal Medicine,34.0513314,-118.2171184
+"Bueno, Mauricio Eduardo, MD","1701 E CESAR E CHAVEZ AVE STE 230, LOS ANGELES, CA 90033",(323) 226-1100,4.1miles,Family Practice,34.0513314,-118.2171184
+"Bueno, Mauricio Eduardo, MD","1701 E CESAR E CHAVEZ AVE STE 402, LOS ANGELES, CA 90033",(323) 317-9200,4.1miles,Family Practice,34.0513315,-118.2171184
+"Villegas, Sergio B., MD","1701 E CESAR E CHAVEZ AVE STE 402, LOS ANGELES, CA 90033",(323) 317-9200,4.1miles,Family Practice,34.0513315,-118.2171184
+"Kamdar, Anjana Vikram, MD","1701 E CESAR E CHAVEZ AVE STE 536, LOS ANGELES, CA 90033",(323) 264-4300,4.1miles,Internal Medicine - 12 and older ; Nephrology,34.0513785,-118.2171632
+"To, Dong Do, MD","1701 E CESAR E CHAVEZ AVE STE 100, LOS ANGELES, CA 90033",(323) 987-1362,4.1miles,Internal Medicine,34.0513188,-118.2171673
+"Chan, Andrew Steven, MD","1701 E CESAR E CHAVEZ AVE STE 402, LOS ANGELES, CA 90033",(323) 226-1100,4.1miles,Internal Medicine - 12 and older,34.0513315,-118.2171184
+"Lopez, Maria Cynthia Sinio, MD","1701 E CESAR E CHAVEZ AVE STE 402, LOS ANGELES, CA 90033",(323) 317-9200,4.1miles,Family Practice,34.0513315,-118.2171184
+"Agrawal, Nisha Jain, MD","1701 CESAR E CHAVEZ AVENUE, SUITE 402, LOS ANGELES, CA 90033",(323) 317-9200,4.1miles,Family Practice,34.0513315,-118.2171184
+"Hiromura, Christopher Matthew, MD","1701 CESAR CHAVEZ AVENUE, SUITE 402, LOS ANGELES, CA 90033",(323) 317-9200,4.1miles,Family Practice,34.0513315,-118.2171184
+"Hiromura, Christopher Matthew, MD","1701 E CESAR E CHAVEZ AVE STE 230, LOS ANGELES, CA 90033",(323) 317-9200,4.1miles,Family Practice,34.0513314,-118.2171184
+"Silva, Vasthi Vivian, MD","1701 E CESAR E CHAVEZ AVE STE 100, LOS ANGELES, CA 90033",(323) 987-1362,4.1miles,Internal Medicine,34.0513188,-118.2171673
+"Meas, Morodak, MD","1701 E CESAR E CHAVEZ AVE STE 230, LOS ANGELES, CA 90033",(323) 226-1100,4.1miles,Family Practice,34.0513314,-118.2171184
+"Meas, Morodak, MD","1701 E CESAR E CHAVEZ AVE STE 402, LOS ANGELES, CA 90033",(323) 317-9200,4.1miles,Family Practice,34.0513315,-118.2171184
+"Lau, Alan Chun Kau, MD","1701 E CESAR E CHAVEZ AVE STE 120, LOS ANGELES, CA 90033",(323) 987-1362,4.1miles,Internal Medicine - 12 and older,34.0513785,-118.2171632
+"Arevalo, Rodolfo Antonio, MD","1701 E CESAR E CHAVEZ AVE STE 354, LOS ANGELES, CA 90033",(323) 221-5366,4.1miles,Family Practice,34.0513785,-118.2171632
+"Vizel, Mikhail, MD","1720 CESAR E. CHAVEZ AVENUE, SUITE 1512, LOS ANGELES, CA 90033",(323) 265-5085,4.13miles,Internal Medicine,34.0492967,-118.2171632
+"Lee, Timothy Daehoon, MD","1720 CESAR E. CHAVEZ AVENUE, LOS ANGELES, CA 90033",(323) 268-5000,4.13miles,Internal Medicine,34.0492967,-118.2171632
+"Medina, Gilberto, MD","1720 E CESAR E CHAVEZ AVE STE 201, LOS ANGELES, CA 90033",(323) 260-5789,4.13miles,Family Practice,34.0492967,-118.2171632
+"Crown City Medical Group, Inc.","1542 E FLORENCE AVE, LOS ANGELES, CA 90001",(323) 584-0222,4.16miles,General Practice,33.9745128,-118.2461067
+"Villanueva, Juventino T., MD","1542 E FLORENCE AVE STE 300, LOS ANGELES, CA 90001",(323) 584-0222,4.16miles,Pediatrics - Newborn to 21,33.9745128,-118.2461067
+"Khalil, Nagy, MD","1557 E FLORENCE AVE, LOS ANGELES, CA 90001",(323) 584-1490,4.16miles,Pediatrics,33.9749421,-118.2461524
+"Hakim, Ragaie Lamie, MD","1557 E FLORENCE AVE, LOS ANGELES, CA 90001",(323) 584-1490,4.16miles,Pediatrics,33.9749421,-118.2461524
+"Munoz Martin Sanchez, Alma Angelica, MD","1828 E CESAR E CHAVEZ AVE STE 5000, LOS ANGELES, CA 90033",(323) 987-1200,4.16miles,Pediatrics,34.0512276,-118.2171883
+"Zamora, Antonio, MD","1828 E CESAR E CHAVEZ AVE STE 5000, LOS ANGELES, CA 90033",(323) 987-1200,4.16miles,Pediatrics,34.0512276,-118.2171883
+"Gailiunas, Paul Nathan, MD","1828 CESAR E. CHAVEZ AVENUE, SUITE 5000, LOS ANGELES, CA 90033",(323) 987-1200,4.16miles,Family Practice,34.0512276,-118.2171883
+"Rincon, Francisco I., MD","1828 E CESAR E CHAVEZ AVE STE 5000, LOS ANGELES, CA 90033",(323) 987-1200,4.16miles,Pediatrics,34.0512276,-118.2171883
+White Memorial Med Center-Boyle Heights Med Clinic,"1828 CESAR E. CHAVEZ AVENUE, SUITE 4600, LOS ANGELES, CA 90033",(323) 307-8585,4.16miles,Internal Medicine; Radiation Oncology; Palliative Medicine,34.0498782,-118.2157924
+"Anderson, Neville W., MD","321 N LARCHMONT BLVD STE 1020, LOS ANGELES, CA 90004",(323) 960-8500,4.2miles,Pediatrics,34.0767984,-118.3240289
+"Montegrande, Faye M., MD","321 N LARCHMONT BLVD STE 824, LOS ANGELES, CA 90004",(323) 464-0286,4.2miles,Internal Medicine,34.0767262,-118.3240494
+"Negussie, Suzanna S., MD","3717 S LA BREA AVE STE 201, LOS ANGELES, CA 90016",(323) 292-5600,4.2miles,Pediatrics,34.0191815,-118.3561261
+"Nacorda, Jason, DO","3743 S LA BREA AVE, LOS ANGELES, CA 90016",(323) 329-9900,4.21miles,Family Practice,34.0187271,-118.3563291
+"DeshMukh, Anagha A., MD","2219 E 1ST ST, LOS ANGELES, CA 90033",(323) 889-7830,4.29miles,Internal Medicine - 12 and older,34.0447816,-118.2114972
+St. Francis Multi-Specialty-Huntington Park,"2700 E SLAUSON AVE STE 200, HUNTINGTON PARK, CA 90255",(323) 588-8558,4.31miles,Family Practice,33.9888926,-118.2222554
+"Banta, Dante Atienza, MD","875 N WESTERN AVE, LOS ANGELES, CA 90029",(323) 461-0777,4.4miles,General Practice,34.0861401,-118.3094365
+"Gonzalez, Timothy M., MD","2750 E SLAUSON AVE, HUNTINGTON PARK, CA 90255",(323) 582-1863,4.41miles,Internal Medicine,33.9889494,-118.2211554
+Optum-Huntington Park (IM),"2750 E SLAUSON AVE, HUNTINGTON PARK, CA 90255",(323) 583-3010,4.41miles,Family Practice,33.9889494,-118.2211554
+Optum-Huntngtn Park(Peds),"2750 E SLAUSON AVE, HUNTINGTON PARK, CA 90255",(323) 582-1863,4.41miles,Pediatrics,33.9889494,-118.2211554
+Optum-Huntington Park (IM),"2750 E SLAUSON AVE, HUNTINGTON PARK, CA 90255",(323) 583-3010,4.41miles,Family Practice,33.9889494,-118.2211554
+"Segura, George Armando, MD","1828 EAST CESAR ECHAVEZ AVENUE, SUITE 5000, LOS ANGELES, CA 90033",(323) 987-1200,4.42miles,Pediatrics,34.0512276,-118.2171883
+"Lucero, Peter Agapay, MD","6347 PACIFIC BLVD, HUNTINGTON PARK, CA 90255",(323) 583-8383,4.51miles,General Practice; Family Practice,33.9822393,-118.2256845
+"Coloma, Mara A., MD","6347 PACIFIC BLVD, HUNTINGTON PARK, CA 90255",(323) 583-8383,4.51miles,General Practice,33.9822393,-118.2256845
+"Kohan, Mario A., MD","6347 PACIFIC BLVD, HUNTINGTON PARK, CA 90255",(213) 739-3269,4.51miles,General Practice,33.9822393,-118.2256845
+"Llado, Carmencita J., MD","6347 PACIFIC BLVD, HUNTINGTON PARK, CA 90255",(323) 583-8383,4.51miles,Internal Medicine - 18 and older,33.9822393,-118.2256845
+"Tamayo, Beatriz Eliana, MD","6347 PACIFIC BLVD, HUNTINGTON PARK, CA 90255",(323) 583-8383,4.51miles,Internal Medicine,33.9822393,-118.2256845
+"Dijamco, Ethel S., MD","6347 PACIFIC BLVD, HUNTINGTON PARK, CA 90255",(323) 583-8383,4.51miles,General Practice,33.9822393,-118.2256845
+"Soliman, Rasha, MD","6526 RUGBY AVE, HUNTINGTON PARK, CA 90255",(323) 583-2247,4.56miles,Family Practice,33.9797303,-118.2260272
+"Soliman, Tahani, MD","6526 RUGBY AVE, HUNTINGTON PARK, CA 90255",(323) 583-2247,4.56miles,General Practice,33.9797303,-118.2260272
+"Crown City Medical Group, Inc.","6601 RUGBY AVE STE 300, HUNTINGTON PARK, CA 90255",(323) 582-1177,4.59miles,General Practice,33.9791274,-118.2267456
+"Iniguez, Walfredo R., MD","6601 RUGBY AVE STE 300, HUNTINGTON PARK, CA 90255",(323) 582-1177,4.59miles,Pediatrics - Newborn to 18,33.9791274,-118.2267456
+"Devera, Oscar S., MD","6601 RUGBY AVE STE 300, HUNTINGTON PARK, CA 90255",(323) 582-1177,4.59miles,Pediatrics,33.9791274,-118.2267456
+"Villanueva, Juventino T., MD","6601 RUGBY AVE STE 300, HUNTINGTON PARK, CA 90255",(323) 582-1177,4.59miles,Pediatrics - Newborn to 21,33.9791274,-118.2267456
+"Paredes, Potenciano Reynoso, MD","617 W MANCHESTER AVE, LOS ANGELES, CA 90044",(323) 750-9715,4.59miles,Pediatrics - Newborn to 21,33.9604182,-118.2845915
+"Valenzuela, Efren S., MD","617 W MANCHESTER AVE, LOS ANGELES, CA 90044",(323) 750-9715,4.59miles,Pediatrics,33.9604182,-118.2845915
+"Daniel, Chancelor, MD","617 W MANCHESTER AVE, LOS ANGELES, CA 90044",(323) 750-9715,4.59miles,Family Practice,33.9604182,-118.2845915
+"Soliman, Jimmy H., MD","617 W MANCHESTER AVE, LOS ANGELES, CA 90044",(323) 778-6215,4.59miles,Internal Medicine - 13 and older,33.9604182,-118.2845915
+"Danielyan, Nouneh Oganesovna, MD","5220 SANTA MONICA BLVD STE E, LOS ANGELES, CA 90029",(323) 913-9300,4.61miles,Internal Medicine - 12 and older,34.0905613,-118.3042303
+"Karapetian, Michael Yurevich, MD","5220 SANTA MONICA BLVD STE E, LOS ANGELES, CA 90029",(323) 913-9300,4.61miles,Internal Medicine,34.0905613,-118.3042303
+"Romanenko, Dmitriy, MD","2670 E GAGE AVE STE 4, HUNTINGTON PARK, CA 90255",(323) 588-2005,4.61miles,Obstetrics & Gynecology - CA PCP,33.9812016,-118.2230117
+"Ter-Zakarian, Hovanes John, MD","5250 SANTA MONICA BLVD STE 310, LOS ANGELES, CA 90029",(323) 663-9831,4.61miles,General Practice; Family Practice,34.0905824,-118.3048159
+"Pehlevanian, Garo Z., MD","5250 SANTA MONICA BLVD STE 207, LOS ANGELES, CA 90029",(323) 664-0857,4.61miles,Internal Medicine; Cardiovascular Disease,34.0906071,-118.304687
+"Artinyan, Ludvik, MD","5300 SANTA MONICA BLVD STE 200, LOS ANGELES, CA 90029",(323) 461-5882,4.62miles,General Practice,34.0905437,-118.3054646
+"Rostami, Nejat, MD","1080 N WESTERN AVE, LOS ANGELES, CA 90029",(323) 957-8787,4.62miles,General Practice,34.0902995,-118.3087971
+"Khalil, Nagy, MD","2719 E GAGE AVE, HUNTINGTON PARK, CA 90255",(323) 277-0272,4.68miles,Pediatrics,33.9819521,-118.2219116
+"Hakim, Ragaie Lamie, MD","2719 E GAGE AVE, HUNTINGTON PARK, CA 90255",(323) 277-0272,4.68miles,Pediatrics,33.9819521,-118.2219116
+"Olaes, Lamberto S., MD","1267 N VIRGIL AVE, LOS ANGELES, CA 90029",(323) 664-7628,4.68miles,Internal Medicine,34.0954212,-118.2869437
+Axminster Medical Group - Slauson Internal Med,"4314 W SLAUSON AVE, LOS ANGELES, CA 90043",(323) 293-7171,4.69miles,Internal Medicine,33.9886838,-118.3509888
+Axminster Medical Group-Slauson Ped,"4314 W SLAUSON AVE, LOS ANGELES, CA 90043",(323) 293-7171,4.69miles,Pediatrics,33.9886838,-118.3509888
+"Andersen, Kristen Nicole, MD","4314 W SLAUSON AVE, LOS ANGELES, CA 90043",(323) 293-7171,4.69miles,Pediatrics - Newborn to 21,33.9886838,-118.3509888
+"El Asmar, Imad Aziz, MD","1234 N VERMONT AVE, LOS ANGELES, CA 90029",(323) 660-5624,4.7miles,Internal Medicine,34.0943041,-118.2915401
+"Gindi, Magdi Riad, MD","1110 N WESTERN AVE STE 201, LOS ANGELES, CA 90029",(323) 463-6881,4.72miles,General Practice; Family Practice,34.0913877,-118.3089974
+"Gindi, Nabila Erian, MD","1110 N WESTERN AVE STE 201, LOS ANGELES, CA 90029",(323) 463-6881,4.72miles,General Practice; Family Practice,34.0913877,-118.3089974
+"Shah, Kiritkumar S., MD","3444 WHITTIER BLVD, LOS ANGELES, CA 90023",(323) 268-6751,4.78miles,Family Practice,34.0269177,-118.199685
+"Eldessouky, Amani A., MD","1704 W MANCHESTER AVE STE 109, LOS ANGELES, CA 90047",(323) 778-8485,4.8miles,Family Practice,33.9597076,-118.3070359
+"Bulaon, Carlos O., MD","3500 WHITTIER BLVD STE 105, LOS ANGELES, CA 90023",(323) 262-8100,4.83miles,Family Practice,34.0262648,-118.1984119
+"Watchi, Ralph M., MD","1300 N VERMONT AVE STE 901, LOS ANGELES, CA 90027",(323) 912-9221,4.83miles,Pediatrics; Pediatric Infectious Disease,34.096093,-118.291173
+"AIDS Healthcare Foundation, Inc.","1300 N VERMONT AVE STE 407, LOS ANGELES, CA 90027",(323) 662-0792,4.83miles,Internal Medicine; Infectious Disease,34.0961369,-118.2906555
+"Ngan, George, MD","1300 N VERMONT AVE STE 506, LOS ANGELES, CA 90027",(213) 989-6959,4.83miles,Internal Medicine,34.0963224,-118.2903015
+"Lagman, Rosario, MD","1300 N VERMONT AVE STE 802-A, LOS ANGELES, CA 90027",(323) 660-6363,4.83miles,Pediatrics - Newborn to 18,34.0964,-118.2911692
+"Feldsher, Zhanna, MD","1300 N VERMONT AVE STE 606, LOS ANGELES, CA 90027",(323) 660-6200,4.83miles,Pediatrics,34.0961896,-118.2908638
+"Al-Jazayrly, Ghassan M., MD","1300 N VERMONT AVE STE 606, LOS ANGELES, CA 90027",(323) 660-6212,4.83miles,Internal Medicine; Hematology/Oncology,34.0961896,-118.2908638
+"Kalindjian, Krikor Israel, MD","1300 N VERMONT AVE STE 807, LOS ANGELES, CA 90027",(323) 660-5191,4.83miles,Internal Medicine - 18 and older,34.0963224,-118.2903015
+"Kunnawuthidee, Kamoltipya C., MD","1300 N VERMONT AVE STE 702, LOS ANGELES, CA 90027",(323) 928-2799,4.83miles,Pediatrics - Newborn to 18,34.096032,-118.2910096
+"Galdamez, Violeta Auxiliadora, MD","6831 SEVILLE AVE, HUNTINGTON PARK, CA 90255",(323) 581-8234,4.86miles,Pediatrics,33.9770776,-118.2227604
+"Lakha, Rumi K., DO","7136 PACIFIC BLVD STE 225, HUNTINGTON PARK, CA 90255",(323) 588-5467,4.86miles,Family Practice,33.9745115,-118.2248046
+"DeLeaver-Russell, Margo P., MD","2928 EAST CESAR CHAVEZ AVENUE, LOS ANGELES, CA 90033",(323) 266-6700,4.86miles,Pediatrics - Newborn to 21,34.0433208,-118.2008731
+"Madatovian, Harut, DO","2928 E CESAR E CHAVEZ AVE, LOS ANGELES, CA 90033",(323) 266-6700,4.86miles,Family Practice; Sports Medicine,34.0433208,-118.2008731
+"Madatovian, Harut, DO","2928 E CESAR E CHAVEZ AVE, LOS ANGELES, CA 90033",(323) 266-6700,4.86miles,Family Practice; Sports Medicine,34.0433208,-118.2008731
+"Feldsher, Zhanna, MD","2928 EAST CESAR CHAVEZ AVENUE, LOS ANGELES, CA 90033",(323) 266-6700,4.86miles,Pediatrics,34.0433208,-118.2008731
+"Singleton, Michael J., MD","8880 S BROADWAY, LOS ANGELES, CA 90003",(323) 750-1196,4.88miles,Internal Medicine,33.9558574,-118.2779001
+"Zevallos, Edwin W., MD","6915 SEVILLE AVE, HUNTINGTON PARK, CA 90255",(323) 588-9800,4.9miles,Internal Medicine - 12 and older,33.9764653,-118.222806
+"Shadi, Payam, MD","5901 W OLYMPIC BLVD STE 404, LOS ANGELES, CA 90036",(323) 938-9999,4.91miles,Internal Medicine; Sleep Medicine,34.0579328,-118.3601785
+"Gladstein, Jay Edward, MD","5901 W OLYMPIC BLVD STE 310, LOS ANGELES, CA 90036",(310) 550-1010,4.91miles,Internal Medicine; Infectious Disease,34.0579322,-118.3601754
+"Kruglyakov, Svetlana, MD","5901 W OLYMPIC BLVD STE 503B, LOS ANGELES, CA 90036",(323) 456-0500,4.91miles,Pediatrics,34.0579402,-118.3601262
+"Gladstein, Jay Edward, MD","5901 W OLYMPIC BLVD STE 500, LOS ANGELES, CA 90036",(323) 215-1725,4.91miles,Internal Medicine; Infectious Disease,34.0579402,-118.3601262
+"Peters, Anne Louise, MD","5901 W OLYMPIC BLVD STE 208, LOS ANGELES, CA 90036",(323) 936-8283,4.91miles,Internal Medicine,34.0579368,-118.3601822
+"Mora, Lawrence A., MD","5901 W OLYMPIC BLVD STE 404, LOS ANGELES, CA 90036",(323) 456-0185,4.91miles,Family Practice,34.0579328,-118.3601785
+"Rahban, Alfred, MD","5901 W OLYMPIC BLVD STE 307, LOS ANGELES, CA 90036",(323) 939-3669,4.91miles,Internal Medicine; Nephrology,34.0579368,-118.3601823
+"Visnyei, Koppany, MD","5901 W OLYMPIC BLVD STE 401, LOS ANGELES, CA 90036",(310) 651-9017,4.91miles,Internal Medicine,34.0579251,-118.36009
+"Gladstein, Jay Edward, MD","5901 W OLYMPIC BLVD STE 310, LOS ANGELES, CA 90036",(323) 215-1725,4.91miles,Internal Medicine; Infectious Disease,34.0579322,-118.3601754
