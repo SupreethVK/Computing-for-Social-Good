@@ -21,4 +21,4 @@
 
 ### Pilot-1 Survey --->  https://drive.google.com/file/d/1V3lDHAHE9te6tqa8BtXDixawhn4lOhXj/view?usp=sharing
 
-### Pilot-2 Survey --->  https://drive.google.com/file/d/1vvvAmmCY3LNAXyCKLSFJV_kfhe9PvzHg/view?usp=sharing
+### Pilot-2 Survey --->  https://docs.google.com/forms/d/1MOTAYMxpBdKwg4-hjRZPPSWB9wwb_7IPC8EpTvmHZMI/viewanalytics
