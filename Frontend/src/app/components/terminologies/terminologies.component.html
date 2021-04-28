@@ -1,6 +1,6 @@
 <div class="container">
     <mat-toolbar>
-        Let's see what are the most important healthcare insurance terminologies that you should be aware of! <br>
+        Let's see what are the most important healthcare insurance terminologies that you should be aware of!
     </mat-toolbar>
 </div>
 <div class="content">
@@ -10,13 +10,13 @@
           <mat-card-header>
             <mat-card-title>{{terminology[0]}}</mat-card-title>
           </mat-card-header>
-          <div class="embed-responsive embed-responsive-16by9">
+          <mat-card-content>
+          <h2 *ngIf="hoveredElement === terminology[0]">
+                {{terminology[1]}}
+          </h2>
+          <div class="embed-responsive embed-responsive-16by9" >
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/DBTmNm8D-84" allowfullscreen></iframe>
           </div>
-          <mat-card-content *ngIf="hoveredElement === terminology[0]">
-          <p>
-                {{terminology[1]}}
-            </p>
           </mat-card-content>
         </mat-card>
       </div>

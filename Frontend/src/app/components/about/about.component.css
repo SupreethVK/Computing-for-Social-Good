@@ -382,10 +382,6 @@ body {
 	visibility: visible
 }
 
-.features_part .single_blog_item:hover h3 {
-	color: #0065e1!important
-}
-
 @media(max-width:991px) {
 	.features_part .single_blog_item {
 		margin-bottom: 40px
