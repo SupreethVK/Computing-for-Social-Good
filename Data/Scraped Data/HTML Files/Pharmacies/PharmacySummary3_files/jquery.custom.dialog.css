@@ -1,0 +1,153 @@
+@CHARSET "ISO-8859-1";
+.dialog-content{
+	border: 1px solid #cccccc;
+	background-color:#ffffff;
+	font-family:Arial;
+	color:#333333;
+	margin:10px 15px;
+	padding:15px;
+	postion:relative;
+
+	height:120px;
+
+	overflow:auto; 
+
+	
+}
+.dialog-content-wrap{
+	background-color:#e9ecbf;
+	color:#000000;
+}
+.dialog-transparent-border{
+	background-color:#000000;
+	float:left;
+	opacity:0.6;
+	filter:alpha(opacity=60);
+}
+
+.backgroundPistachio .group_100_unbordered .dialog-content, 
+.backgroundPistachio .group_100_unbordered .dialog-content .popupText, 
+.backgroundPistachio .popupText .group__unbordered,
+.backgroundPistachio .popupText table.group_100_unbordered
+{
+	background-color: #FFFFFF;
+}
+
+.dialog-main-wrapper{
+	
+}
+
+.dialog-title{
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+	color: #002776;
+	margin-top: 20px;	
+}
+
+.dialog-subtitle{
+	font-family: Arial;
+	font-size: 13px;
+	color:#333333;
+	margin-top: 20px;
+	padding-left: 15px;
+}
+
+.dialog-dialogText{
+
+padding:0px 27px 15px 35px;
+}
+
+.dialog-button-holder{
+	margin-bottom: 20px; 
+}
+.dialog-button-holder table{
+	margin: 0px auto;
+	text-align:center;
+}
+
+.dialog-button-cell{
+	padding-right: 10px;
+}
+
+.dialog-close-button{
+	background: transparent url(../images/btn_close_blk.gif) no-repeat top right;
+	height:16px;
+	width:16px;
+	top: 25px;
+	right: 30px;	
+	z-index:1005;
+	cursor: pointer;
+}
+
+.dialog-modal{
+	background-color:#000000;
+	opacity:0.6;
+	filter:alpha(opacity=60);
+}
+
+/* for buttons*/
+
+.gold_button a:link, .gold_button a:visited, .gold_button a:hover,.gold_button a:active{
+      color:#FFFFFF;
+      text-decoration:none;
+      font-family:Arial;
+      font-size:14px;
+      font-weight:bold;
+      line-height:23px;
+      text-align:center;
+      text-transform:uppercase;
+}
+.gold_button {
+      position:relative;
+      float:left;
+      background-image: url("../images/BTN_gold_center_fill.gif");
+      height: 22px;
+      z-index: 0;
+      text-decoration: none;
+ 
+      color: white;
+      font-weight: bold;
+}
+
+.gold_button label{
+	position:relative;
+	top: 4px!important;
+
+}
+.gold_button_left {
+      position:relative;
+      float:left;
+      width: 75px; /* Changed */
+      height: 23px;
+      background-image: url("../images/close_btn.gif");/* Changed */
+      background-repeat:no-repeat;
+      cursor:pointer; 
+      z-index: 0;
+      
+      text-decoration: none;
+}
+.gold_button_right {
+      position:relative;
+      float:left;
+      width: 7px;
+      height: 23px;
+      background-image: url("../images/BTN_gold_right.gif");
+      background-repeat:no-repeat;
+      cursor:pointer; 
+      z-index: 0;
+      
+      text-decoration: none;
+}
+
+.gold_button_right_arrow {
+      position:relative;
+      float:left;
+      width: 25px;
+      height: 23px;
+      background-image: url("../images/BTN_gold_right_arrow.gif");
+      background-repeat:no-repeat;
+      cursor:pointer; 
+      
+      text-decoration: none;
+}

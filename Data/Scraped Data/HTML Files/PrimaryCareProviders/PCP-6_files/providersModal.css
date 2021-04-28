@@ -1,0 +1,185 @@
+
+/*Report incorrect information block*/
+
+.inc_header{
+	width: 95%;
+	color: #fff;
+    font-size: 24px;
+    font-family: 'Domaine Display';
+}
+
+@media (min-width: 300px) and (max-width:500px)
+{
+	.inc_header {
+		color: #fff;
+		font-size: 24px;
+		font-family: 'Domaine Display';
+		width: 75%;
+		text-align: left;
+	}
+}
+
+.inc_provider{
+	color: #2f3338;
+    font-weight: bold !important;
+    margin-bottom: 15px;
+}
+.inc_provider h1{
+	font-size: 24px;
+    font-weight: normal !important;
+}
+.report_buttons_block{
+	/*float: left;*/
+    margin: 10px 20px !important;
+    padding-left: 20px !important;
+}
+.report_chkBox{
+	margin-bottom: 15px;
+    padding: 0px;
+}
+.chk_report_span {
+	width: 8% !important;
+    height: 25px;
+    display: block;
+}
+
+.RIP_padding{
+	padding-left:0px !important;
+}
+.RIP_font{
+	font-size:18px;
+}
+.RIP_font_res{
+	font-size:18px;
+}
+.txt_report_span{
+	width:89%;
+    float:right;
+}
+
+@media (min-width: 994px){
+  .RIP_options_dental {
+      width: 22% !important;
+  }
+  .RIP_options_bh {
+      width: 33% !important;
+  }
+}
+
+@media (min-width: 768px){
+  .modal-custom-dialog {
+      width: 75% !important;
+  }
+}
+@media (min-width: 760px){
+	.txt_report_span{
+  	width:89% !important;
+      float:right;
+  }
+}
+@media (min-width: 400px) and (max-width:500px) {
+	.txt_report_span{
+  	width:88% !important;
+      float:right;
+  }
+}
+@media (min-width: 300px) and (max-width:350px) {
+	.txt_report_span, .txt_report_span1, .txt_report_dynamic, .txt_report_dynamic_hos{
+  	width:83% !important;
+      float:right;
+    }
+  .RIP_Dynamic_Padding{
+  	/*commenting since the purple box looked a bit shifted*/
+  	/* padding-left:5px !important; */
+
+  }
+}
+@media (min-width: 350px) and (max-width:400px) {
+	.txt_report_span, .txt_report_span1, .txt_report_dynamic{
+  	width:86% !important;
+      float:right;
+  }
+}
+
+.changeLocation {
+	overflow:scroll;
+}
+
+.paddingTopZero{
+	padding-top: 0px !important;
+}
+
+/*
+.radioButton:checked {
+	-webkit-appearance:none;
+   width:18px;
+  height:18px;
+  border:1px solid #7D3F98;
+  border-radius:50%;
+  outline:none;
+  background:#7D3F98;
+} */
+
+.radioButton:checked::before{
+	background: #7D3F98;
+}
+.radioButton::before{
+	content: '';
+	display: block;
+	width: 60%;
+	height: 60%;
+	margin: 20% auto;
+	border-radius: 50%;
+}
+
+ .radioButton {
+  -webkit-appearance:none;
+  width:20px;
+  height:20px;
+  border:2px solid #7D3F98;
+  border-radius:50%;
+  outline:none;
+
+}
+.radio-text{
+padding-left: 16px !important;
+}
+
+.unchkLabel {
+  /* background: url("../../images/radial_button_unselected.png") no-repeat 0px 0px; */
+  width: 18px;
+  height: 18px;
+  margin: 0px 7px -4px;
+  display: inline-block;
+}
+.chkLabelRadio {
+  /* background: url("../../images/radial_button_selected.png") no-repeat 0px 0px; */
+     width: 18px;
+  height: 18px;
+  margin: 0px 7px -4px;
+  display: inline-block;
+}
+.unchkLabelCheck {
+  background-image: url("../../images/checkin-box.png");
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  width: 26px;
+  height: 22px;
+  float: left;
+}
+.chkLabelCheck {
+  /* background-image: url("../../images/check-in-checked.png"); */
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  width: 26px;
+  height: 22px;
+  float: left;
+}
+.radio-bg .border,
+.checkboxbg .border {
+  border: 2px solid #076f86;
+  border-radius: 2px;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(0, 0, 125, 0.6);
+  width: 22px;
+  height: 22px;
+}

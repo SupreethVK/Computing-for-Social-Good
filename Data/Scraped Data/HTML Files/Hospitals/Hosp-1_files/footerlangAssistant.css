@@ -1,0 +1,415 @@
+.footer-langAssistant{
+	margin-top: 75px;
+    font-size: 14px;
+}
+@media (max-width:767px){
+	.footer-langAssistant{
+		margin-top: 75px;
+	  font-size: 14px;
+		padding-left:20px;
+	}
+}
+
+.footer-langAssistant > a,.footer-langAssistant > a > span{
+	color: #7D3F98;
+	font-weight: bold;
+    font-size: 16px;
+    padding-left: 0px !important;
+    float : none !important;
+}
+
+@media (max-width: 767px){
+	.aet-footer-logo {
+		padding: 10px 0px;
+	}
+}
+
+
+ #new-footer{
+ 	    text-align: left;
+ }
+
+ #new-footer-innova{
+ 	    text-align: left;
+ 	    /*tactical fix*/
+ 	    display: none;
+ }
+
+
+
+ #loginFailureText {
+     text-align: center;
+    margin-top: 20px;
+}
+.tooltip-inner {
+	background-color: #fff;
+    color: black;
+    font-weight: 800;
+    font-size: 14px;
+    opacity: 1;
+    font-family: Calibri,Arial,sans-serif;
+    border: 2px solid #0ba2c3;
+}
+.tooltip.in {
+	opacity: 1;
+}
+.tooltip.top .tooltip-arrow {
+	border-top-color: #0ba2c3;
+	bottom: -3px;
+	border-width: 10px 10px 0;
+}
+.logtip-block1 .hint-txt, .logtip-block2 .hint-txt{
+	list-style-type: disc;
+	text-align: left;
+	margin-left: 20px;
+}
+
+
+
+.access-denied-footer{
+	margin-top:150px !important;
+}
+
+.access-denied-btn:hover,.access-denied-btn:focus{
+	cursor:pointer;
+	text-decoration:none !important;
+	color: #ffffff !important;
+}
+
+.error{
+	color: #333;
+}
+.login-header{background: #fff; border-bottom: 1px solid #ccc;}
+.login-nav,.login-nav>li{float: left;}
+#loginget-urgent-care{margin-top: 6px;margin-bottom: 6px;}
+.login-nav > li > a{padding-top: 15px;padding-bottom: 15px; font-size: 14px; font-weight: bold;}
+.login-nav > li > a .arr-icon-blue{margin-bottom: -1px;}
+.registration-Info{text-align: left;}
+nav.login{border-bottom: 2px solid #4E7D2A; *//*border-top: 1px solid #d4d4d4;*/}
+/* nav.login .primaryBtn{padding: 8px 12px;}
+.limited-login-container{display: none;}
+.login-container-header{height: 45px;background: #4E7D2A;border: 1px solid #ccc;border-bottom: none; }
+.login-container-header h2{color:#fff;font-size: 28px;position: relative;top: 17%;padding-left: 15px;}
+.login-container-content{background: #fff;padding-right: 15px;padding-left: 0;padding-bottom: 0px;padding-top: 0px;}
+.login-container-content #LimitedLogin{padding-bottom: 15px;}
+#MemberLogin,#LimitedLogin{padding-left: 15px;min-height: 250px;}
+.Registor {padding-top: 25px; padding-bottom: 25px; border-top: 1px solid #ccc;}
+#MemberLogin fieldset,#LimitedLogin fieldset{padding-top: 35px;padding-bottom: 25px;margin-left: -15px;margin-right: -15px;padding-left: 15px;padding-right: 15px;border-top: none;}
+.note{margin-bottom: 0px;}
+.login-container-content .control-label, .span-check-txt{color: #565656; font-size: 14px; font-weight: bold;  text-align: right; margin-top: 7px;}
+.Registor span{display: block;}
+.login-header #aet-logo { padding: 10px 0 10px 25px;} */
+/* img{text-indent: 100vw;} */
+/* .forgot-cls{font-size: 10.5pt; font-weight: bold;}
+.span-check-txt{margin-top: 1px;}
+.checkboxbg{margin-top: 20px;}
+.Registor span{color: #333; font-weight: normal; font-size: 10.5pt;}
+.Registor span strong{color: #000; font-weight: bold; font-size: 14pt;}
+.note span{color: #333; font-size: 10.5pt;}
+#aet-footer.login-footer{padding: 20px 0 0;} */
+/* .primaryBtn{margin-right: 0px;} */
+/* .Registor .register-btn{padding-left: 0px; padding-right: 0px; width: 33%;}
+.Registor .register-btn button{width: 80%; margin-top: 12px;}
+.take-a-tour{display: inline-block; margin-top: 20px; font-weight: bold; font-size: 18px;margin: 20px 5px 20px 0px;padding: 0px 0px 0px 40%;}
+.register-btn a .blue_arrow_log{margin: 0px 0 0 6px;}
+.navigationTab .primaryBtn{font-size: 11pt; margin-right: 10px;}
+.login-main .primaryBtn{font-size: 11pt; padding: 12px 30px;}
+.member-login-container{padding: 0px;}
+.Registor .col-sm-4 button{width: 114px;}
+.blue_arrow_log{margin: -2px 0 0 6px;}
+.login-container-content .control-label{
+	line-height: 30px;
+}
+.form-control {
+    background-color: #eee;
+    border: 0 none;
+    border-bottom: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-radius: 0px;
+} */
+/* .arr-icon-blue {
+    background: url(../images/blue-arrow.png) no-repeat 0 0;
+    height: 12px;
+    width: 13px;
+    display: inline-block;
+} */
+/* .login-container-content .form-group{
+    margin-bottom: 25px;
+}
+.login-container{
+	background-color: #fff;
+    max-width: 991px;
+	margin: 50px auto 10px;
+}
+
+#aet-logo a{
+	margin-left: 29px;
+} */
+/* #MemberLogin .form-group{width: 75%; margin: 30px auto 0 auto;} */
+/* #MemberLogin fieldset{position: relative;}
+#MemberLogin fieldset legend{width: 80%; font-size: 18px; position: absolute; top: 10px; left: 10%; text-align: center; border-bottom: 0 none;}
+.get-urgent-login{
+	margin-top: -28px;
+}
+#username-hint .modal-dialog, #password-hint .modal-dialog{ margin: 200px auto;}
+#MemberLogin .form-group.password-block{
+	margin-top: 10px;
+}
+@-moz-document url-prefix() {
+	input.checkbox{
+		opacity: 0;
+	}
+}
+.login-fluid-layout .login-container-content{width: 60%; margin: 0 auto;}
+@media all and (min-width: 768px){
+	#MemberLogin fieldset legend{width: 100%; left: 0%;} */
+	/*  #user-name-label {margin-left: -8%;}  */
+	/* #userName { */
+		/* margin-left: -2%; */
+		/* float: left;
+		display:inline-flex;
+		} */
+/* 	.desktop-only{display: block;}
+	.login-nav{display: none;}
+	.navigationTab{margin-bottom: 5px;margin-top: 5px;}
+	.login-container-content{padding: 15px;padding-left: 0;}
+	#loginget-urgent-care {margin-top: 6px;}
+	.limited-login-container #LimitedLogin{border-left: 1px solid #ccc;}
+	.limited-login-container{display: block;}
+	.login-container-header{border: none;}
+	#MemberLogin fieldset,#LimitedLogin fieldset{ *//*padding-top: 60px;padding-bottom: 35px;*//* border: none;}
+	#LimitedLogin fieldset {padding-bottom: 141px;}
+	.Registor {background: #fff;margin: 0;padding: 20px 0 0 0;margin-bottom: 5px;}
+	.aet-copyrights{text-align: left;}
+	#loginget-urgent-care{margin-top: 0px;}
+	.login-fluid-layout{width: 100%;}
+	.login-fluid-layout .login-container-content{width: 60%; margin: 0 auto;}
+	.checkboxbg{margin-top: 2px;}
+	#MemberLogin .col-sm-11 .primaryBtn{margin-right: 2px; width: 30%}
+	.login-main .primaryBtn{padding: 12px 10px; width: 100%; margin-left: 41%;}
+	.Registor .col-xs-8, .Registor .col-sm-7, .Registor .col-sm-4{padding-right: 0px;}
+	.Registor .col-sm-4{padding-left: 0px;}
+	.Registor .col-sm-4 button{margin-top: 20px; margin-right: 12px; width: 80%;}
+	.note{padding-bottom: 43px;}
+	.login-header #aet-logo{padding: 18px 0 22px 25px;}
+	.login-container{ margin: 30px auto;}
+	#loginget-urgent-care{margin-bottom: 0px;}
+	#aet-logo a{	margin-left: 14px;}
+	#MemberLogin .form-group{width: 100%; margin: 30px auto 0 auto;}
+	.aet-red-btn{padding: 6px 20px;}
+	.take-a-tour{padding: 0 0 0 45%;}
+	.aet-red-btn{padding: 9px 30px;}
+
+	.get-urgent-login{
+		margin-top: 0px;
+	}
+	.login-container-content .control-label{
+		line-height: 20px;
+	}
+	#password-label	{
+		left: -7px !important;
+	}
+	#MemberLogin .form-group.password-block{
+		margin-top: 30px;
+	}
+	.for-user-blk a, .rem-me-blk > div{ */
+		/*float: right;*/
+/* 	}
+	.for-user-blk a{
+		margin-top: 10px;
+		display: inline-block;
+	}
+	.pull-right.forgot-cls{
+		float: left !important;
+	}
+}
+
+@media all and (min-width: 991px){
+	#LimitedLogin fieldset{padding-bottom: 120px;}
+
+	#MemberLogin .col-sm-11 .primaryBtn{margin-left: 50%;}
+	#MemberLogin .form-group{width: 77%; margin: 30px auto 0 auto;}
+
+	.take-a-tour{padding: 0 0 0 50%;}
+	.bottom-links {
+		text-align: right;
+	}
+	.bottom-links .forgot-cls {
+		margin-left: 3%;
+	}
+
+}
+@media (min-width: 500px) and (max-width: 767px){
+	.get-urgent-login {
+		margin-top: -35px;
+	}
+}
+}
+@media (min-width: 768px) and (max-width: 991px){
+	#MemberLogin .col-sm-11 .primaryBtn{width: 40%; margin-left: 40%;}
+	.aet-content-header .aet-cont-hdrtxt { margin-left: 0px;}
+	#MemberLogin .form-group {margin: 50px auto 0 auto;}
+	.take-a-tour{padding: 0 0 0 45%;}
+}
+}
+@media (min-width: 1200px){
+	.container {
+		width: 870px;
+	}
+}
+
+@media (min-width: 920px){
+	.col-md-8 {
+		width: 66.6666667%;
+	}
+}
+
+@media all and (max-width: 345px){
+	#MemberLogin fieldset legend{
+		font-size: 16px;
+		left: 40px;
+		line-height: 20px;
+	}
+	#MemberLogin fieldset .form-group:first-child{margin: 60px auto 0 auto;}
+	.Registor span{font-size: 10pt; width: 122px;}
+	.take-a-tour{padding: 0px 0px 0px 35%;}
+	.checkboxbg {margin-top: 30px;}
+}
+@media all and (max-width: 360px){
+	.Registor span{font-size: 10pt;}
+}
+
+.hints li{
+	text-align: left;
+	margin-left: 25px;
+    list-style-type: disc;
+}
+
+#username-hint .modal-header,#password-hint .modal-header{
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.login-container-content .control-label{ */
+	/*color: #076f86;*/
+/* 	text-decoration: none;
+
+}
+
+@media all and (max-width: 767px){
+.user-response {
+
+    margin-top: 45px;
+}
+.rem-me-blk {
+	margin-top: -23px;
+}
+.login-fluid-layout .login-container-content{width: 100%; margin: 0 auto;}
+} */
+
+/* #user-name-label {margin-left: -2%;}
+} */
+
+/*@media (min-width: 768px) and (max-width: 1024px){
+ 	#MemberLogin fieldset legend{width: 130%; left: 33px; position: relative; margin-bottom: -15%;}
+
+#user-name-label {
+	padding:0;
+}
+}*/
+
+/* .divider-image {
+    margin-left: 3%;
+    height: 20px;
+}
+.mrgnR10 {
+    margin-right: 10px;
+}
+@media all and (max-width: 500px){
+	h1#landing-pop-txt{
+		font-size: 22px;
+	}
+	.digicertImg {
+		margin-top: 30px;
+	}
+	.bottom-links img.last {
+		display: none;
+	}
+	.bottom-links .forgot-cls {
+		display: block;
+		margin-top: 5px;
+	}
+} */
+/* @media screen and (min-width: 1025px){
+	#MemberLogin fieldset legend{width: 130%; left: -60px;}
+} */
+
+
+
+/* @media all and (max-width: 768px){
+	.login-container-content .bottom-links {
+		padding-left: 0px;
+	}
+	.login-container-content .divider-image {
+		margin-right: 3%;
+		display: none;
+	}
+}
+.checkboxbg span{
+	margin-left: 0px;
+}
+
+@media all and (-ms-high-contrast: active), (-ms-high-contrast: none){
+	.login-container {
+		margin: 30px auto;
+	}
+	 .login-fluid-layout {
+		width: 100%;
+	}
+	.login-fluid-layout .login-container-content {
+		width: 60%;
+		margin: 0 auto;
+	}
+	.login-container-content {
+		padding: 15px;
+		padding-left: 0;
+	}
+	#MemberLogin fieldset, #LimitedLogin fieldset {
+		border: none;
+	}
+	#MemberLogin fieldset legend {
+		width: 100%;
+		left: 0%;
+	}
+	#MemberLogin .form-group {
+		width: 77%;
+		margin: 30px auto 0 auto;
+	}
+	.col-sm-8 {
+		width: 66.66666667%;
+		float:right;
+	}
+	#MemberLogin .form-group.password-block {
+		margin-top: 30px;
+	}
+	#password-label,#user-name-label{
+		margin-left:35px;
+	}
+	.login-main .primaryBtn {
+		padding: 12px 10px;
+		width: 100%;
+		margin-left: 41%;
+	}
+	.bottom-links {
+		text-align: right;
+	}
+}
+
+@media (max-width: 767px){
+
+@-moz-document url-prefix(){
+		.aet-red-btn:focus {
+			border: 1px dotted #076f86;
+			padding: 8px 29px;
+		}
+	}
+} */

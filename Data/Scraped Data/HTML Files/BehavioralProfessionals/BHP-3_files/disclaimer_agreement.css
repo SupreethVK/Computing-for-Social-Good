@@ -1,0 +1,64 @@
+.user-agreement{
+	background-color: #fff;
+	padding: 15px;
+	border: 1px solid #ccc;
+	margin: 15px 0;
+}
+.user-agreement-content{
+	margin-left: 25px;
+}
+.user-agreement-content a{
+	font-weight: bold;
+}
+.logged-in-as{
+	padding: 10px 0;
+	font-weight: bold;
+	color: #69747a;
+}
+.user-agreement h3{
+    font-size: 18px;
+    font-weight: bold;
+}
+.user-agreement ul li{
+	list-style:disc;
+}
+.user-agreement .marl20{
+	margin-left:20px;
+}
+.content-head{
+	    font-size: 20px;
+
+}
+
+.cButtons{
+	max-width:300px;
+	margin:0 auto;
+}
+
+.disclaimer.cButtons{
+	max-width: 225px;
+}
+.cancel{
+	float:right;
+}
+.continue{
+	float:left;
+}
+.less-content{
+	min-height: 500px;
+}
+.arr-icon-blue{
+	margin-left: 6px;
+	display: inline-block !important;
+}
+#goto-bot, #goto-top{
+	margin: 20px 0 20px 20px;
+}
+#goto-bot img, #goto-top img{
+	margin-right: 6px;
+}
+@media screen and (max-width:768px) {
+	.user-agreement-content{
+		margin: 0;
+	}
+}
